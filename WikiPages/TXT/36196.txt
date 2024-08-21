@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  725 Modul-ID:99</span><br><br /><h3>Exportieren</h3><p>Die aktuelle Ansicht wird exportiert.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\99_725.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  725 Modul-ID:99</span><hr/>

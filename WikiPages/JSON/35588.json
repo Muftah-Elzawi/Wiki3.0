@@ -1,0 +1,7 @@
+{
+  "PageID": 35588,
+  "PageGuid": "64d19ad1-9a9e-45ea-8278-cf233afd3f42",
+  "Title": "topfact6 MyWork - MyWork FibuConnect - Addison Übernahme",
+  "Content": "Letzte Aktuallisierung am : 25.03.2024\r\nModul-ID : 62\r\nMyWork FibuConnect\r\nBelege können kontiert und anschließend exportiert werden.\r\n\r\n\r\nBeginn Funktions-ID: 220 Modul-ID:62\r\nAddison Übernahme\r\nÖffnet einen Dialog zur Umwandlung einer PDS Buchungsdatei in eine Addison Buchungsdatei. \r\n\r\n\r\n\r\nParameter der Funktion\r\nArchiv \r\n-> Auswahl des Archivs in dem der Beleg archiviert wurde.\r\nEingabeverzeichnis\r\n-> Speicherort der pds Buchungsdatei.\r\nAusgabeverzeichnis\r\n-> Speicherort, in den die Addison Buchungsdatei gespeichert wird.\r\nEnde Funktions-ID: 220 Modul-ID:62",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=64d19ad1-9a9e-45ea-8278-cf233afd3f42"
+}

@@ -1,0 +1,7 @@
+{
+  "PageID": 36102,
+  "PageGuid": "19608fbe-b12f-4da7-947f-fae02c36a0eb",
+  "Title": "topfact6 Administration - Administration Berichte - Organisation ändern",
+  "Content": "Beginn Funktions-ID: 622 Modul-ID:86\r\nOrganisation ändern\r\nÖffnet einen Dialog um zu einer anderen Organisation zu wechseln. \r\n\r\n\r\n\r\nParameter der Funktion\r\nAktuelle Organisation\r\n-> Die aktuell verwendete Organisation.\r\nneue Organisation\r\n-> Die Organisation zu der gewechselt werden soll.\r\nEnde Funktions-ID: 622 Modul-ID:86",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=19608fbe-b12f-4da7-947f-fae02c36a0eb"
+}

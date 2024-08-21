@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  487 Modul-ID:83</span><br><br /><h3>Datenauswahl: Löschen</h3><p>Entfernt die fokussierte Datenauswahl, es kann anschließend nicht mehr auf diese Datenauswahl zugegriffen werden.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\83_487.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  487 Modul-ID:83</span><hr/>

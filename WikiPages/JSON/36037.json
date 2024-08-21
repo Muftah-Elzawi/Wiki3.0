@@ -1,0 +1,7 @@
+{
+  "PageID": 36037,
+  "PageGuid": "9d0431c2-7b06-454d-8bdf-ff435c867733",
+  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Kostenträger: Import",
+  "Content": "Beginn Funktions-ID: 587 Modul-ID:85\r\nKostenträger: Import\r\nÖffnet einen Dialog zum Import von Kostenträgern. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Der importierte Kostenträger wird dieser Organisation zugewiesen.\r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen.\r\nCSV-Datei\r\n-> Auswahl der zu importierenden Datei.\r\nEnde Funktions-ID: 587 Modul-ID:85",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=9d0431c2-7b06-454d-8bdf-ff435c867733"
+}

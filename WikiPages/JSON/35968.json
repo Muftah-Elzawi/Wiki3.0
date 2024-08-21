@@ -1,0 +1,7 @@
+{
+  "PageID": 35968,
+  "PageGuid": "1bcad76d-f6ad-4e69-8e95-79c5fbdd0df4",
+  "Title": "topfact6 Administration - Administration MyWork Aufgaben - DMS Felder: Anlegen",
+  "Content": "Beginn Funktions-ID: 515 Modul-ID:84\r\nDMS Felder: Anlegen\r\nÖffnet einen Dialog mit dem ein neues DMS Feld angelegt werden kann. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Es werden die DMS Felder für die ausgewählte Organisation definiert.\r\nFelder: Bearbeiten\r\n-> Bearbeitet ein DMS Feld mittels eines Dialogs.\r\nFelder: Löschen\r\n-> Entfernt das fokussierte Feld aus der Liste. \r\nFelder: Aktualisieren\r\n-> Aktualisiert die Ansicht der Felder. Änderungen werden evtl. erst nach einer Aktualisierung angezeigt. \r\nEnde Funktions-ID: 515 Modul-ID:84",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=1bcad76d-f6ad-4e69-8e95-79c5fbdd0df4"
+}

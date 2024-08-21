@@ -1,0 +1,7 @@
+<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=DBF4062E-1731-43A4-9E52-3FB42A3C3F5D" target="_blank">Wiki-Link	topfact6 Administration - Administration Anwendungsarchive - Ansicht drucken </a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=3F5E8D87-62CE-4690-9002-0B3420049EA7" target="_blank">Wiki-Link	topfact6 Administration - Administration Anwendungsarchive - Exportieren</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=9B380E51-E1E7-4732-B8D1-D53C41874357" target="_blank">Wiki-Link	topfact6 Administration - Administration Anwendungsarchive - Aktualisieren</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=0D4C8D17-C661-45D8-A36F-42677E76CDA4" target="_blank">Wiki-Link	topfact6 Administration - Administration Anwendungsarchive - Entfernen</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=B38C2613-EB73-467B-9957-C5219BC50797" target="_blank">Wiki-Link	topfact6 Administration - Administration Anwendungsarchive - Webservice ändern</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=C65FC649-372C-438E-9F1B-1B8A14CDF99A" target="_blank">Wiki-Link	topfact6 Administration - Administration Anwendungsarchive - Bearbeiten</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=81141264-01B2-4B64-8563-DA215765CB2D" target="_blank">Wiki-Link	topfact6 Administration - Administration Anwendungsarchive - Hinzufügen</a>

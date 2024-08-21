@@ -1,0 +1,7 @@
+{
+  "PageID": 35796,
+  "PageGuid": "c18bc685-ab47-4986-bab6-4781a02abd26",
+  "Title": "topfact6 MyWork - MyWork Beleglisten - Suchkriterien: hinzufügen",
+  "Content": "Beginn Funktions-ID: 315 Modul-ID:70\r\nSuchkriterien: hinzufügen\r\nÖffnet einen Dialog mit dem ein neues Suchkriterium angelegt werden kann.\r\n\r\n\r\n\r\nParameter der Funktion\r\nArchivfeld\r\n-> Das Archivfeld ist das Indexdatenfeld auf das dich das Suchkriterium bezieht.\r\nArt\r\n-> Legt fest ob es sich bei dem Eintrag des Feldes um eine Variable oder einen Wert handelt\r\nEnde Funktions-ID: 315 Modul-ID:70",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=c18bc685-ab47-4986-bab6-4781a02abd26"
+}

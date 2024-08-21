@@ -1,0 +1,7 @@
+{
+  "PageID": 31659,
+  "PageGuid": "32b2fc3d-5976-48ee-83c1-fbf39b23e853",
+  "Title": "SD-Synch zur Vearbeitung von ODBC-Daten",
+  "Content": "Anwendungsfall:\r\nAbholung und Verarbeitung von Datenbanktabellen aus einem Drittsystem über eine ODBC Schnittstelle oder einen direkten MSSQL Server Zugriff\r\n\r\nVoraussetzungen:\r\nDas Drittsystem stellt eine ODBC Schnittstelle oder den direkten Zugriff auf einen SQL Server zur Verfügung\r\nDie ODBC Schnittstelle muss auf dem topfact6 System erreichbar und eingerichtet sein \r\n\r\nBeispiel: \r\nDie Stammdatentabellen \"Kunden und Lieferanten\" sowie \"Projekte\" aus einem ERP-System sollen in den Indexdaten des Archivs, der automatischen Prozessabwicklung in topfact Produkten oder in Berichten verwendet werden. \r\n·Die Anwender haben nach der Synchronisierung die Liste der Kunden und Lieferanten in topfact MyWork zur Verfügung.\r\n· Archivierte Dokumente werden automatisch mit den vollständigen Daten zu Projekt, Bearbeiter und Kundeninformationen verschlagwortet\r\n·In topfact Berichten werden alle Eingangs- und Ausgangsrechnungen zu einzelnen Projekten ausgewertet\r\n\r\nweitere Dokumentation: \r\nkeine",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=32b2fc3d-5976-48ee-83c1-fbf39b23e853"
+}

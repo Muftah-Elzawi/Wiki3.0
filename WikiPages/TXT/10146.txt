@@ -1,0 +1,1 @@
+Die PDS C Welt ist ein Host-Anwendung auf Unix oder Linux Basis. Die Datenpalttform ist eine C-ISAM Dateidatenbank. Diese kann über ODBC Treiber abgefragt werden, dabe werden je nach Lizenzfreischaltung durch die PDS zusätzliche Daten angezeigt.

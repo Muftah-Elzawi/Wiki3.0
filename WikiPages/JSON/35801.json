@@ -1,0 +1,7 @@
+{
+  "PageID": 35801,
+  "PageGuid": "e4604f42-9a13-4945-8013-1bf89e912764",
+  "Title": "topfact6 MyWork - MyWork Benutzereinstellungen - Reiter Aufgaben: Aufgabenbenachrichtigung aktivieren… Benachrichtigung alle … Minuten",
+  "Content": "Letzte Aktuallisierung am : 25.03.2024\r\nModul-ID : 71\r\nMyWork Benutzereinstellungen\r\nÖffnet die MyWork Benutzereinstellungen.\r\n\r\n\r\nBeginn Funktions-ID: 132 Modul-ID:71\r\nReiter Aufgaben: Aufgabenbenachrichtigung aktivieren… Benachrichtigung alle … Minuten\r\nDer User bekommt Benachrichtigungen zu seinen Aufgaben. Es kann selbst gewählt werden mit welchem zeitlichen Abstand die Benachrichtigungen angezeigt werden. \r\n\r\n\r\n\r\nParameter der Funktion\r\nBenachrichtigungsintervall\r\n-> Zeitlicher Abstand in dem die Aufgabenbenachrichtigungen angezeigt werden\r\nHinweis\r\nDie Funktion muss aktiviert sein. Nach der Aktivierung dieser Funktion muss MyWork neu gestartet werden.\r\nEnde Funktions-ID: 132 Modul-ID:71",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=e4604f42-9a13-4945-8013-1bf89e912764"
+}

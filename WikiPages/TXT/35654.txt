@@ -1,0 +1,3 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  269 Modul-ID:68</span><br><br /><h3>Aufgabe erstellen mit Workflow</h3><p>Erstellt eine zu dem Dokument zugehörige Aufgabe mit einer Workflow Vorlage.
+
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\68_269.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  269 Modul-ID:68</span><hr/>

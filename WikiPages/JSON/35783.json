@@ -1,0 +1,7 @@
+{
+  "PageID": 35783,
+  "PageGuid": "d17922df-3ae7-416e-9cdb-a0998908b6b3",
+  "Title": "topfact6 MyWork - MyWork Beleglisten - Neue statische Belegliste erstellen",
+  "Content": "Beginn Funktions-ID: 310 Modul-ID:70\r\nNeue statische Belegliste erstellen\r\nÜber das Kontextmenü der statischen Beleglisten kann eine neue statische Belegliste angelegt werden.\r\n\r\n\r\n\r\nParameter der Funktion\r\nArchiv \r\n-> In dem Archiv werden die Belege abgelegt.\r\nErgebnisdialog\r\n-> Dieser Ergebnisdialog ist in der Ergebnisliste gültig. Der Ergebnisdialog ist von gewählten Archiv abhängig.\r\nName\r\n-> Benennung der Belegliste\r\nBeschreibung\r\n-> Erläuterungen zur Belegliste\r\nHinweis\r\nDas Kontextmenü kann per Rechtsklick auf den Ordner statische Listen aufgerufen werden.\r\nEnde Funktions-ID: 310 Modul-ID:70",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=d17922df-3ae7-416e-9cdb-a0998908b6b3"
+}

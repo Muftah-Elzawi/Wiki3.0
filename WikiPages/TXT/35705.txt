@@ -1,0 +1,7 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  192 Modul-ID:69</span><br><br /><h3>Aufgabe mit Workflow</h3><p>Klick auf das Symbol "Aufgabe mit Workflow" öffnet einen Dialog zum Anlegen einer Aufgabe. (1)
+
+In dem Dialog werden die Aufgabenart, Bezeichnung, Beschreibung, Priorität sowie das Start- und Fälligkeitsdatum der Aufgabe festgelegt. Der Titel der Aufgabe und die Beschreibung werden dabei automatisch ausgefüllt.  Das geöffnete Dokument wird der Aufgabe automatisch hinzugefügt. (2)
+
+Sie können Ihre Aufgeben in MyWork im Reiter Aufgaben einsehen und verwalten. Weitere Informationen zu den Aufgaben finden Sie im Funktionsbereich: MyWork Aufgaben.
+
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_192.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  192 Modul-ID:69</span><hr/>

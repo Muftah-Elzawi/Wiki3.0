@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  482 Modul-ID:83</span><br><br /><h3>Stempel: Kopieren</h3><p>Kopiert den Stempel und legt einen neuen Stempel mit identischen Einträgen an. Die Kopie wird in der Übersicht mit dem Zusatz "Kopie" gekennzeichnet.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\83_482.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  482 Modul-ID:83</span><hr/>

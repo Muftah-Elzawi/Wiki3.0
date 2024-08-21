@@ -1,0 +1,5 @@
+ <style>
+      h6 {
+        background-color: #fff00;
+      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 90<br /><h1>Administration Sitzungen</h1><p>Übersicht über alle von Benutzern durchgeführten Sitzungen.</p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  656 Modul-ID:90</span><br><br /><h3>Aktualisieren</h3><p>Die Ansicht der Übersicht wird aktualisiert.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\90_656.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  656 Modul-ID:90</span><hr/>

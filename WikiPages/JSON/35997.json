@@ -1,0 +1,7 @@
+{
+  "PageID": 35997,
+  "PageGuid": "e3c8f2b0-f25a-40e4-84b9-3fb21fa0cda4",
+  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Belegarten: Bearbeiten",
+  "Content": "Beginn Funktions-ID: 574 Modul-ID:85\r\nBelegarten: Bearbeiten\r\nÖffnet einen Dialog zur Bearbeitung der fokussierten Beleg Art. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die Belegart wird mit der Organisation verknüpft.\r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen.\r\nBelegart\r\n-> Bezeichnung der Belegart.\r\nFiBu Belegart\r\n-> Bezeichnung der Belegart in der FiBu.\r\nBeschreibung\r\n-> Anlegen einer Beschreibung für die Belegart.\r\nEnde Funktions-ID: 574 Modul-ID:85",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=e3c8f2b0-f25a-40e4-84b9-3fb21fa0cda4"
+}

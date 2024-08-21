@@ -1,0 +1,4 @@
+<h2>Frage</h2>
+<div>Gemeldetes Verhalten<br />- E-Mails in einem Exchange-Ordner werden nicht archiviert<br />- Sonstiges GWC-Verhalten störungsfrei<br /><br /></div>
+
+<h2>Antwort / Lösung</h2>Störung stellt sich in Administration so dar:<br />- GWC zeigt keine Fehlermeldungen<br />- Postfachinhalt ist beim Aufruf über Administration leer<div>- in der Browseranwendung des Exchange-Postfaches sind jedoch E-Mails sichtbar<br /><br />Ursache: Zeitraum der Archivierung war zu kurz eingestellt. Kunde wollte ältere E-Mails archivieren, die aufgrund des Eingangsdatums vom GWC nicht erkannt worden<br /><br /></div><div>Anzeige des Ordnerinhalts berücksichtigt den Archivierungszeitraum</div>

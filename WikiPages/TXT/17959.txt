@@ -1,0 +1,6 @@
+<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=858C664E-7102-4A44-ACB1-C4452B034793" target="_blank">Wiki-Link	topfact6 Administration - Administration Formular Erkennung - Daten filtern</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=577CA01A-5A57-4CB8-B32D-A820B4E58960" target="_blank">Wiki-Link	topfact6 Administration - Administration Formular Erkennung - Ansicht aktualisieren</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=A9346D6B-D821-4D54-8D08-D40A92D645C1" target="_blank">Wiki-Link	topfact6 Administration - Administration Formular Erkennung - Status setzen</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=FA70BF89-54F7-4E84-9C7C-58867627D7C6" target="_blank">Wiki-Link	topfact6 Administration - Administration Formular Erkennung - Vorgang löschen </a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=D6C8302F-50BC-4D3C-968A-A58387E39A1E" target="_blank">Wiki-Link	topfact6 Administration - Administration Formular Erkennung - Dokument herunterladen</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=98AFBEF9-13E5-4C20-B9DA-989D19EAEF59" target="_blank">Wiki-Link	topfact6 Administration - Administration Formular Erkennung - Ergebnis anzeigen</a>

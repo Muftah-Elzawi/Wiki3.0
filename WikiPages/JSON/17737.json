@@ -1,0 +1,7 @@
+{
+  "PageID": 17737,
+  "PageGuid": "5e9e6b9b-9801-4d6f-a575-2191682e99bb",
+  "Title": "topfact6 Systemvoraussetzungen - E-Mail Abholung aus Exchange oder Microsoft 365 über GWC",
+  "Content": "topfact archiviert E-Mails oder E-Mail Anhänge automatisch aus Mailpostfächern. Dazu wird über das Jobserver GWC Modul angewendet. Je nachdem welches Microsoft Produkt eingesetzt wird liegen unterschiedliche Systemvoraussetzungen zur Anbindung vor.\r\n\r\nE-Mail-Archivierung mit Exchange Server (EWS)\r\nZur Einrichtung einer Archivierungsverbindung für Exchange Server werden in topfact folgende Einstellungsparameter benötigt:\r\n·Webservice URL\r\n·Postfach Mailadresse\r\n·Administrationsuser für die Mailadresse (Identitätswechsel, Exchange Impersonation)\r\n·Kennwort des Administrationsuser\r\n·Domäne\r\nHinweis zu Identitätswechsel\r\n\r\n\r\nE-Mail-Archivierung mit Microsoft 365\r\n\r\nDie Einrichtung der automatischen E-Mail-Archivierung für Microsoft 365 Konten benötigt:\r\n\r\n·Tenant / Domain\r\n·ClientId / Anwendungs-ID\r\n·Client Secret (Clientschlüssel-Wert)\r\nSystemanforderungen an Firewall\r\nfolgende Ziel-Verbindungen werden von unserem Modul GWC M365 angesprochen und müssen vom Server aus erreichbar sein:\r\n·graph.microsoft.com\r\n·login.microsoftonline.com",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=5e9e6b9b-9801-4d6f-a575-2191682e99bb"
+}

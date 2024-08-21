@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  230 Modul-ID:64</span><br><br /><h3>nächste Seite </h3><p>Wechsel zur nächsten Seite des Berichts.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\64_230.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  230 Modul-ID:64</span><hr/>

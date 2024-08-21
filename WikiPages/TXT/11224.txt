@@ -1,0 +1,61 @@
+<h1>Aufgabenbereiche</h1><ol><li>Anbindung ERP</li><li>Anbindung CRM</li><li>Vertragsworkflow (Topteam Contract Management)</li><li>Vertragsarchiv (DocuWare Archiv)</li></ol><h1>Terminplanung</h1><p class="MsoListParagraphCxSpFirst" style="margin-left: 54pt; text-indent: -18pt;"><strong>1.<span style="font-weight: normal; font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Organisationsphase</strong></p><p class="MsoListParagraphCxSpMiddle" style="margin-left: 90pt; text-indent: -18pt;">a.<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Kundeninterne Klärung der endgültigen
+funktionalen Anforderungen (Felddefinitionen, Funktionsbeschreibungen und
+geplante Auswertungen). Zusendung an topfact bis 04.09.2015</p><p class="MsoListParagraphCxSpMiddle" style="margin-left: 90pt; text-indent: -18pt;">b.<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Besprechung der Anforderungen telefonisch am
+08.09. von 10 Uhr bis 12 Uhr.</p><p class="MsoListParagraphCxSpMiddle" style="margin-left: 90pt; text-indent: -18pt;">c.<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Beschreibung der Umsetzung durch topfact bis
+10.09.</p><p class="MsoListParagraphCxSpMiddle" style="margin-left: 90pt; text-indent: -18pt;">d.<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Freigabe durch TRANPOREON bis 11.09. <span style="color: #c00000;">Ende der Organisationsphase</span>.<br />
+<br />
+</p><p class="MsoListParagraphCxSpMiddle" style="margin-left: 54pt; text-indent: -18pt;"><strong>2.<span style="font-weight: normal; font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Einrichtungsphase</strong></p><p class="MsoListParagraphCxSpMiddle" style="margin-left: 90pt; text-indent: -18pt;">a.<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Technische Fertigstellung bis 28.09. Übergabe am
+28./29.09. </p><p class="MsoListParagraphCxSpMiddle" style="margin-left: 90pt; text-indent: -18pt;">b.<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lizenzen und Systeme sind bereitgestellt und
+lauffähig.<br />
+<span style="color: #c00000;">Ende der Einrichtungsphase<br />
+<br />
+</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-left: 54pt; text-indent: -18pt;"><strong>3.<span style="font-weight: normal; font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Testphase</strong></p><p class="MsoListParagraphCxSpMiddle" style="margin-left: 90pt; text-indent: -18pt;">a.<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Testphase des Kunden ab 01.10.2015 bis
+16.10.2015. Übergabe der Prüfungs- und Änderungsmitteilungen bis 16.10.2015.<br />
+<br />
+</p><p class="MsoListParagraphCxSpMiddle" style="margin-left: 54pt; text-indent: -18pt;"><strong>4.<span style="font-weight: normal; font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Dokumentation und Übergabe</strong></p><p class="MsoListParagraphCxSpMiddle" style="margin-left: 90pt; text-indent: -18pt;">a.<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Technische Feinjustierung und
+Systemdokumentation 19.-21.10.2015</p><p class="MsoListParagraphCxSpMiddle" style="margin-left: 90pt; text-indent: -18pt;">b.<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Abschließende Key-User Schulung und
+Systemübergabe am 22.10.2015 – <span style="color: #c00000;">Projektende<br />
+<br />
+</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-left: 54pt; text-indent: -18pt;"><strong>5.<span style="font-weight: normal; font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Echtumgebung</strong></p><p class="MsoListParagraphCxSpMiddle" style="margin-left: 90pt; text-indent: -18pt;">a.<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Umsetzung auf Echtumgebung durch TRANSPOREON vom
+26.-30.10.2015, sowie interne Schulungen.</p><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><p class="MsoListParagraphCxSpLast" style="margin-left: 90pt; text-indent: -18pt;">b.<span style="font-stretch: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Echtbetrieb ab 02.11.2015</p>

@@ -1,0 +1,1 @@
+<p>Tf Search erstellt Abfrageparameter für das DocuWare Archiv aus externen Anwendungen.</p><p>Hierbei werden Übergabeparemeter verwendet die durch tf Search interpretiert werden.</p><p>Das Ergebnis ist der Aufruf des DW Webclients und Darstellung der Belege für die übergebenen Parameter.&nbsp;</p>

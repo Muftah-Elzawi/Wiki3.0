@@ -1,0 +1,3 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  178 Modul-ID:69</span><br><br /><h3>letzte Seite </h3><p>Zeigt die letzte Seite des Dokuments an.
+Hotkey: Strg + Down
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_178.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  178 Modul-ID:69</span><hr/>

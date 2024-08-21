@@ -1,0 +1,5 @@
+ <style>
+      h6 {
+        background-color: #fff00;
+      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 97<br /><h1>Administration Datenpflege</h1><p>Übersicht über die zur Verfügung stehenden Datenpflegen.</p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  701 Modul-ID:97</span><br><br /><h3> Bearbeiten</h3><p>Öffnet einen Dialog mit dem ein Eintrag der Datenpflege bearbeiten werden kann.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\97_701.png" alt="" /><br /></div><br><br /><span style="color: #303030; font-weight: 500; text-align: left; text-decoration-color: initial; background-color: #ffff00; ">Hinweis</span><br /><p>Die Parameter dieser Funktionen hängen von der Datenpflege ab. Die Parameter sind die Spaltennamen der Tabelle.</p><span style="color: #808080;"> Ende Funktions-ID:  701 Modul-ID:97</span><hr/>

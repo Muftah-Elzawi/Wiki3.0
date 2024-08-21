@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  245 Modul-ID:63</span><br><br /><h3>Ansicht exportieren</h3><p>Der fokussierte Datensatz wird als CSV Datei exportiert.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\63_245.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  245 Modul-ID:63</span><hr/>

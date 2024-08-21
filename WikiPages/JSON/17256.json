@@ -1,0 +1,7 @@
+{
+  "PageID": 17256,
+  "PageGuid": "8c6eb324-87b3-464a-95e5-8e0ea588acda",
+  "Title": "Wie kann ich eine fehlerhafte MSSQL Datenbank reparieren",
+  "Content": "Dieser Artikel beschreibt wie fehlerhafte MSSQL Datenbanken geprüft und automatisch repariert werden können.\r\nAchtung, das anwenden der Befehle erfolgt \"auf eigenes Risiko\".\r\nSichern Sie falls möglich die Datenbank.\r\n\r\n-- 1. Den Status der betroffenen Datenbank zurücksetzen\r\nEXEC sp_resetstatus 'topfact6';\r\nALTER DATABASE topfact6 SET EMERGENCY;\r\n \r\n-- 2. Datenbank auf beschädigte Objekte überprüfen\r\nDBCC checkdb('topfact6');\r\n \r\n-- 3. Datenbank in Single User mode setzen\r\nALTER DATABASE topfact6 SET SINGLE_USER WITH ROLLBACK IMMEDIATE;\r\n \r\n-- 4. Reparaturversuch ohne Datenverlust\r\nDBCC CheckDB ('topfact6', REPAIR);\r\nDBCC CheckDB ('topfact6', REPAIR_REBUILD);\r\n \r\n-- 5. Reparaturversuch mit Datenverlust der beschädigten Objekte\r\nDBCC CheckDB ('topfact6', REPAIR_ALLOW_DATA_LOSS);\r\n \r\n-- 6. Datenbank wieder online schalten\r\nALTER DATABASE topfact6 SET MULTI_USER;",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=8c6eb324-87b3-464a-95e5-8e0ea588acda"
+}

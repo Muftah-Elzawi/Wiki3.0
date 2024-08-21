@@ -1,0 +1,1 @@
+SQL Scripts die im SQL Server ausgeführt werden.

@@ -1,0 +1,7 @@
+{
+  "PageID": 35645,
+  "PageGuid": "d5ae6ae3-6c32-4283-8385-0abbc8623012",
+  "Title": "topfact6 MyWork - MyWork Aufgaben - Aufgabe zuweisen",
+  "Content": "Beginn Funktions-ID: 226 Modul-ID:67\r\nAufgabe zuweisen \r\nDie Aufgabe wird einem neuen Bearbeiter zugewiesen. Es öffnet sich ein Dialog, in den der neue Bearbeiter, dessen Benutzername und Emailadresse eingetragen werden.\r\n\r\n\r\n\r\nParameter der Funktion\r\nNeuer Bearbeiter\r\n-> Name des Users/der Gruppe von Usern der/die von nun an für die Bearbeitung der Gruppe verantwortlich sein soll.\r\nBenutzername\r\n-> Benutzername des neuen Bearbeiters. Wird nach der Auswahl des Bearbeiters automatisch gesetzt.\r\nEmail Adresse\r\n-> Email Adresse des neuen Bearbeiters. Wird nach der Auswahl des Bearbeiters automatisch gesetzt.\r\nHinweis\r\nBenutzername und Emailadresse werden häufig nach Eingabe des Bearbeiters automatisch vervollständigt.\r\nEnde Funktions-ID: 226 Modul-ID:67",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=d5ae6ae3-6c32-4283-8385-0abbc8623012"
+}

@@ -1,0 +1,1 @@
+<p><strong>Zur Aktivierung des Installationsmodus auf Terminalserver</strong></p><ol><li>CMD Box im Administratormodus öffnen</li><li>Change user /Install (aktiviert den Modus)<br /></li><li>Change user /execute (deaktiviert den Modus)<br /></li></ol>

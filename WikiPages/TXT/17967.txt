@@ -1,0 +1,8 @@
+<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=9C943530-FE22-4F87-8E26-65BF60F10D52" target="_blank">Wiki-Link	topfact6 Administration - Administration Lizensierung - Benutzeranmeldungen</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=785C504E-B8AE-4A1D-B2BC-10B2649C2548" target="_blank">Wiki-Link	topfact6 Administration - Administration Lizensierung - Benutzer bearbeiten</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=819BCBFE-63E3-4554-912C-6CF8C96C49DC" target="_blank">Wiki-Link	topfact6 Administration - Administration Lizensierung - Ansicht drucken </a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=486DCE78-E4FF-4D16-AF00-50216577893A" target="_blank">Wiki-Link	topfact6 Administration - Administration Lizensierung - Exportieren</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=E9B719A3-F3BC-4A16-8DB1-77A12E8AF7B5" target="_blank">Wiki-Link	topfact6 Administration - Administration Lizensierung - Aktualisieren</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=73B48C1C-143A-419F-A7D6-0F674B229826" target="_blank">Wiki-Link	topfact6 Administration - Administration Lizensierung - Lizenz entfernen</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=57964936-742D-452D-AB4B-BA4FC96950C9" target="_blank">Wiki-Link	topfact6 Administration - Administration Lizensierung - Massenzuweisung</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=1D36F2FF-3A88-4600-AEA6-FDD35376EE96" target="_blank">Wiki-Link	topfact6 Administration - Administration Lizensierung - Lizenz zuweisen</a>

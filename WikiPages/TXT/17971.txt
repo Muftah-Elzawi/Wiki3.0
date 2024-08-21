@@ -1,0 +1,8 @@
+<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=A4CCDC61-36B2-43AF-835E-96199A488CC6" target="_blank">Wiki-Link	topfact6 Administration - Administration Organisation - Organisation exportieren</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=402E4551-9EBB-4F2E-9F02-C126B956B41F" target="_blank">Wiki-Link	topfact6 Administration - Administration Organisation - Organisation importieren</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=E5D3C77D-5C72-46ED-BE62-767F920C91D0" target="_blank">Wiki-Link	topfact6 Administration - Administration Organisation - Ansicht drucken </a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=4A31A8EE-EA78-4C29-AA46-4932EE227176" target="_blank">Wiki-Link	topfact6 Administration - Administration Organisation - Exportieren</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=C7CB502F-8EA8-4DDB-B9AF-DDD693324885" target="_blank">Wiki-Link	topfact6 Administration - Administration Organisation - Aktualisieren</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=DBEF1EEB-8530-4B26-BEBE-16A34D453384" target="_blank">Wiki-Link	topfact6 Administration - Administration Organisation - Löschen</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=44CBC176-B15E-4B72-8A25-28C884CFE457" target="_blank">Wiki-Link	topfact6 Administration - Administration Organisation -  Bearbeiten</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=A16E6DB8-0674-49AE-AEF3-F9DA89B1F113" target="_blank">Wiki-Link	topfact6 Administration - Administration Organisation -  Anlegen</a>

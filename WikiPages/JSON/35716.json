@@ -1,0 +1,7 @@
+{
+  "PageID": 35716,
+  "PageGuid": "785dc939-f901-40bd-a71c-26d818a9d930",
+  "Title": "topfact6 MyWork - MyWork QuickIndex - Export",
+  "Content": "Beginn Funktions-ID: 187 Modul-ID:69\r\nExport\r\nKlick auf den Button \"Export\" (1) öffnet ein Dropdownfeld, in dem die Optionen zum Export des Dokuments ausgewählt werden. Folgende Formate stehen zur Auswahl: Originalformat, PDF mit Anmerkungen, PDF ohne Anmerkungen oder aktuelle Seite als PDF. (2) Anschließend wird das Dokument im gewählten Dateiformat exportiert und im für dieses Format konfigurierten Dateipfad abgelegt. \r\n\r\n\r\n\r\nParameter der Funktion\r\nSpeicherort\r\n-> Der Ordner in den die Datei exportiert werden soll.\r\nEnde Funktions-ID: 187 Modul-ID:69",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=785dc939-f901-40bd-a71c-26d818a9d930"
+}

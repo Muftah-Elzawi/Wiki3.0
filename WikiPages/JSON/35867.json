@@ -1,0 +1,7 @@
+{
+  "PageID": 35867,
+  "PageGuid": "541629c0-b6bf-4dc3-9faf-12d1b93afe07",
+  "Title": "topfact6 Administration - Administration Jobserver Überwachung - Ordner bearbeiten",
+  "Content": "Beginn Funktions-ID: 398 Modul-ID:75\r\nOrdner bearbeiten\r\nÖffnet einen Dialog mit dem der fokussierte Ordner bearbeitet werden kann.\r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Auswahl der Organisation zu der dieser Ordner gehört. \r\nKategorie\r\n-> Angabe des Jobservermoduls zu dem der Ordner gehört.\r\nOrdner\r\n-> Auswahl des zu überwachenden Ordners. Optional werden auch alle Unterordner des ausgewählten Ordners überwacht.\r\nAnzahl von Dateien\r\n-> Die gesamt Anzahl von Dateien die sich in dem Ordner oder Unterordnern befinden.\r\nAnzahl Unterordner\r\n-> Die Anzahl von Unterordnern die sich in dem Ordner befinden.\r\nOrdnergröße in MB\r\n-> Gesamtgröße des Ordners, wird berechnet über die Summe der Größe aller sich in dem Ordner befindlichen Dateien.\r\nEnde Funktions-ID: 398 Modul-ID:75",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=541629c0-b6bf-4dc3-9faf-12d1b93afe07"
+}

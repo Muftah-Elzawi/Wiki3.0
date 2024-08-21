@@ -1,0 +1,7 @@
+{
+  "PageID": 10570,
+  "PageGuid": "66712500-b5ca-4d10-abc3-bc1270502ec1",
+  "Title": "Dienste neustarten",
+  "Content": "Das ist die empfohlene Vorgehensweise die Microsoft empfiehlt.\r\nDie Dienste des SQL Servers lassen sich über das Tool SQL Server Configuration Manager verwalten.\r\nDieses ist zu finden unter Start > Programme > Microsoft SQL Server [Version] > Konfigurationstools > SQL Server Configuration Manager.\r\n\r\n\r\nInnerhalb des Tools lassen sich alle Dienste starten und beenden. Systemeinstellunge können ebenfalls getroffen werden.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=66712500-b5ca-4d10-abc3-bc1270502ec1"
+}

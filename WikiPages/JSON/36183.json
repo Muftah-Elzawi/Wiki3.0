@@ -1,0 +1,7 @@
+{
+  "PageID": 36183,
+  "PageGuid": "335cac93-7bf5-4776-87ee-72358532ce2b",
+  "Title": "topfact6 Administration - Administration Datenpflege - Organisation ändern",
+  "Content": "Beginn Funktions-ID: 708 Modul-ID:97\r\nOrganisation ändern\r\nÖffnet einen Dialog um zu einer anderen Organisation zu wechseln \r\n\r\n\r\n\r\nParameter der Funktion\r\nAktuelle Organisation\r\n-> Die fokussierte Datenpflege gehört aktuell zu dieser Organisation\r\nNeue Organisation\r\n-> Die fokussierte Datenpflege wird dieser Organisation zugewiesen\r\nEnde Funktions-ID: 708 Modul-ID:97",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=335cac93-7bf5-4776-87ee-72358532ce2b"
+}

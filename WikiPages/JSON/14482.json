@@ -1,0 +1,7 @@
+{
+  "PageID": 14482,
+  "PageGuid": "8d1cc50b-24cf-4e37-8cf5-280af00358e5",
+  "Title": "Datensicherung der Notebooks und Clients",
+  "Content": "Es wurde  ein Domain-User pe/backup angelegt welcher auf allen PC die Daten sichern kann und Schreibrechte auf der NAS hat.\r\nDie zu verwendende Software liegt im Netzwerk. Bitte auf die aktuelle Version achten. \\\\pedc\\topfactAG\\Technik\\alte_Struktur\\Technik\\Software\\veeam\\VeeamEndpointBackup_1.5.0.306.zip\r\nAuf jedem PC oder Notebook, wo lokale Daten anfallen können ist die Datensicherung einzurichten.\r\nDer Pfad auf die NAS ist \\\\peds",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=8d1cc50b-24cf-4e37-8cf5-280af00358e5"
+}

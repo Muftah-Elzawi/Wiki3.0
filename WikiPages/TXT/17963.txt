@@ -1,0 +1,5 @@
+<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=4360F5C4-6A0C-4694-871C-6F1FD9712AB7" target="_blank">Wiki-Link	topfact6 Administration - Administration Jobserver Ordner - Ordner anlegen</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=11CA93DC-8AE2-46A1-83BB-41C058BBFE6E" target="_blank">Wiki-Link	topfact6 Administration - Administration Jobserver Ordner - Ansicht aktualisieren </a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=80E1089E-E631-41A4-BA7B-3A9A3C92E65E" target="_blank">Wiki-Link	topfact6 Administration - Administration Jobserver Ordner - Ordner löschen </a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=2B0403DA-D0AB-4EAD-84E7-44AA3A63B131" target="_blank">Wiki-Link	topfact6 Administration - Administration Jobserver Ordner - Ordner als Standard setzen</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=BA022833-4C31-4799-882D-8D233696ABB6" target="_blank">Wiki-Link	topfact6 Administration - Administration Jobserver Ordner - Ordner bearbeiten</a>

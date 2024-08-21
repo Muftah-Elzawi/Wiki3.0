@@ -1,0 +1,7 @@
+{
+  "PageID": 14583,
+  "PageGuid": "f2fae710-0b78-4dc9-aaf3-7a6d4c62980a",
+  "Title": "Aktivierung Swyx-User",
+  "Content": "(Re)Aktivierung Swyx-User\r\n \r\nRemotedesktopverbindung auf pewkswyx.\r\nStart der Swyxware-Administration (Desktop).\r\n\r\nAuswahl des Users der reaktiviert werden soll. Eigenschaften-Button, Benutzerkonten und weitere Einstellungen auswählen.\r\n\r\n\r\n\r\nÄndern der Namen (in Vorname Nachname), Mailadresse und der Beschreibung.\r\n\r\nIm Reiter Authentifizierung über Erweitert den neuen User Auswählen. Das Ändern des Kennwortes ist nicht notwendig (single sign on).\r\n\r\nAbschließend muss der User über das Kontextmenü wieder aktiviert werden.\r\n \r\nDetlev Eberhardt, 17.10.2016",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=f2fae710-0b78-4dc9-aaf3-7a6d4c62980a"
+}

@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  523 Modul-ID:85</span><br><br /><h3>Einstellungen: Entfernen</h3><p>Entfernt die fokussierte Einstellung aus der Liste.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\85_523.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  523 Modul-ID:85</span><hr/>

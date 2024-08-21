@@ -1,0 +1,7 @@
+{
+  "PageID": 17412,
+  "PageGuid": "b2b74583-1fbc-452a-829c-7ef8acf365ce",
+  "Title": "Einrichtung SMTP zum Versand von E-Mails aus MyWork",
+  "Content": "Frage\r\nWie erfolgt die Einrichtung von SMTP zum Versand von E-Mails aus MyWork?\r\nAntwort / Lösung\r\nIn der topfact6 Administration kann unter Systemeinstellungen der Versandserver mit seinen Zugangsdaten hinterlegt werden.\r\nTragen Sie die Werte ein und senden Sie sich ein Test-E-Mail.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=b2b74583-1fbc-452a-829c-7ef8acf365ce"
+}

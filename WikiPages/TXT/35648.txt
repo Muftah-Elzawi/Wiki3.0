@@ -1,0 +1,4 @@
+ <style>
+      h6 {
+        background-color: #fff00;
+      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 68<br /><h1>MyWork Dokumentenstruktur</h1><p>Zeigt alle für den Benutzer verfügbaren  Dokumentenstrukturen und zeigt die Ergebnisliste der fokussierten Dokumentenstruktur in Hauptbereich.</p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  249 Modul-ID:68</span><br><br /><h3> Ordnerstruktur</h3><p>Klick auf einen Ordner öffnet dessen Ergebnisliste.</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\68_249.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  249 Modul-ID:68</span><hr/>

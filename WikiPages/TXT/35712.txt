@@ -1,0 +1,9 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  165 Modul-ID:69</span><br><br /><h3>Dokument signieren</h3><p>Mit einem Klick auf das Wort QuickIndex öffnet sich ein Drop Down Menü indem sich ein Button "Dokument signieren" befindet.(1)
+Klick auf diesen Button öffnet einen Dialog mit den der Signaturvorgang konfiguriert und gestartet werden kann.
+
+Im Reiter Vorgang wird der Signaturvorgang konfiguriert. Es wird eine Beschreibung für den Vorgang festgelegt, standardmäßig wird hier die Beschreibung des Dokumentes eingetragen. Mit der Auswahlliste kann zwischen einer fortgeschrittenen und qualifizierten elektronischen Signatur gewählt werden. Über die Checkboxen kann festgelegt ob der Unterzeichner zusätzlich seinen Klarnamen eingeben muss und ob dieser und der Zeitpunkt der Unterschrift auf dem Dokument zu sehen sein sollen. Außerdem wird festgelegt, ob das Dokument nach dem Abschluss des Signaturvorgangs an alle beteiligten versendet werden soll. (2)
+
+Im Reiter Emails  können Sie die Email Adressen aller Personen eintragen, die über den Signaturvorgang informiert werden sollen. (3)
+
+Sie können ihre Signaturvorgänge in MyWork unter dem Menüpunkt MyWork Signaturen einsehen und verwalten. Weitere Informationen zur Signatur Funktion finden Sie im Funktionsbereich: MyWork Signatur. 
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_165.png" alt="" /><br /></div><br><br /><span style="color: #303030; font-weight: 500; text-align: left; text-decoration-color: initial; background-color: #ffff00; ">Hinweis</span><br /><p>Die Berechtigung Dokumente zu signieren muss  vorhanden sein. Beachten Sie auch, dass jeder Signaturvorgang ein kostenpflichtiger Vorgang ist.</p><span style="color: #808080;"> Ende Funktions-ID:  165 Modul-ID:69</span><hr/>

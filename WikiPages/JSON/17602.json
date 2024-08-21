@@ -1,0 +1,7 @@
+{
+  "PageID": 17602,
+  "PageGuid": "02c4adbd-4762-4389-a695-22c98938d55b",
+  "Title": "FAQ: Warum werden in DocuWare die Stempel nicht angezeigt?",
+  "Content": "Frage\r\nWarum werden Stempel auf den Dokumenten in DocuWare bei bestimmten Anwendern nicht angezeigt?\r\nAntwort / Lösung\r\nIn DocuWare wird auf Ebenen gestempelt oder kommentiert. Die Anwender können jedoch die Kommentare für die Ebenen ausschalten oder auch wieder einschalten.\r\nGehen Sie dazu im Beleganzeigefenster (DocuWare Viewer) in den oberen Bereich und aktivieren die Werkzeugleiste, falls diese noch nicht aktiv ist:\r\n \r\nDann aktivieren Sie im Funktionsbereich \"Anzeige\" die Schaltflächen für die Ansichtsaktivierung der Anmerkungsebenen.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=02c4adbd-4762-4389-a695-22c98938d55b"
+}

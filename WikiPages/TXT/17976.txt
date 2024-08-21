@@ -1,0 +1,4 @@
+<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=51C9D613-7036-4FEE-9C5B-2658CDCAD1EF" target="_blank">Wiki-Link	topfact6 Administration - Administration Vorlagen -  Aktualisieren</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=83E27A11-5BA3-4730-AB61-7C957D78AC92" target="_blank">Wiki-Link	topfact6 Administration - Administration Vorlagen - Löschen</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=6AD0355D-4512-40DE-8CF7-D9593C0C6F99" target="_blank">Wiki-Link	topfact6 Administration - Administration Vorlagen -  Bearbeiten</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=FC49DED7-5C2C-430C-B2EB-AE50E1FEDDA0" target="_blank">Wiki-Link	topfact6 Administration - Administration Vorlagen -  Anlegen</a>

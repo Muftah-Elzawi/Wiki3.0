@@ -1,0 +1,5 @@
+ <style>
+      h6 {
+        background-color: #fff00;
+      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 77<br /><h1>Administration Jobserver Ordner</h1><p>Übersicht über die Jobserver Ordner. Die Ordner können angelegt, bearbeitet und entfernt werden.</p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  420 Modul-ID:77</span><br><br /><h3>Ansicht aktualisieren </h3><p>Aktualisiert die Ansicht der Ordnerliste. 
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\77_420.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  420 Modul-ID:77</span><hr/>

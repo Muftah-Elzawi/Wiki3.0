@@ -1,0 +1,7 @@
+{
+  "PageID": 36078,
+  "PageGuid": "5702964c-23dc-4c43-bc03-41e6c3ab8180",
+  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Zahlungsbedingungen: Bearbeiten",
+  "Content": "Beginn Funktions-ID: 565 Modul-ID:85\r\nZahlungsbedingungen: Bearbeiten\r\nÖffnet ein Menü zur Bearbeitung der fokussierten Zahlungsbedingung. \r\n\r\n\r\n\r\nParameter der Funktion\r\nReiter Allgemein: Kreditor\r\n-> Angabe allgemeiner Informationen zu Kreditor. Zum Beispiel Nummer, Name oder Gegenkonto.\r\nReiter Allgemein: Kontaktinformationen\r\n-> Angabe der Kontaktinformationen des Kreditors.\r\nReiter Bankverbindung\r\n-> Angabe der Bankverbindung des Kreditors. \r\nReiter Zahlungsbedingung\r\n-> Konfiguration verschiedener Zahlungsbedingungen. Zum Beispiel Valuta oder Skonto. \r\nEnde Funktions-ID: 565 Modul-ID:85",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=5702964c-23dc-4c43-bc03-41e6c3ab8180"
+}

@@ -1,0 +1,7 @@
+{
+  "PageID": 16914,
+  "PageGuid": "78129bc8-1a2f-4beb-9905-50c93d4802d6",
+  "Title": "Einrichtung TFSearch für PDS-C",
+  "Content": "Detlev Eberhardt, 10.08.18\r\n\r\nEinrichtung TFSearch für PDS-C\r\nBeispiel-Konfigurationen: \\\\pedc\\topfact AG\\Einarbeitungen\\Qualität\\Einrichtungsbeispiele und Einrichtungsempfehlungen\\Beispiel zur TFSEARCH\r\n\r\nVoraussetzungen für die Verwendung von TF-Search aus PDS-C\r\n \r\na.           RegKey von PDS (Docunet Key)\r\n              Computer\\HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\DocuNet\\DocuWare\\ExArch\r\n              Beispiel in Path \"C:\\Users\\xy.domäne\\AppData\\Roaming\\TopFact\\TopFact5\\tfsearch.exe\" \r\n\r\n\r\nb.           Regkey von topfact (Serverpath) \r\n             Computer\\HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Topfact             \r\n             Beispiel in serverpath \"\\\\docuware-server\\topfact\"\r\nc.            Der PFad aus b. hat ein Unterverzichnis \"config\". Dort ist die Exarchconfig.ini in der auf den Searchpath des tatsächlichen PDS/Exarch-Systems verweisen wird.\r\nd.           Der User muss auf den Searchpath schreibend zugreifen können. Im Zweifelsfall muss der lokale Explorer den Exarch-Pfad geöffnet haben, das Exarchverzeichnis muss schreibend und lesend für den User im Zugriff stehen.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=78129bc8-1a2f-4beb-9905-50c93d4802d6"
+}

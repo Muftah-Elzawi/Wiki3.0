@@ -1,0 +1,4 @@
+ <style>
+      h6 {
+        background-color: #fff00;
+      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 75<br /><h1>Administration Jobserver Überwachung</h1><p>Übersicht über alle vom Jobserver überwachten Ordner. Es können Ordner angelegt, bearbeitet und entfernt werden.</p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  401 Modul-ID:75</span><br><br /><h3>Ansicht aktualisieren</h3><p>Aktualisiert die Ansicht der Tabelle. Manche Änderungen werden evtl. erst nach einer Aktualisierung der Ansicht angezeigt.</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\75_401.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  401 Modul-ID:75</span><hr/>

@@ -1,0 +1,7 @@
+{
+  "PageID": 35892,
+  "PageGuid": "05464e42-ab16-428a-9eb4-ec7d594c4d44",
+  "Title": "topfact6 Administration - Administration Jobserver Module - Modul ersetzen",
+  "Content": "Beginn Funktions-ID: 422 Modul-ID:78\r\nModul ersetzen\r\nÖffnet einen Dialog um ein Modul zu ersetzen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nModuldatei\r\n-> Auswählen der Datei des Moduls.\r\nModul\r\n-> Bezeichnung des Moduls.\r\nVersion\r\n-> Versionsnummer des Moduls.\r\ntopfact6 Administration\r\n-> Das Modul wird in der topfact6 Administration ersetzt und kann dort genutzt werden.\r\ntopfact6 Jobserver\r\n-> Das Modul wird in der topfact6 Jobserver ersetzt und kann dort genutzt werden.\r\nEnde Funktions-ID: 422 Modul-ID:78",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=05464e42-ab16-428a-9eb4-ec7d594c4d44"
+}

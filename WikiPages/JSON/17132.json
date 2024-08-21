@@ -1,0 +1,7 @@
+{
+  "PageID": 17132,
+  "PageGuid": "9cb6dbc8-19c4-40a3-a56b-aada536fbf29",
+  "Title": "Installationsmodus auf Terminalserver aktiveren und beenden",
+  "Content": "Zur Aktivierung des Installationsmodus auf Terminalserver\r\n1.CMD Box im Administratormodus öffnen\r\n2.Change user /Install (aktiviert den Modus)\r\n3.Change user /execute (deaktiviert den Modus)",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=9cb6dbc8-19c4-40a3-a56b-aada536fbf29"
+}

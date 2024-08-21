@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  425 Modul-ID:78</span><br><br /><h3>Sandbox aktivieren </h3><p>Aktiviert die Sandbox für das fokussierte Modul.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\78_425.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  425 Modul-ID:78</span><hr/>

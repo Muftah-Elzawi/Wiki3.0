@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  203 Modul-ID:62</span><br><br /><h3>Filter</h3><p>Filtert die zu exportierenden Belege nach einem bestimmten Zeitraum. Zum Beispiel letzter Monat, Aktueller Monat oder ein selbstgewählter Zeitraum. 
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\62_203.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  203 Modul-ID:62</span><hr/>

@@ -1,0 +1,7 @@
+{
+  "PageID": 17765,
+  "PageGuid": "447fe509-00db-4dc9-8d45-b3406b62cf04",
+  "Title": "Dokumentenexport",
+  "Content": "Der Dokumentenexport ermöglicht es Benutzern, direkt aus topfact6 MyWork, Dokumente in einer strukturierten Form (Ordner und Dateinamen) zu exportieren.\r\nHierbei haben Sie selber die Möglichkeit, ohne administrativen Eingriff beliebig viele Exportkonfigurationen zu erstellen.\r\nDie Exportkonfigurationen enthalten alle Informationen um den tatsächlichen Exportvorgang ohne großen Aufwand durchzuführen.\r\nBeachten Sie, der Dokumentenexport in topfact6 MyWork ist eine interaktive Funktion und benötigt immer einen Benutzer der den Vorgang startet.\r\nUm Dokumente automatisiert zu exportieren, verwenden Sie das Modul topfact6 Jobserver ArchiveExport.\r\nBeachten Sie bei der Verwendung von Ordnerstrukturen und Dateinamen, dass Windows eine Beschränkung (im Standard) von maximal 256 Zeichen für Ordern + Dateinamen hat.\r\nBerücksichtigen Sie das in ihrer Exportkonfiguration. Weitere Informationen finden Sie hier Maximum Path Length.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=447fe509-00db-4dc9-8d45-b3406b62cf04"
+}

@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  180 Modul-ID:69</span><br><br /><h3>Verkleinern</h3><p>Verkleinert die Anzeige des Dokumentes. Die Ansicht wird immer in 10% Schritten verkleinert.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_180.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  180 Modul-ID:69</span><hr/>

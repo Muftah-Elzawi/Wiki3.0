@@ -1,0 +1,7 @@
+{
+  "PageID": 35696,
+  "PageGuid": "0614bbd3-f4b6-4d39-be67-ad6c31848a1c",
+  "Title": "topfact6 MyWork - MyWork Dokumentenstruktur - Suchhistorie",
+  "Content": "Beginn Funktions-ID: 370 Modul-ID:68\r\nSuchhistorie\r\nListe der 100 letzten Suchanfragen. Aus dieser Liste können Anfragen ausgewählt und erneut gesucht werden.\r\n\r\n\r\n\r\nParameter der Funktion\r\nSuchwort\r\n-> Suchwort nach dem die Liste der letzten Suchanfragen durchsucht wird\r\nHinweis\r\nDie Anfragen werden exakt so wiederholt wie sie beim ersten Mal durchgeführt wurden, es können keine Veränderungen an dieser Suchen vorgenommen werden.\r\nEnde Funktions-ID: 370 Modul-ID:68",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=0614bbd3-f4b6-4d39-be67-ad6c31848a1c"
+}

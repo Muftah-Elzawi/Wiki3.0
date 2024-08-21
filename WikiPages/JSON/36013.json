@@ -1,0 +1,7 @@
+{
+  "PageID": 36013,
+  "PageGuid": "6d005db3-8573-459c-937f-2af77f7ea154",
+  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Kostenarten: Bearbeiten",
+  "Content": "Beginn Funktions-ID: 601 Modul-ID:85\r\nKostenarten: Bearbeiten\r\nÖffnet ein Menü zur Bearbeitung der fokussierten Kostenart. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation \r\n-> Die Kostenart wird mit der Organisation verknüpft. \r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen.\r\nNummer\r\n-> Die Kostenartennummer der Kostenart.\r\nBenennung\r\n-> Bezeichnung der Kostenart.\r\nBeschreibung\r\n-> Anlegen einer Beschreibung für die Kostenart.\r\nEnde Funktions-ID: 601 Modul-ID:85",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=6d005db3-8573-459c-937f-2af77f7ea154"
+}

@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  219 Modul-ID:62</span><br><br /><h3>FibuConnect Belege</h3><p>Öffnet das FibuConnect Menü. Anzeige der Funktionen welche in FiBuConnect verfügbar sind und die Ergebnisliste der Belege.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\62_219.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  219 Modul-ID:62</span><hr/>

@@ -1,0 +1,12 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  772 Modul-ID:72</span><br><br /><h3>Volltextsuche</h3><p>Der eingegebene Suchbegriff wird in der Volltextdatenbank gesucht. Hier sind die Text-Inhalte der abgelegten Dokumente über OCR erfasst. Dabei wird der Volltext des Dokuments mit dem Suchbegriff verglichen. Grundsätzlich wird über die Volltextsuche eine "LIKE"-Suche abgesetzt, d.h. dass alle Belege gefunden werden, in denen der Suchbegriff in irgendeiner Form vorkommt. </p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\72_772.png" alt="" /><br /></div><br><br /><span style="color: #303030; font-weight: 500; text-align: left; text-decoration-color: initial; background-color: #ffff00; ">Hinweis</span><br /><p>So gelingt die Volltextsuche:
+
+1.Für ein erfolgreiches Finden über die Volltextsuche empfehlen wir die Eingabe des vollständigen Suchbegriffs.
+
+2.Es ist nicht zwingend erforderlich den ganzen Suchbegriff einzugeben, denn das Ende des Begriffs kann abgekürzt werden. Die Konsequenz ist ggf., dass mehr Dokumente in der Ergebnisliste als erwartet.
+
+3.Nicht empfohlen ist das Weglassen von führenden Buchstaben, Zeichen oder Ziffern in einem Suchbegriff. Das führt in der Regel zu keinem gewünschten Suchergebnis.
+
+4.Werden mehrere Suchbegriffe im Volltextfeld eingegeben werden diese mit und verknüpft: alle eingegebenen Suchbegriffe müssen im Volltext eines Dokuments vorhanden sein. Das verringert die Anzahl der Zeilen im Suchergebnis.
+
+5.Eine Kombination aus Buchstaben mit einzelnen Punkten, bspw. eine Artikelnummer "626.24.0222",  kann nur gefunden werden, wenn die Punkte im Suchbegriff verdoppelt werden, also "627..24..0222" 
+</p><span style="color: #808080;"> Ende Funktions-ID:  772 Modul-ID:72</span><hr/>

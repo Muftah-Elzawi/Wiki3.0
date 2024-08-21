@@ -1,0 +1,7 @@
+<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=629CE9AA-436D-4DC9-BE21-D4CDB56D08AF" target="_blank">Wiki-Link	topfact6 Administration - Administration Datenquellen -  Kopieren</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=B968C714-B7CC-4992-A6DC-282D8219F7F2" target="_blank">Wiki-Link	topfact6 Administration - Administration Datenquellen -  Hinzufügen</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=0E6DB045-B57F-42F6-8160-C89A8168937D" target="_blank">Wiki-Link	topfact6 Administration - Administration Datenquellen - Ansicht drucken </a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=8884BA6A-45ED-454A-86B7-4B22755B6A0E" target="_blank">Wiki-Link	topfact6 Administration - Administration Datenquellen - Exportieren</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=5FA8803E-9DC0-4438-AE84-CD6412144E63" target="_blank">Wiki-Link	topfact6 Administration - Administration Datenquellen - Aktualisieren</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=3A644985-3612-4C30-AF20-29CA83FAEAF5" target="_blank">Wiki-Link	topfact6 Administration - Administration Datenquellen -  Entfernen</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=27F0AFC5-41F2-4A7C-94B7-6EC71A68A6BB" target="_blank">Wiki-Link	topfact6 Administration - Administration Datenquellen -  Bearbeiten</a>

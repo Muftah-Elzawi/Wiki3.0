@@ -1,0 +1,5 @@
+ <style>
+      h6 {
+        background-color: #fff00;
+      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 91<br /><h1>Administration Benutzer</h1><p>Übersicht über die Benutzer welche die Administration verwenden.</p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  662 Modul-ID:91</span><br><br /><h3> Kopieren</h3><p>Kopiert den Benutzer und legt die Kopie als neuen Eintrag der Liste an.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\91_662.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  662 Modul-ID:91</span><hr/>

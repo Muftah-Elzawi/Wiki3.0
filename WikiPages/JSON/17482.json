@@ -1,0 +1,7 @@
+{
+  "PageID": 17482,
+  "PageGuid": "adaaa318-5aa3-4377-8ef8-5ae04a02596b",
+  "Title": "Ab Versionen 2022 werden nicht alle Auswahlen in FibuConnect gefülltv (MultiActiveResulsets inaktiv)",
+  "Content": "Frage\r\nWarum lässt sich der der Mandant nicht mehr auswählen?\r\nAntwort / Lösung\r\nJe nach MSSQL-Version muss bei der Datenbankverbindung von MyWork die MultiActiveResulsets-Einstellung aktiviert werden. \r\nGehen Sie dazu vor wie folgt:\r\nBei Start von MyWork \"Datenbankeinstellungen ändern\" anklicken\r\n\r\n\r\nIm Optionsreiter die Änderung vornehmen und speichern:",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=adaaa318-5aa3-4377-8ef8-5ae04a02596b"
+}

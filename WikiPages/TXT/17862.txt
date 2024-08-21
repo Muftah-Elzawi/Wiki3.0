@@ -1,0 +1,3 @@
+<h2>Frage</h2>
+<div>Was kann ich machen, wenn eine Datei nicht im Quickindex geöffnet werden kann?</div>
+<h2>Antwort / Lösung</h2><div><div>Der Hinweis der Ihnen gezeigt wird deutet darauf hin, dass diese Datei nicht dargestellt werden kann. Da es sich dabei um beliebige Dateien handeln kann ist das nichts außergewöhnliches. </div><div><br /></div><div>Alternativ können Sie</div><div><br /></div><div>1. die Datei aber über das &quot;Export&quot; Icon exportieren und dann betrachten, oder </div><div>2. falls das &quot;Anzeigen und bearbeiten&quot; Icon aktiv ist, die Datei auch über den Quickindex direkt mit dem verknüpften Anwendungsprogramm öffnen.</div><div><br /></div><div>Prüfen Sie dazu ggf. auch Ihre PC Einstellungen unter Apps &gt; Standard-Apps</div><br /></div>

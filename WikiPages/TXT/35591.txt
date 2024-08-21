@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  210 Modul-ID:62</span><br><br /><h3>Beleg entfernen</h3><p>Entfernt die fokussierten Dokumente aus FibuConnect.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\62_210.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  210 Modul-ID:62</span><hr/>

@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  464 Modul-ID:83</span><br><br /><h3>Dokumentenstruktur: Entfernen</h3><p>Entfernt die fokussierte Dokumentenstruktur aus der Übersicht. Die Dokumentenstruktur ist nach dem Löschen nicht mehr in MyWork verfügbar.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\83_464.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  464 Modul-ID:83</span><hr/>

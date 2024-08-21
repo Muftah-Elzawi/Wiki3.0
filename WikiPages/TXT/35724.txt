@@ -1,0 +1,3 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  174 Modul-ID:69</span><br><br /><h3>nächstes Dokument </h3><p>Zeigt das Dokument an, das in der Ergebnisliste des übergeordneten Fensters das folgende Dokument ist.
+Hotkey: Strg + N
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_174.png" alt="" /><br /></div><br><br /><span style="color: #303030; font-weight: 500; text-align: left; text-decoration-color: initial; background-color: #ffff00; ">Hinweis</span><br /><p>Diese Funktion kann nur verwendet werden, wenn das Dokument im QuickIndex mit Listenbezug geöffnet wurde. </p><span style="color: #808080;"> Ende Funktions-ID:  174 Modul-ID:69</span><hr/>

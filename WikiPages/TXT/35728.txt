@@ -1,0 +1,5 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  188 Modul-ID:69</span><br><br /><h3>Senden</h3><p>Klick auf den Button "Export" (1)  öffnet ein Dropdownfeld, in dem die Optionen zum versenden des Dokuments ausgewählt werden. Folgende Formate sind möglich: Originalformat, PDF mit Anmerkungen, PDF ohne Anmerkungen, topfact6 MyWork Link oder topfact6 MyWork Aufruf.(2)
+
+Anschließend wird das Standard Email Programm geöffnet und das Dokument wird automatisch als Anhang geladen. Das Dokument kann nun wie gewohnt per Email versendet werden. 
+
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_188.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  188 Modul-ID:69</span><hr/>

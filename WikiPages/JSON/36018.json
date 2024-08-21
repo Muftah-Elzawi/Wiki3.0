@@ -1,0 +1,7 @@
+{
+  "PageID": 36018,
+  "PageGuid": "b08dbb8a-18fa-4a38-a340-d81a32b34c68",
+  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Kostenarten: Hinzufügen",
+  "Content": "Beginn Funktions-ID: 600 Modul-ID:85\r\nKostenarten: Hinzufügen\r\nÖffnet das Menü um eine neue Kostenart anzulegen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die Kostenart wird mit der Organisation verknüpft. \r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen. \r\nNummer\r\n-> Die Kostenartennummer der Kostenart.\r\nBenennung\r\n-> Bezeichnung der Kostenart. \r\nBeschreibung\r\n-> Anlegen einer Beschreibung für die Kostenart.\r\nEnde Funktions-ID: 600 Modul-ID:85",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=b08dbb8a-18fa-4a38-a340-d81a32b34c68"
+}

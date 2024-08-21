@@ -1,0 +1,5 @@
+ <style>
+      h6 {
+        background-color: #fff00;
+      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 80<br /><h1>Administration Datentabellen</h1><p>Übersicht über die verfügbaren Datentabellen.</p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  438 Modul-ID:80</span><br><br /><h3>Ansicht aktualisieren </h3><p>Aktualisiert die Ansicht der Datentabellen. 
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\80_438.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  438 Modul-ID:80</span><hr/>

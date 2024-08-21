@@ -1,0 +1,7 @@
+<p>Dieses FAQ listet Beispiele für die Linkerstellung im GWC auf.</p><p>
+</p>
+<div style="margin: 0 0 10px 0; padding: 10px; font-family: Arial; font-size: 12px; color: #000000; border: 1px solid #3e3e3e; background-color: #e0e0e0;">
+    <strong>Diese E-Mail wurde durch den topfact GWC automatisiert verarbeitet.</strong><br />
+    <a href="@gwc_doc">Diese E-Mail im Archiv anzeigen.</a>	
+</div><br />
+<p><br /></p>

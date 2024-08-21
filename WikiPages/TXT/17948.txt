@@ -1,0 +1,4 @@
+<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=86A66442-D49B-4E3D-8878-746FCA2F3ED1" target="_blank">Wiki-Link	topfact6 Administration - Administration Anmeldeinformationen - Aktualisieren</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=224B0EFA-B483-48D6-8A42-EEE72C57DA68" target="_blank">Wiki-Link	topfact6 Administration - Administration Anmeldeinformationen - Anmeldung löschen</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=70B65151-35E9-4B4C-A7C3-5D8214BD993F" target="_blank">Wiki-Link	topfact6 Administration - Administration Anmeldeinformationen - Anmeldung bearbeiten</a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=DD6C6F27-621B-402C-A161-244C6AD72664" target="_blank">Wiki-Link	topfact6 Administration - Administration Anmeldeinformationen - Windows/UNC Anmeldung</a>

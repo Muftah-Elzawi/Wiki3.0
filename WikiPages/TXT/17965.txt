@@ -1,0 +1,5 @@
+<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=FDBC5507-B8F8-4FF5-92C9-F76BE8BCD4BA" target="_blank">Wiki-Link	topfact6 Administration - Administration Jobserver Server - Ansicht aktualisieren </a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=5FB13219-3DDF-45C5-8DDC-6E70F5FDB180" target="_blank">Wiki-Link	topfact6 Administration - Administration Jobserver Server - Server löschen </a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=D81EFAA7-DE5B-4577-A299-375782C612CD" target="_blank">Wiki-Link	topfact6 Administration - Administration Jobserver Server - Server als Standard setzen </a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=835F7EB5-8C9D-4A80-A3DA-39C406505544" target="_blank">Wiki-Link	topfact6 Administration - Administration Jobserver Server - Server anlegen </a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=BCCBF80C-8870-4DB4-84E3-BE4A3187BCC8" target="_blank">Wiki-Link	topfact6 Administration - Administration Jobserver Server - Server bearbeiten </a>

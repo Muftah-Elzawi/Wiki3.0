@@ -1,0 +1,7 @@
+{
+  "PageID": 35969,
+  "PageGuid": "95283eab-35ff-418f-aa7c-f5630f975dc8",
+  "Title": "topfact6 Administration - Administration MyWork Aufgaben - DMS Felder: Bearbeiten",
+  "Content": "Beginn Funktions-ID: 516 Modul-ID:84\r\nDMS Felder: Bearbeiten\r\nÖffnet einen Dialog mit dem das fokussierte DMS Feld bearbeiten werden kann. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Es werden die DMS Felder für die ausgewählte Organisation definiert.\r\nFelder: Bearbeiten\r\n-> Bearbeitet ein DMS Feld mittels eines Dialogs.\r\nFelder: Löschen\r\n-> Entfernt das fokussierte Feld aus der Liste.\r\nFelder: Aktualisieren\r\n-> Aktualisiert die Ansicht der Felder. Änderungen werden evtl. erst nach einer Aktualisierung angezeigt.\r\nEnde Funktions-ID: 516 Modul-ID:84",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=95283eab-35ff-418f-aa7c-f5630f975dc8"
+}

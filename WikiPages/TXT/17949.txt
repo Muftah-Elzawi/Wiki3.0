@@ -1,0 +1,4 @@
+<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=37BA6679-A839-4246-80A1-0B0C3892516E" target="_blank">Wiki-Link	topfact6 Administration - Administration Anwendungen - Ansicht aktualisieren </a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=CB979044-AE5D-4EC5-AF43-7ACDE2D841D8" target="_blank">Wiki-Link	topfact6 Administration - Administration Anwendungen - Anwendung löschen </a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=657F6DCE-63FF-481D-BA41-3695BBFE56F7" target="_blank">Wiki-Link	topfact6 Administration - Administration Anwendungen - Anwendung bearbeiten </a>
+<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=B5108611-1EE5-47A1-A878-9BD68DEA49BF" target="_blank">Wiki-Link	topfact6 Administration - Administration Anwendungen - Anwendung anlegen</a>

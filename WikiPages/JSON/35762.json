@@ -1,0 +1,7 @@
+{
+  "PageID": 35762,
+  "PageGuid": "f91376ae-6216-4cc4-932c-4f0e0878276a",
+  "Title": "topfact6 MyWork - MyWork Beleglisten - Formatierungsregel bearbeiten",
+  "Content": "Beginn Funktions-ID: 326 Modul-ID:70\r\nFormatierungsregel bearbeiten\r\nÖffnet einen Dialog zur Bearbeitung einer Formatierungsregel. Die Parameter einer bestehenden Formatierungsregel werden angepasst.\r\n\r\n\r\n\r\nParameter der Funktion\r\nBenennung\r\n-> Name der Formatierungsregel, dieser sollte möglichst aussagekräftig sein\r\nArchiv \r\n-> Die Formatierungsregel bezieht sich auf Daten aus diesem Archiv\r\nArchivfeld\r\n-> Die Formatierungsregel bezieht sich auf die Einträge dieses Archivfelds. Die verfügbaren Archivfelder hängen von dem gewählten Archiv.\r\nBedingung\r\n-> Die Daten werden anhand der Bedingung mit der Ausdruck der Formatierungsregel verglichen. Beispiele für Bedingungen sind gleich, ungleich, zwischen oder größer\r\nAusdruck\r\n-> Die Daten werden anhand der Bedingung mit der Ausdruck der Formatierungsregel verglichen. Beispiele für Bedingungen sind gleich, ungleich, zwischen oder größer\r\nTextfarbe\r\n-> In dieser Farbe wird der Text formatiert.\r\nHintergrundfarbe\r\n-> In dieser Farbe wird der Hintergrund formatiert\r\nEnde Funktions-ID: 326 Modul-ID:70",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=f91376ae-6216-4cc4-932c-4f0e0878276a"
+}

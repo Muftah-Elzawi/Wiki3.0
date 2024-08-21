@@ -1,0 +1,7 @@
+{
+  "PageID": 36287,
+  "PageGuid": "a7a26ab5-7c23-4f55-b52b-95290da3886c",
+  "Title": "Anzeige der Suchmaske - Suchmaske ist offen wird aber nicht dargestellt",
+  "Content": "Frage\r\nIch kann die Suchfunktion öffnen, aber es öffnet nicht auf dem Bildschirm das Suchfenster, sondern ich sehe es nur unten in der Taskleiste, woraus es sich aber leider nicht öffnen lässt.\r\nAntwort / Lösung\r\nDie Suchmaske startet zwar, wird aber nicht angezeigt, da das Windowsfenster der Suchmaske minimiert ist. \r\nVorgehensweise um die Suchmaske wieder sichtbar zu machen:\r\n- In der Taskleiste mit der Maus über den das MyWork Tasksymbol fahren, wenn zwei Bilder darüber abgebildet werden, ist eines davon wahrscheinlich die Suchmaske. Diese ist aber minimiert und wird deswegen nicht auf dem Bildschirm angezeigt.\r\n- Fahren Sie dazu mit der Maus auf das Symbol der Suchmaske und drücken Sie einfach mit der rechten Maustaste darauf. Dann erscheint ein kleines Kontextmenü wo sie \"Wiederherstellen\" oder \"Maximieren\" auswählen könnten. Die Maske wird dann in normaler Darstellung wieder angezeigt.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=a7a26ab5-7c23-4f55-b52b-95290da3886c"
+}

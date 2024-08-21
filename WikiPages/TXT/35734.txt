@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  185 Modul-ID:69</span><br><br /><h3>Vertikal drehen </h3><p>Dreht das Dokument um 180°.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_185.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  185 Modul-ID:69</span><hr/>

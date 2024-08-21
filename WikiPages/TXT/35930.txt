@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  478 Modul-ID:83</span><br><br /><h3>Dialoge: Export</h3><p>Exportiert den fokussierten Dialog.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\83_478.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  478 Modul-ID:83</span><hr/>

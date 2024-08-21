@@ -1,0 +1,14 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  169 Modul-ID:69</span><br><br /><h3>Dokumenteninformation</h3><p>Mit einem Klick auf das Wort QuickIndex öffnet sich ein Drop Down Menü indem sich ein Button "Dokumenteninformation" befindet. (1) 
+Ein Klick auf den Button öffnet einen Dialog in den die Dokumenteninformationen zu  sehen sind. 
+
+Im Reiter Systemdaten werden alle vom System gespeicherten technischen Daten des Dokumentes gelistet. Zum Beispiel Dokument ID, Anzahl von Dateien, Speicherverbrauch und letzte Änderung. (2)
+
+Dokumente können aus mehreren Dateien bestehen. Im Reiter Dateien werden alle Dateien aufgelistet die zu den geöffneten Dokument gehören. Zu den Dateien wird jeweils der Dateiname, die Dateigröße, der Ablagezeitpunkt und eine Versionsnummer angezeigt.(3)
+
+Der OCR Server liest zu jedem Dokument den Volltext aus und speichert diesen in der Volltextdatenbank. Im Reiter OCR wird der Volltextdatenbankeintrag zu diesem Dokument geladen und angezeigt. (4)
+
+Alle Datenbank Aktionen die mit diesem Dokument durchgeführt wurden, werden im Reiter Archivhistorie aufgelistet. Zum Beispiel Änderungen oder lesender Zugriff. (5)
+
+Der Reiter Kommentare zeigt alle auf dem Dokument angebrachten Stempel und Kommentare an. (6)
+
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_169.png" alt="" /><br /></div><br><br /><div style="text-indent: 20px;"><h4>Parameter der Funktion</h4></div><div style="text-indent: 20px;"><b>Systemdaten</b></div><div style="text-indent: 20px;"><p> ->  Es werden alle vom System gespeicherten technischen Daten des Dokumentes gelistet. Zum Beispiel Dokument ID, Anzahl von Dateien, Speicherverbrauch und letzte Änderung.</p></div><div style="text-indent: 20px;"><b>Dateien</b></div><div style="text-indent: 20px;"><p> ->  Dokumente können aus mehreren Dateien bestehen. Hier werden alle Dateien aufgelistet die zu den geöffneten Dokument gehören. </p></div><div style="text-indent: 20px;"><b>OCR</b></div><div style="text-indent: 20px;"><p> ->  Der OCR Server liest zu jedem Dokument den Volltext aus und speichert diesen in der Volltextdatenbank. Hier wird der Volltextdatenbankeintrag zu diesem Dokument geladen und angezeigt.</p></div><div style="text-indent: 20px;"><b>Archivhistorie</b></div><div style="text-indent: 20px;"><p> ->  Alle Datenbank Aktionen die mit diesem Dokument durchgeführt wurden, werden hier aufgelistet. Zum Beispiel Änderungen oder lesender Zugriff.</p></div><div style="text-indent: 20px;"><b>Kommentare</b></div><div style="text-indent: 20px;"><p> ->  Alle Stempel und Kommentare zu diesem Dokument werden aufgelistet.</p></div><p></p><span style="color: #808080;"> Ende Funktions-ID:  169 Modul-ID:69</span><hr/>

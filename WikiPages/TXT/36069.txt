@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  563 Modul-ID:85</span><br><br /><h3>Steuerschlüssel: Duplikate entfernen</h3><p>Entfernt doppelte Einträge aus der Liste, sodass jeder Eintrag nur einmal vorhanden ist.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\85_563.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  563 Modul-ID:85</span><hr/>

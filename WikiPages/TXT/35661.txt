@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  251 Modul-ID:68</span><br><br /><h3>Dokument anzeigen und bearbeiten</h3><p>Öffnet das fokussierte Dokument im Bearbeitungsmodus.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\68_251.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  251 Modul-ID:68</span><hr/>

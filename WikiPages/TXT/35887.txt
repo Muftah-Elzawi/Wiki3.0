@@ -1,0 +1,2 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  419 Modul-ID:77</span><br><br /><h3>Ordner löschen </h3><p>Der fokussierte Ordner wird aus der Ordnerliste entfernt.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\77_419.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  419 Modul-ID:77</span><hr/>

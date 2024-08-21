@@ -1,0 +1,7 @@
+{
+  "PageID": 31665,
+  "PageGuid": "f135399d-ac44-4b91-be22-f78467592ddc",
+  "Title": "AD Synchronisation in die topfact Cloud",
+  "Content": "Anwendungsfall:\r\nSynchronisation der Benutzer und Gruppenzuordnungen aus dem Microsoft Active Directory in das topfact Cloud System\r\n\r\nVoraussetzungen:\r\nDas Modul \"topfact TransferService\" ist onPremise im Kundensystem installiert\r\nEin Profil ActiveDirectory Synchronisation überträgt die Zentrale AD Gruppe welche das Pendant für die topfact Nutzer darstellt in die topfact Cloud\r\n\r\nBeispiel: \r\nDie Benutzer und Gruppenzuordnungen sollen vom Kunden IT Administrator an einer zentralen Stelle im Microsoft Active Directory verwaltet werden. Das topfact Cloud System soll diese Anpassungen automatisch übernehmen.\r\nEin neuer Nutzer wird automatisiert den korrekten topfact Gruppen zugewiesen, während ausgeschiedene Benutzer deaktiviert werden, etc\r\nweitere Dokumentation: \r\nkeine",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=f135399d-ac44-4b91-be22-f78467592ddc"
+}

@@ -1,0 +1,7 @@
+{
+  "PageID": 17856,
+  "PageGuid": "e7f9d271-fd1e-4d3a-b884-77b9b2163c9a",
+  "Title": "Volltextsuche Nummern mit Punkten",
+  "Content": "Frage\r\nDie Volltextsuche interpretiert bei der Suche die Eingabe von Punkten nicht immer korrekt.\r\nAntwort / Lösung\r\nPunkte werden vom Volltextsystem zwar verarbeitet und können auch grundsätzlich verwendet werden, allerdings kann es sein, dass durch die Stopwordlist Punkte nicht an den Volltext übergeben werden oder bei ausgeschalteter / leerer Stopwordlist die Abfrage von Werten mit Punkten, teilweise als Datumswert falsch interpretiert wird und damit kein korrektes Ergebnis zurück kommt.\r\n\r\nAbhilfe schafft die Version 2023.10 Dort werden die Suchbegriffe mit Punkt zusätzlich als ein Wert aus einzelnen Fragmenten übergeben.\r\n\r\n \r\nSELECT * FROM  tf_Fulltext\r\nWHERE CONTAINS(*, '\"*637.24.022*\" OR (637 AND 24 AND 022)')",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=e7f9d271-fd1e-4d3a-b884-77b9b2163c9a"
+}

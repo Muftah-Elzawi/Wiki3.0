@@ -1,0 +1,3 @@
+<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  771 Modul-ID:69</span><br><br /><h3>Schleppfelder</h3><p>Schleppfelder sind Felder, die Eingaben aus dem selben Feld des vorherigen Dokuments übernehmen, bis eine andere Eingabe erfolgt. Durch Aktivieren von Schleppfeldern kann eine große Menge an Dokumenten mit ähnlicher Verschlagwortung schnell abgearbeitet werden. Als Schleppfelder definiert sind die Indexdatenfelder, welche fett dargestellt werden.
+Die Option der Schleppfelder wird in der Konfiguration der Datenstruktur festgelegt.
+</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_771.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  771 Modul-ID:69</span><hr/>
