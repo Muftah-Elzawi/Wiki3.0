@@ -1,7 +1,0 @@
-{
-  "PageID": 17029,
-  "PageGuid": "41319346-4a4d-48b2-9cb9-43306922e9f7",
-  "Title": "Wie kann ich das automatische Vervollständigen von Indexfeldern deaktivieren?",
-  "Content": "In diversen Anwendungsfällen ist es notwendig die integrierte Funktion \"Autovervollständigen von Indexfeldern\" zu deaktivieren.\r\nDies kommt häufig für Felder vor in den grundlegend verschiedene Werte erfasst werden wie z.B. Betragsfelder oder Datumsfelder.\r\nHierfür bietet topfact6 MyWork und die topfact6 Administration die Funktion \"Deaktivierung der Autovervollständigung\".\r\nWie im unteren Beispiel zu sehen ist, wurden für die Betragsfelder die Autovervollständigung deaktiviert.\r\nDadurch erhält der Benutzer in den Felder keine automatischen Vorschläge mehr. Eine manuelle Auswahl von vorhandenen Werten ist dennoch möglich durch öffnen des Dropdown Menüs.\r\n\r\nIn dem angefügten Video ist zu erkennen das die Betragsfelder keine Werte automatisch zurückliefern.\r\nDas Feld Kostenträger hingegen schon weil für dieses Feld die automatische Vervollständigung noch aktiv ist.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=41319346-4a4d-48b2-9cb9-43306922e9f7"
-}

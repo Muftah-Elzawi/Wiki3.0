@@ -1,4 +1,0 @@
- <style>
-      h6 {
-        background-color: #fff00;
-      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 70<br /><h1>MyWork Beleglisten</h1><p>Zeigt die Beleglisten, auf die der Benutzer Zugriff hat.</p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  344 Modul-ID:70</span><br><br /><h3>Absteigend sortieren</h3><p>Sortiert die Ergebnisliste in Absteigender Reihenfolge.  Die Funktion wird über das Kontextmenü des Tabellenkopfes aufgerufen.</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\70_344.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  344 Modul-ID:70</span><hr/>

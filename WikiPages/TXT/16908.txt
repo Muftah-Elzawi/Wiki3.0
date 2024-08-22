@@ -1,2 +1,0 @@
-<h2><span style="font-family: Tahoma;">YouTube</span></h2><p><br /></p><p><br /></p><h2><span style="font-family: Tahoma;">Vimeo</span></h2><p><iframe src="https://player.vimeo.com/video/193794460" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"><span>
-</span></iframe></p><p><br /></p>

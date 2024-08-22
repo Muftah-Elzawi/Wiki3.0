@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  423 Modul-ID:78</span><br><br /><h3>Modul löschen </h3><p>Das fokussierte Modul wird aus der Modulliste entfernt.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\78_423.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  423 Modul-ID:78</span><hr/>

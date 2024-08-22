@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  418 Modul-ID:77</span><br><br /><h3>Ordner als Standard setzen</h3><p>Markiert den fokussierten Ordner als Standardordner. 
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\77_418.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  418 Modul-ID:77</span><hr/>

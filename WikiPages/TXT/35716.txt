@@ -1,5 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  187 Modul-ID:69</span><br><br /><h3>Export</h3><p>Klick auf den Button "Export" (1)  öffnet ein Dropdownfeld, in dem die Optionen zum Export des Dokuments ausgewählt werden. Folgende Formate stehen zur Auswahl:  Originalformat, PDF mit Anmerkungen, PDF ohne Anmerkungen oder aktuelle Seite als PDF. (2)
-
-Anschließend wird das Dokument im gewählten Dateiformat exportiert und im für dieses Format konfigurierten Dateipfad abgelegt. 
-
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_187.png" alt="" /><br /></div><br><br /><div style="text-indent: 20px;"><h4>Parameter der Funktion</h4></div><div style="text-indent: 20px;"><b>Speicherort</b></div><div style="text-indent: 20px;"><p> ->  Der Ordner in den die Datei exportiert werden soll.</p></div><p></p><span style="color: #808080;"> Ende Funktions-ID:  187 Modul-ID:69</span><hr/>

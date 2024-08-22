@@ -1,7 +1,0 @@
-{
-  "PageID": 31676,
-  "PageGuid": "ad6e09cb-75c9-4c4d-853b-6fdafa32fdc3",
-  "Title": "Link zum Aufruf eines Dokuments direkt in MyWork",
-  "Content": "Anwendungsfall:\r\nAufruf eines Dokuments aus dem topfact Archiv und direktes Anzeigen in topfact6 MyWork\r\nAufruf einer Archivsuche im topfact Archiv und direktes Anzeigen der Ergebnisliste in topfact6 MyWork\r\n\r\nVoraussetzungen:\r\nDas topfact Archiv! System ist vom Nutzergerät erreichbar.\r\nDie Anwendung topfact6 MyWork ist auf dem Nutzergerät installiert.\r\nLinkaufrufe zur Anwendung MyWork sowie PopUps werden aus dem Browser heraus erlaubt.\r\n\r\nBeispiel: \r\nEin Nutzer möchte mit einem Kollegen ein bestimmtes Dokument oder eine bestimmte Archivsuche teilen. In MyWork erzeugt er den direkten \"Deep Link\" und leitet diesen weiter. Der Kollege klickt auf den Link und wird über eine Webseite des topfact Archivs geleitet. Der Browser fragt ob der Nutzer die Anwendung MyWork öffnen will und übergibt die Suchparameter direkt an MyWork.\r\n\r\nweitere Dokumentation: \r\nDirekte MyWork Links öffnen, teilen oder versenden (Deep-Link)",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=ad6e09cb-75c9-4c4d-853b-6fdafa32fdc3"
-}

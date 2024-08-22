@@ -1,3 +1,0 @@
-<h2>Frage</h2>
-<div>Wie können die MyWork Ergebnislisten der User auf die Standardeinstellungen aus der Dialog-Administration zurückgesetzt werden?</div>
-<h2>Antwort / Lösung</h2>Zentrales Zurücksetzen der Ergebnisliste auf die Einstellung des Dialoges per Skript:<div><br /> <em>delete FROM [topfact6].[dbo].[MW_GridLayout]</em><br /><em>  where formname = &#39;ucdocuments&#39; --and userid = 48</em><br /><br />Falls sich die Einstellung dadurch nicht ändert, ist bei dem User in der Registry, das Grid lokal zwischengespeichert.<br />Dies kann mit lokalen Adminrechten gelöscht werden. </div><div>Der Pfad ist <span style="background-color: #ffff99;">HKEY_CURRENT_USER\SOFTWARE\pro effectus\topfact6 MyWork (bis Version 2023 7.1.3)</span></div>

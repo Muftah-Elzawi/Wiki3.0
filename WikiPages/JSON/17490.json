@@ -1,7 +1,0 @@
-{
-  "PageID": 17490,
-  "PageGuid": "bc378c99-5c8e-40f4-830d-e242dc570ec6",
-  "Title": "Suchfelder für die ArchivMigration",
-  "Content": "Die Registerkarte \"Suchfelder\" dient für die Suche der Dokumente in dem Quellarchiv und werden für die Migration benötigt. Hier sollen Sie die Dokumente suchen, die Sie übertragen wollen. Falls Sie keine Suchfelder eingerichtet haben, wird das ganzes Archiv übertragen.\r\nDiese Registerkarte wird erst aktiviert, wenn der User erfolgreich eine Quellverbindung und eine Zielverbindung eingerichtet hat.\r\nWichtig: Um sicherzustellen, das keine Dokumente doppelt exportiert werden muss hier zwingend ein Suchfeld definiert werden, welches später in den Registerkarten \"Aktualisierung\" und \"Fehler\" gefüllt wird. z.B. neues DW Feld \"exportstatus=NULL\" -> \"exportstatus=erledigt\" oder \"exportstatus=fehler\". \r\n\r\n \r\nIn dieser Registerkarte gibt es vier Buttons:\r\n·Anlegen – es wird ein neues Fenster geöffnet, wo Sie ein Archivfeld und das Wert eingeben können.\r\n·Bearbeiten – es wird ein Fenster mit dem Archivfeld und dem Wert, dass Sie geklickt haben geöffnet.\r\n·Löschen – ein Suchfeld wird aus den Suchfeldern entfernt.\r\n·Suchen – es wird ein neues Fenster geöffnet, wo Sie die Dokumente mit den eingerichteten Suchfeldern gefunden sind sehen können.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=bc378c99-5c8e-40f4-830d-e242dc570ec6"
-}

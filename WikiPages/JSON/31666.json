@@ -1,7 +1,0 @@
-{
-  "PageID": 31666,
-  "PageGuid": "5d0682e4-2e5e-46c4-9768-293fe145d915",
-  "Title": "TransferService zur Synchronisation beliebiger onPremise Daten in die Cloud",
-  "Content": "Anwendungsfall:\r\nEin Kunde verwendet das topfact Archiv und MyWork als Cloud System möchte aber trotzdem Stammdaten aus Drittsystemen nutzen und Dateien aus dem eigenen Netzwerk automatisch verarbeiten.\r\n\r\nVoraussetzungen:\r\nDas Modul \"topfact TransferService\" ist onPremise im Kundensystem installiert\r\n\r\nBeispiel: \r\nDer Kunde möchte lokal gescannte oder abgelegte Dateien automatisch in die topfact Cloud archivieren. \r\nDer Kunde möchte Stammdaten aus einem lokalen ERP System in der topfact Cloud und in MyWork nutzen.\r\nDazu wird onPremise der topfact TransferService als Endpunkt installiert. Dieser überträgt Dateien aus Abholordnern oder Daten aus ODBC Schnittstellen direkt zur Verarbeitung in die topfact Cloud.\r\nDiese Informationen stehen dann kurze Zeit später in MyWork oder im topfact Archiv in der Cloud zur Verfügung.\r\nweitere Dokumentation: \r\nkeine",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=5d0682e4-2e5e-46c4-9768-293fe145d915"
-}

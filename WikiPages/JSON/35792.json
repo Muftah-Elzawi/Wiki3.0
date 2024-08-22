@@ -1,7 +1,0 @@
-{
-  "PageID": 35792,
-  "PageGuid": "d3ca1ccb-5919-46dc-854b-55ce90031578",
-  "Title": "topfact6 MyWork - MyWork Beleglisten - Suchhistorie",
-  "Content": "Beginn Funktions-ID: 368 Modul-ID:70\r\nSuchhistorie\r\nListe der 100 letzten Suchanfragen. Aus dieser Liste können Anfragen ausgewählt und erneut gesucht werden.\r\n\r\n\r\n\r\nParameter der Funktion\r\nSuchwort\r\n-> Suchwort nach dem die Liste der letzten Suchanfragen durchsucht wird.\r\nHinweis\r\nEine erneute Suche wird auf das selbe Archiv angewandt wie zuvor. Eine Suche mit dem selben Suchbegriff auf ein anderes Archiv ist nicht möglich\r\nEnde Funktions-ID: 368 Modul-ID:70",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=d3ca1ccb-5919-46dc-854b-55ce90031578"
-}

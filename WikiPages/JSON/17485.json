@@ -1,7 +1,0 @@
-{
-  "PageID": 17485,
-  "PageGuid": "d7817d4c-5704-487b-8f7e-5ceb693acb60",
-  "Title": "Anleitung zum Produkt \"topfact ArchiveMigration\"",
-  "Content": "Das topfact Archive Migration kann, die Dokumente aus dem DocuWare Archiv in das topfact Cloud oder topfact (On Premise) Archiv übertragen. Die Dokumente werden über die DocuWare Plattform aus dem DocuWare Archiv exportiert und über topfact Archiv Webservice in das gewünschten topfact Archiv oder topfact Cloud importiert.\r\nOptional bzw. zusätzlich können auch die DocuWare Stempel und den in DocuWare erkannten OCR Text ins topfact Archiv zu übertragen.\r\nNach Start der Anwendung topfact Archive Migration öffnet sich die Registerkarte Quellverbindung.\r\n\r\nBei dem ersten Start der Anwendung steht die „Config.xml“ Datei nicht in dem Installationsordner. Eine leere „Config.xml“ wird bei dem ersten Start erstellt. Falls die „Config.xml“ in dem Installationsordner vorhanden ist, wird die Funktion LoadConfig ausgeführt. Die LoadConfig Funktion lädt die Inhalte aus der „Config.xml“ Datei in die Anwendung. \r\n\r\nIn jedem Fenster steht ein „Speichern“ Button zur Verfügung. Dieser Button speichert die Konfiguration der Anwendung in die „Config.xml“ Datei.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=d7817d4c-5704-487b-8f7e-5ceb693acb60"
-}

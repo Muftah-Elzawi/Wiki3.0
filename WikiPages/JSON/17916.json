@@ -1,7 +1,0 @@
-{
-  "PageID": 17916,
-  "PageGuid": "d3934e6a-7390-4fdb-8c18-3100c3d863d7",
-  "Title": "topfact Archiv Dokumente werden  gegen ungewollte Zugriffe verschlüsselt",
-  "Content": "Frage\r\nWie verschlüsselt topfact Archiv die Dokumente bei der Ablage ins Archiv und schützt damit vor ungewollten Zugriff durch Administrationspersonal oder Dritten.\r\nAntwort / Lösung\r\ntopfact verwendet zur Verschlüsselung die klassische Rijndael Managed Klasse, die nachfolgend über die Microsoft Seiten beschrieben sind.\r\n·https://learn.microsoft.com/de-de/dotnet/api/system.security.cryptography.rijndael?view=netframework-4.6.2\r\n·https://learn.microsoft.com/de-de/dotnet/api/system.security.cryptography.rijndaelmanaged?view=netframework-4.6.2\r\n\r\nDie Entschlüsselung findet beim Öffnen durch MyWork oder über die anderen topfact Programme statt.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=d3934e6a-7390-4fdb-8c18-3100c3d863d7"
-}

@@ -1,7 +1,0 @@
-{
-  "PageID": 35609,
-  "PageGuid": "da9d7f99-e6a5-4a3d-898f-d76ce978ffa4",
-  "Title": "topfact6 MyWork - MyWork Datenpflege - Anlegen",
-  "Content": "Letzte Aktuallisierung am : 25.03.2024\r\nModul-ID : 63\r\nMyWork Datenpflege\r\nZeigt alle für den Benutzer verfügbaren Datenpflegen an.\r\n\r\n\r\nBeginn Funktions-ID: 242 Modul-ID:63\r\nAnlegen\r\nÖffnet einen Dialog zum anlegen eines neuen Datensatzes. Parameter des Datensatzes werden vom User manuell ausgefüllt. \r\n\r\n\r\n\r\n\r\nHinweis\r\nParameter der Datenpflege sind die Spaltennamen der Tabelle und variieren ja nach Datenpflege.\r\nEnde Funktions-ID: 242 Modul-ID:63",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=da9d7f99-e6a5-4a3d-898f-d76ce978ffa4"
-}

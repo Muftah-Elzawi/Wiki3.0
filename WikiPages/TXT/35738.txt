@@ -1,3 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  182 Modul-ID:69</span><br><br /><h3>Zoom</h3><p>Klick auf das Lupensymbol öffnet ein Dropdown-Menü, um die Anzeigengröße/den Zoom einzustellen.(1)
- Auswahl aus den Zoom Stufen 25%, 50%, 75%, 100%, 125%, 150%, 200%, Seitenhöhe, Seitenbreite, Seitengröße. Das Dokument wird entsprechend verkleinert oder vergrößert. (2)
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_182.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  182 Modul-ID:69</span><hr/>

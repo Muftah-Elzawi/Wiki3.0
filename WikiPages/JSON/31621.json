@@ -1,7 +1,0 @@
-{
-  "PageID": 31621,
-  "PageGuid": "ca41f586-3cda-43c2-8551-c06aeb563bba",
-  "Title": "Standardbenutzereinstellungen",
-  "Content": "Um die erfolgreiche Umstellung auf topfact Archiv! sicherzustellen und Ihnen einen reibungslosen Start zu ermöglichen, empfehlen wir folgende Benutzereinstellungen in topfact6 MyWork:\r\n\r\n\r\n\r\n\r\nMyWork Allgemein\r\nStartseite: Dokumentenstruktur oder Aufgaben \r\nUnscharfe Suche aktivieren: JA\r\nExportordner: bitte festlegen -Empfehlung: sollte ein unabhängiger eigener Ordner sein, bspw: C:\\Downloads\\MyWork Export\r\nExportaktion: Exportordner öffnen\r\n\r\nMyWork Ergebnisliste\r\nAutomatisches Neuladen deaktivieren: JA\r\nSuchfelder über Ergebnisliste anzeigen: JA\r\nFiltereinstellungen automatisch entfernen: JA\r\n\r\nMyWork Quickindex\r\nDokument im Docuware WebClient öffnen: NEIN - Docuware steht nicht mehr zur Verfügung.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=ca41f586-3cda-43c2-8551-c06aeb563bba"
-}

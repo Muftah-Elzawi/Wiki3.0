@@ -1,7 +1,0 @@
-{
-  "PageID": 31675,
-  "PageGuid": "1720dd88-7591-4d38-be06-b400aa9807a2",
-  "Title": "Link zum Aufruf eines Dokuments im Browser (WebClient)",
-  "Content": "Anwendungsfall:\r\nAufruf eines Dokuments aus dem topfact Archiv und direktes Anzeigen in topfact6 MyWork\r\n\r\nVoraussetzungen:\r\nDas topfact Archiv! System ist vom Nutzergerät erreichbar.\r\n\r\nBeispiel: \r\nEin Nutzer möchte mit einem Kollegen ein bestimmtes Dokument teilen. In MyWork erzeugt er den direkten \"WebClient Link\" und leitet diesen weiter. Der Kollege klickt auf den Link und wird auf eine Webseite des topfact Archivs geleitet. Dort wird im topfact Archiv WebClient direkt das Dokument zur Anzeige geladen. \r\nDie Funktionalität in diesem Anzeigemodus ist eingeschränkt\r\n\r\nweitere Dokumentation: \r\nkeine",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=1720dd88-7591-4d38-be06-b400aa9807a2"
-}

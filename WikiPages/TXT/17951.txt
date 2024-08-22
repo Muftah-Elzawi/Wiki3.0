@@ -1,9 +1,0 @@
-<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=8845B9D9-36D1-4E27-A07E-209450E05260" target="_blank">Wiki-Link	topfact6 Administration - Administration Benutzer - Ansicht aktualisieren</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=78DC36A7-3E3D-4A5F-9D38-0B6A99672506" target="_blank">Wiki-Link	topfact6 Administration - Administration Benutzer - Benutzeranmeldungen</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=F5A678DB-87B3-4F8B-8A2F-3D5C25FE02BB" target="_blank">Wiki-Link	topfact6 Administration - Administration Benutzer - Benutzerkennwort ändern</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=1A9DD70B-3BF4-4BB5-8D03-E0F710996FE0" target="_blank">Wiki-Link	topfact6 Administration - Administration Benutzer -  Kopieren</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=D4033FC4-46B6-4675-B61E-9B6DADF3DA1B" target="_blank">Wiki-Link	topfact6 Administration - Administration Benutzer - Benutzer bearbeiten</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=0CC2D89D-6CFE-4191-9E2A-7809656048CB" target="_blank">Wiki-Link	topfact6 Administration - Administration Benutzer - Benutzer anlegen</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=86836636-8538-46FD-8802-AFF5726783CD" target="_blank">Wiki-Link	topfact6 Administration - Administration Benutzer - Benutzer löschen</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=05A03A42-7748-4EA5-B907-A20B30661274" target="_blank">Wiki-Link	topfact6 Administration - Administration Benutzer - Benutzerimport</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=CD47CEA9-BDC0-4D91-86A0-164DA39D468C" target="_blank">Wiki-Link	topfact6 Administration - Administration Benutzer - Benutzerzuordnung</a>

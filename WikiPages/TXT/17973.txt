@@ -1,6 +1,0 @@
-<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=519CE98A-8850-4EC5-B61B-2B1E22B261A2" target="_blank">Wiki-Link	topfact6 Administration - Administration Sitzungen - Benutzer bearbeiten</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=8BDFAF49-4803-4299-8D5E-165A66943513" target="_blank">Wiki-Link	topfact6 Administration - Administration Sitzungen - Ansicht drucken </a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=E4E7F157-A8DF-4696-88D9-C6FE18182130" target="_blank">Wiki-Link	topfact6 Administration - Administration Sitzungen - Exportieren</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=D9F3BEAC-9964-4A20-A7CA-896BDC07770E" target="_blank">Wiki-Link	topfact6 Administration - Administration Sitzungen - Aktualisieren</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=2ACFAA85-6166-4BC9-9ACD-523C5675E2BA" target="_blank">Wiki-Link	topfact6 Administration - Administration Sitzungen - Entfernen</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=9966D1F8-05BA-45BF-AD17-B19310CBEA86" target="_blank">Wiki-Link	topfact6 Administration - Administration Sitzungen - Benutzeranmeldungen</a>

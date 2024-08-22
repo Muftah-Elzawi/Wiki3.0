@@ -1,7 +1,0 @@
-{
-  "PageID": 35642,
-  "PageGuid": "a2054de7-ac74-4f20-826d-c14a9b4407e9",
-  "Title": "topfact6 MyWork - MyWork Aufgaben - Aufgabe erstellen",
-  "Content": "Beginn Funktions-ID: 223 Modul-ID:67\r\nAufgabe erstellen \r\nDer Dialog zum erstellen einer Aufgabe wird geöffnet. \r\n\r\n\r\n\r\nParameter der Funktion\r\nAufgabenart\r\n-> Die Aufgabenart beschreibt um welche Kategorie von Aufgabe es sich handelt. Zum Beispiel Belegprüfung oder Kenntnisnahme.\r\nAufgabe\r\n-> Bezeichnet hier den Titel bzw. Namen einer Aufgabe.\r\nBeschreibung\r\n-> Beschreibung der Aufgabenstellung.\r\nBearbeiter/Gruppe\r\n-> Der User oder die Gruppe von Usern, welche für die Bearbeitung der Aufgabe verantwortlich sind.\r\nPriorität\r\n-> Beschreibt mit welcher Dringlichkeit eine Aufgabe erledigt werden sollte. Zum Beispiel Priorität hoch, normal und niedrig.\r\nStartdatum\r\n-> Zu diesem Zeitpunkt soll die Bearbeitung der Aufgabe begonnen werden. \r\nFälligkeitsdatum\r\n-> Zu diesem Zeitpunkt soll die Aufgabe erledigt sein.\r\nWiedervorlage\r\n-> Bei Aufgaben die sich regelmäßig wiederholen kann angegeben werden wann diese Aufgabe das nächste Mal zu erledigen ist.\r\nEnde Funktions-ID: 223 Modul-ID:67",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=a2054de7-ac74-4f20-826d-c14a9b4407e9"
-}

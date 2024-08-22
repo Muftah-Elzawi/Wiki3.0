@@ -1,7 +1,0 @@
-{
-  "PageID": 17822,
-  "PageGuid": "148f1c3b-8391-4b8a-9e65-1eaf625c0543",
-  "Title": "Wie können MyWork Einstellungen zentral für alle Anwender oder eine bestimmte Gruppe gesetzt werden?",
-  "Content": "Frage\r\nWie können MyWork Einstellungen zentral für alle Anwender oder eine bestimmte Gruppe gesetzt werden?\r\nAntwort / Lösung\r\nZentrales setzen der MyWork Einstellungen über ein Datenbankskript. \r\nEs werden die Einstellungen eines Beispielusers verwendet, im Beispiel userid = 40. Testweise zunächst nur auf die UserId = 48\r\nDie Auswahl der User auf welche die Einstellungen übertragen werden ist in dem Skript zu treffen.\r\nUPDATE [topfact6].[dbo].[TF_UserSettings]\r\nset value = (\r\nSELECT \r\n[Value]\r\nFROM [topfact6].[dbo].[TF_UserSettings]\r\nwhere userid = 40)\r\nwhere AppId = 1 -- AND UserId = 48\r\n\r\nEs werden nur tatsächliche Einstellungsparameter gesetzt, nicht der Name oder die Mailadresse. \r\n\r\nAllerdings werden alle Einstellungsparameter überschrieben, auch Fibu oder Skin Einstellungen.\r\n-> Im Zweifelsfall nochmal die XML in Value vorab kontrollieren!",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=148f1c3b-8391-4b8a-9e65-1eaf625c0543"
-}

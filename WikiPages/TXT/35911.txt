@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  446 Modul-ID:81</span><br><br /><h3>Ansicht aktualisieren </h3><p>Aktualisiert die Ansicht der Struktur.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\81_446.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  446 Modul-ID:81</span><hr/>

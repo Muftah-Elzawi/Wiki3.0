@@ -1,7 +1,0 @@
-{
-  "PageID": 10146,
-  "PageGuid": "32cc10b9-bae6-413e-86f0-457e4d4cc9b1",
-  "Title": "PDS \"C\" Welt - bisheriger hauptsächlicher Anwendungsbereich",
-  "Content": "Die PDS C Welt ist ein Host-Anwendung auf Unix oder Linux Basis. Die Datenpalttform ist eine C-ISAM Dateidatenbank. Diese kann über ODBC Treiber abgefragt werden, dabe werden je nach Lizenzfreischaltung durch die PDS zusätzliche Daten angezeigt.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=32cc10b9-bae6-413e-86f0-457e4d4cc9b1"
-}

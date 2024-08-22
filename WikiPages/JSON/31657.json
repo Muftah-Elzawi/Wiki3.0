@@ -1,7 +1,0 @@
-{
-  "PageID": 31657,
-  "PageGuid": "c27f3096-1620-42ec-aa05-9acdef151613",
-  "Title": "FileReader zum Import beliebiger Dateien",
-  "Content": "Anwendungsfall:\r\nAutomatische Archivierung von beliebigen Dateitypen aus einer Windows Ordnerstruktur oder einem Netzlaufwerk\r\n\r\nVoraussetzungen:\r\nEs liegen beliebige Dateien in einem Austauschordner bereit\r\nDer Austauschordner muss für topfact6 System erreichbar sein (Lese-und Schreibrechte)\r\n\r\nBeispiel: \r\nEin ERP-System stellt Ausgangsrechnungen als PDF in einem Netzwerkpfad bereit\r\nEin Nutzer legt Baustellenfotos in einer Ordnerbasierten Projektstruktur in einem Netzwerkpfad ab\r\nDer topfact6 Jobserver archiviert die Dateien in regelmäßigen Abständen\r\nDie Ordnerstruktur (z.B. Ordnernamen, Ebenen, etc.) und die Dateieigenschaften (z.B. Dateiname, Änderungsdatum, etc.) können als Indexdaten übernommen werden.\r\n\r\n\r\nweitere Dokumentation: \r\nkeine",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=c27f3096-1620-42ec-aa05-9acdef151613"
-}

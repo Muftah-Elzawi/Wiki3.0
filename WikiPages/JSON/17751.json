@@ -1,7 +1,0 @@
-{
-  "PageID": 17751,
-  "PageGuid": "dcdd6f9c-6195-452b-9d95-07c375e519d4",
-  "Title": "Ablage per Drag & Drop bringt die Fehlermeldung illegales Zeichen im Pfad",
-  "Content": "Im Dateinamen der Datei oder im Betreff vom E-Mail ist ein Sonderzeichen, welches den Fehler auslöst. Falls es der Dateiname ist, einfach die Sonderzeichen aus dem Dateinamen löschen. \r\n\r\nFalls das ganze Mail archiviert werden soll: Einfach das E-Mail erst per Drag& Drop erst auf den Desktop ziehen. Den Dateinamen korrigieren und dann per Drag & Drop in MyWork archivieren.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=dcdd6f9c-6195-452b-9d95-07c375e519d4"
-}

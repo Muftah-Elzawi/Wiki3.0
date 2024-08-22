@@ -1,7 +1,0 @@
-{
-  "PageID": 17101,
-  "PageGuid": "e0ae9f29-5552-42f2-bbae-209ffe95aac3",
-  "Title": "Wie melde ich mich erfolgreich an TIC an?",
-  "Content": "TIC wird über die URL https://services.topfact.de/tic/login aufgerufen. Die Nutzung von topfact TIC erfordert die Verifizierung des Nutzers über seine topfact Zugangsdaten.\r\n\r\n1. Der Nutzer muss seinen Benutzername und sein Kennwort in die entsprechenden Felder eingeben und sich über \"Anmelden\" verifizieren, damit er Zugriff auf TIC erhält.\r\n2. Durch \"Anmeldung speichern\" wird Ihre TIC-Anmeldung in Cookies gespeichert und kann vom Browser beim nächsten Login vorgeladen werden.\r\n3. Falls Sie Ihr Kennwort vergessen haben klicken Sie auf  \"Kennwort vergessen\" und folgen Sie den Anweisungen.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=e0ae9f29-5552-42f2-bbae-209ffe95aac3"
-}

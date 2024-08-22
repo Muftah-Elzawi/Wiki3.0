@@ -1,7 +1,0 @@
-{
-  "PageID": 17720,
-  "PageGuid": "cfd7d1b2-8453-4ebe-bd48-2afbbb5fba47",
-  "Title": "topfact Outlook AddIn zeigt leeres Ribbon Menü",
-  "Content": "Frage\r\nNach Neuinstallation Outlook und aktuellem Outlook-Addin wird ein leeres Ribbon Menü \"topfact\" angezeigt. Es kann auch keine Verbindung zu DocuWare aufgebaut werden, die Menüs sind leer. \r\n\r\n\r\nWoran liegt das?\r\nAntwort / Lösung\r\nDas topfact Outlook Addin benötigt den Zugriff auf die Konfigurationsdatei für das DocuWare Login. Das wird über RegEdit gesetzt.\r\n[HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\topfact]\r\n\"Serverpath\"=\"\\\\\\\\topfact_server\\\\topfact\"\r\n\"Index Version\"=\"3.1.580\"\r\n\r\nim konfigurierten Serverpfad muss ein Unterordner namens \"config\" existieren, in dem die config-Datei für das Outlook AddIn verschoben werden muss. Die Config-Datei muss zwingend den Namen \"outlook.xml\" haben.\r\n\r\nkonfiguierter Pfad im Regestry-Editor: \\\\\\\\topfact_server\\\\topfact\r\nDateipfad der config-Datei: \\topfact_server\\topfact\\config\\outlook.xml",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=cfd7d1b2-8453-4ebe-bd48-2afbbb5fba47"
-}

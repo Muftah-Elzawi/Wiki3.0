@@ -1,7 +1,0 @@
-{
-  "PageID": 17858,
-  "PageGuid": "5d4bc23b-2d62-4417-a072-1c1674eae8c2",
-  "Title": "Stopword Liste mit MSQL Befehlen behandeln",
-  "Content": "Anzeigen der Stopword Liste für deutsch \r\n \r\n--SELECT * FROM sys.fulltext_system_stopwords WHERE language_id=1031\r\n \r\n\r\n Erstellen einer neuen Stopword Liste mit dem Namen \"EmptyStoplist\"\r\n--CREATE FULLTEXT STOPLIST EmptyStoplist;  \r\n--GO\r\n \r\n \r\nALTER FULLTEXT INDEX ON tf_Fulltext SET STOPLIST = EmptyStoplist\r\n \r\nUSE topfactArchiv_001_FT;\r\nALTER FULLTEXT INDEX ON dbo.tf_Fulltext START FULL POPULATION;\r\n \r\n--USE [topfactArchiv_001_FT] ALTER FULLTEXT CATALOG [FT_TFA] REBUILD\r\n\r\nAusschalten der Stopword Verwendung\r\n--ALTER FULLTEXT INDEX ON tf_Fulltext SET STOPLIST = OFF\r\n\r\nUmschalten auf die Stopword List \"System\" \r\n--ALTER FULLTEXT INDEX ON tf_Fulltext SET STOPLIST = SYSTEM",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=5d4bc23b-2d62-4417-a072-1c1674eae8c2"
-}

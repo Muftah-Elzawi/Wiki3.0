@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  214 Modul-ID:62</span><br><br /><h3>Exportordner öffnen</h3><p>Öffnet den Ordner, in den die Belege exportiert werden.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\62_214.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  214 Modul-ID:62</span><hr/>

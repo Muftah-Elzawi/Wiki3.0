@@ -1,7 +1,0 @@
-{
-  "PageID": 12407,
-  "PageGuid": "db9b1fe6-e4f1-49f3-b0d7-122e32a2d088",
-  "Title": "topfact Search",
-  "Content": "Tf Search erstellt Abfrageparameter für das DocuWare Archiv aus externen Anwendungen.\r\nHierbei werden Übergabeparemeter verwendet die durch tf Search interpretiert werden.\r\nDas Ergebnis ist der Aufruf des DW Webclients und Darstellung der Belege für die übergebenen Parameter.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=db9b1fe6-e4f1-49f3-b0d7-122e32a2d088"
-}

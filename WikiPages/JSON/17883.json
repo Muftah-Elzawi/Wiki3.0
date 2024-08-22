@@ -1,7 +1,0 @@
-{
-  "PageID": 17883,
-  "PageGuid": "20ceda95-e4c6-44f8-9264-ef8596756189",
-  "Title": "FAQ - Warum wird ein automatisch gesetzter Stempel nicht angezeigt",
-  "Content": "Frage\r\nWarum wird ein automatisch gesetzter Stempel nicht angezeigt?\r\n\r\nAntwort / Lösung\r\nIn den Stempelfeldern wurden Sonderzeichen verwendet die nicht verwendet werden können, wenn der Job diese nicht maskiert.\r\n\r\nProblematische wäre z.B. der Eintrag '123456 & 7'\r\n\r\nStörend sind diese Zeichen: <> &\r\n\r\n Adminhinweis:\r\n\r\nMaskierungsbeispiel: Anwendung durch neu setzen des Wertes vor dem Verwenden der Inhalte:\r\n\r\nselect @var_auftragsnummer = replace(@var_auftragsnummer,'&','&')\r\nselect @var_auftragsnummer = replace(@var_auftragsnummer,'>','>')\r\nselect @var_auftragsnummer = replace(@var_auftragsnummer,'<','<')",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=20ceda95-e4c6-44f8-9264-ef8596756189"
-}

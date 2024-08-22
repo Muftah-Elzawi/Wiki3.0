@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  347 Modul-ID:70</span><br><br /><h3>Gruppierungsfeld anzeigen</h3><p>Über der Ergebnisliste wird ein Feld angezeigt, in dieses können Spaltennamen per Drag and Drop hinzugefügt werden. Die Ergebnisliste wird dann nach diesen Spalten gruppiert.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\70_347.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  347 Modul-ID:70</span><hr/>

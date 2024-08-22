@@ -1,7 +1,0 @@
-{
-  "PageID": 31667,
-  "PageGuid": "0e9e63ac-a673-47ed-bd2c-190704f71b96",
-  "Title": "E-Mails aus einem M365 Postfach verarbeiten",
-  "Content": "Anwendungsfall:\r\nAbholung und Verarbeitung von E-Mails aus einem Microsoft M365 Postfach\r\n\r\nVoraussetzungen:\r\nDas Postfach und der M365 Account muss im Azure Portal zur Abholung vorbereitet sein (siehe weitere Dokumentation)\r\n\r\nBeispiel: \r\nEin Kunde möchte automatisiert neue E-Mails (z.B. Eingangsrechnungen) aus einem Posteingang oder aus einem separaten Unterordner archivieren. \r\nDie E-Mails sollen als Korrespondenz archiviert werden, während die Rechnungen (PDF Anhänge) separat zur weiteren automatischen Verarbeitung gespeichert werden.\r\nweitere Dokumentation: \r\nSystemvoraussetzungen und notwendige Tätigkeiten im Azure Portal",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=0e9e63ac-a673-47ed-bd2c-190704f71b96"
-}

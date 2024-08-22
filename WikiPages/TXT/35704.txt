@@ -1,6 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  190 Modul-ID:69</span><br><br /><h3>Aufgabe erstellen </h3><p>Klick auf das Symbol "Aufgabe erstellen" öffnet einen Dialog zum Anlegen einer Aufgabe. (1)
-
-In dem Dialog werden die Aufgabenart, Bezeichnung, Beschreibung, Priorität sowie das Start- und Fälligkeitsdatum der Aufgabe festgelegt. Das geöffnete Dokument wird der Aufgabe automatisch hinzugefügt. (2)
-
-Sie können Ihre Aufgeben in MyWork im Reiter Aufgaben einsehen und verwalten. Weitere Informationen zu den Aufgaben finden Sie im Funktionsbereich: MyWork Aufgaben.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_190.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  190 Modul-ID:69</span><hr/>

@@ -1,7 +1,0 @@
-{
-  "PageID": 17507,
-  "PageGuid": "2d9c7a2e-b470-43cb-bea1-1d018cfe0b02",
-  "Title": "131 Visualisierung von parallelen Prozessabläufen",
-  "Content": "Aufgabenstellung\r\nVisualisierung von parallel laufenden Prozessen auf einem topfact JobServer \r\n\r\nGrundlage: \r\n- Datenerhebung zu den Laufzeiten aus der Datenbank (MSSQL) \r\n- Visualisierung der Prozessläufe (z.B. durch ein Gantt Chart, o.ä.) \r\n- Ermittlung idealer Werkzeuge von Drittanbietern oder Konzeption einer eigenen Lösung \r\n- Entwickeln eines Visualisierungstools zur Darstellung der Parallelität und Zeitdauer \r\n- Vorstellbar als WebApp, SQL-Bericht im Reportserver, etc.\r\nGewünschtes Ergebnis\r\nAnalyse von Performance-Engpässen und Identifizieren von Optimierungsmöglichkeiten des JobServers und seinen Jobs \r\n\r\nUmfang: \r\n- Konzeption\r\n- Entwicklung\r\n- Testbetrieb und Übergabe\r\n\r\nInteressant für\r\n- Praktikum / Abschlussarbeit\r\n- Werkstudententätigkeit\r\n- Festanstellung\r\n\r\nideal für\r\n- Tüftler\r\n- Kreative\r\n\r\nVerantwortlicher: Patric Schmid\r\n\r\nErfahre Hier mehr über die topfact AG als Arbeitgeber\r\nVorgang: #53087# Geplantes Projekt: Visualisierung von parallelen Prozessabläufen",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=2d9c7a2e-b470-43cb-bea1-1d018cfe0b02"
-}

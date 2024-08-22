@@ -1,7 +1,0 @@
-{
-  "PageID": 17072,
-  "PageGuid": "c6576bb7-c10d-4532-ac9a-990e5bfab47d",
-  "Title": "FAQ Schnittstellen - TFSearch Integration - zur Beleganzeige aus DocuWare oder topfact Archiv, in Drittanwendungen",
-  "Content": "Was ist tfSearch?\r\nÜber topfact Anwendungen wird die lokale Arbeitsumgebung mit dem Archiv verlinkt. Mittels der topfact Anwendung tfSearch wird eine technische Verbindung aus einer Drittanwendung zum Archivsystem hergestellt um Dokumente aus dem Archiv anzuzeigen.\r\n\r\nDer ERP-Anwendungsfall ist es Dateien und Dokument aus dem Archiv anzuzeigen (Modus3). Dazu wird durch die Drittanwendung die tfsearch.exe aufgerufen und ein Suchparameter (z.Bsp. Die Belegnummer) übergeben. tfSearch erzeugt daraus den jeweils passenden Archivaufruf und startet diesen.\r\n\r\nEin weiterer Anwendungsfall ist der Aufruf von Dokumenten aus einem Verzeichnis. Im Verzeichnis liegen nicht die Originaldateien, sondern tfSearch-Links mit den Dateinamen der Originaldateien. Mit dem Klick auf die Datei wir tfSearch gestartet und öffnet die Datei aus dem DMS heraus. Der Vorteil ist, dass der Link an unterschiedlichen Stellen liegen könnte, die Originaldatei ist aber zugriffsgeschützt und optimal organisiert im DMS abgelegt.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=c6576bb7-c10d-4532-ac9a-990e5bfab47d"
-}

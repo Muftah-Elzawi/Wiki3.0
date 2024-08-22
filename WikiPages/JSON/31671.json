@@ -1,7 +1,0 @@
-{
-  "PageID": 31671,
-  "PageGuid": "a8fb29b5-e23d-406d-93c8-a581a8771a45",
-  "Title": "Programmatische Anbindung der topfact6 Funktionen über eine REST API",
-  "Content": "Anwendungsfall:\r\nWenn topfact6 Funktionalitäten direkt aus einer Eigenprogrammierung heraus genutzt werden soll kann dies direkt über die API geschehen. Beispielsweise Login von Nutzern, Auslesen von Dokumentenstrukturen, Stempeln, etc. \r\n\r\nVoraussetzungen:\r\nDie topfact6 API (Cloud oder on Premise) ist für das Drittsystem erreichbar (siehe technische Voraussetzungen)\r\nEin valider topfact Nutzer mit topfact Lizenz existiert.\r\n\r\nBeispiel: \r\nEin Kunde betreibt eine Eigenprogrammierung oder ein weiteres Drittsystem möchte topfact6 Funktionen direkt aus dem Code heraus nutzen. \r\n\r\nweitere Dokumentation: \r\nSystemvoraussetzungen für topfact Cloud\r\ntopfact6 API Dokumentation",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=a8fb29b5-e23d-406d-93c8-a581a8771a45"
-}

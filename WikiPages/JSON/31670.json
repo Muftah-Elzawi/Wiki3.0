@@ -1,7 +1,0 @@
-{
-  "PageID": 31670,
-  "PageGuid": "8328906c-ad5f-4a22-8ed9-7b7c5b31e7c3",
-  "Title": "Programmatische Anbindung des topfact Archivs über eine REST API",
-  "Content": "Anwendungsfall:\r\nWenn das topfact Archiv direkt aus einer Eigenprogrammierung heraus genutzt werden soll kann dies direkt über die API geschehen. Beispielsweise Archivierung von neuen Dokumenten, Herunterladen von existierenden Dokumenten oder verändern von Indexdaten. \r\n\r\nVoraussetzungen:\r\nDie topfact Archiv! API (Cloud oder on Premise) ist für das Drittsystem erreichbar (siehe technische Voraussetzungen)\r\nEin valider topfact Nutzer mit topfact Archiv Lizenz existiert.\r\n\r\nBeispiel: \r\nEin Kunde betreibt eine Eigenprogrammierung oder ein weiteres Drittsystem möchte das topfact Archiv direkt aus dem Code heraus nutzen. \r\n\r\nweitere Dokumentation: \r\nSystemvoraussetzungen für topfact Cloud\r\ntopfact Archiv! API Dokumentation",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=8328906c-ad5f-4a22-8ed9-7b7c5b31e7c3"
-}

@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  198 Modul-ID:69</span><br><br /><h3>Beenden </h3><p>Beendet den QuickIndex.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_198.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  198 Modul-ID:69</span><hr/>

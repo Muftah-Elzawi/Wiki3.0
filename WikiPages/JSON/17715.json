@@ -1,7 +1,0 @@
-{
-  "PageID": 17715,
-  "PageGuid": "49d72afa-74f4-453d-9b26-0343fcd24da9",
-  "Title": "topfact6 Systemvoraussetzungen - Server als Webserver konfigurieren (IIS - Internet Information Server)",
-  "Content": "Da das topfact Archiv! über APIs angesprochen wird muss der Server als Webserver konfiguriert werden. \r\n\r\nServer als Webserver konfigurieren\r\nIm Windows-Menü nach \"server\" suchen bringt den Server-Manager. \r\n\r\n\r\nIm Server Manager findet sich oben Rechts unter \"Verwalten\" die Konfiguration für \"Rollen und Features\"\r\n\r\n\r\nIm jetzt erscheinenden Wizard wählen wir:\r\n·Installationstyp: Rollenbasierte oder featurebasierte Installation\r\n·Serverauswahl: den lokalen Server\r\n·Serverrollen: per Checkbox \"Webserver (IIS)\" aktivieren und als Feature hinzufügen\r\n·Features: keine weitere Auswahl nötig\r\n·Rollendienste: keine weitere Auswahl nötig\r\n·Installieren \r\n\r\n\r\nDanach sollte der Server als Webserver agieren und auch der IIS Manager zur Verfügung stehen. \r\nSiehe auch https://learn.microsoft.com/de-de/iis/get-started/introduction-to-iis/iis-web-server-overview",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=49d72afa-74f4-453d-9b26-0343fcd24da9"
-}

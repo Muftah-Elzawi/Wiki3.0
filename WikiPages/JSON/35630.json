@@ -1,7 +1,0 @@
-{
-  "PageID": 35630,
-  "PageGuid": "22ef4985-8509-436a-bb0b-a40692c8638b",
-  "Title": "topfact6 MyWork - MyWork Vorlagen - Ausgabeverzeichnis vor dem Erstellen leeren",
-  "Content": "Letzte Aktuallisierung am : 25.03.2024\r\nModul-ID : 65\r\nMyWork Vorlagen\r\nZeigt alle für den Benutzer verfügbaren Vorlagen an.\r\n\r\n\r\nBeginn Funktions-ID: 292 Modul-ID:65\r\nAusgabeverzeichnis vor dem Erstellen leeren\r\nEntfernt vor dem Erstellen des Dokuments alle Dateien aus dem Ausgangsverzeichnis. \r\n\r\n\r\n\r\nParameter der Funktion\r\nAusgabeverzeichnis\r\n-> Speicherort der erstellten Dokumente.\r\nHinweis\r\nIm Ausgabeverzeichnis gespeicherte Dateien werden entfernt und stehen nicht mehr zur Verfügung.\r\nEnde Funktions-ID: 292 Modul-ID:65",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=22ef4985-8509-436a-bb0b-a40692c8638b"
-}

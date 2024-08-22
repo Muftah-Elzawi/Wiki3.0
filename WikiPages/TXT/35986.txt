@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  505 Modul-ID:84</span><br><br /><h3>Status: Löschen</h3><p>Entfernt den fokussierten Status aus der Liste.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\84_505.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  505 Modul-ID:84</span><hr/>

@@ -1,7 +1,0 @@
-{
-  "PageID": 17725,
-  "PageGuid": "49a1060d-2474-4a55-922c-4f11723a6748",
-  "Title": "topfact Cloud TransferService Einstellungen",
-  "Content": "Die Einstellungsseite bietet die Möglichkeit die Anwendung topfact Cloud TransferService zu konfigurieren.\r\nDie Parameter zu Ihrer Organisation erhalten Sie vom topfact Cloud Team.\r\n\r\nFunktion\r\nBeschreibung\r\ntopfactCloud Service API\r\ndie Webservice Adresse an die alle Daten gesendet werden. Dieser Eintrag ist nicht änderbar.\r\ntopfactCloud Service Zertifikat\r\nDas Zertifikat welches durch die Adresse \"https://app.topfactcloud.de\" verwendet wird. Dieser Eintrag ist nicht änderbar.\r\nOrganisation GUID\r\nDie topfact Cloud Identity der Organisation.\r\nOrganisation Zugriffsschlüssel\r\nDer Organisation Zugriffsschlüssel. Der Zugriffsschlüssel entspricht einem Kennwort.\r\nUpload Timer in Sekunden\r\nVeraltet wird nicht mehr verwendet.\r\nUpload Timeout in Sekunden\r\nTimeout für den Datei oder Datenupload. Wird der Timeout überschritten bricht der Uploadvorgang ab.\r\nInformationen bei der Verarbeitung von Dateien anzeigen\r\nVeraltet wird nicht mehr verwendet.\r\nLebenssignal an Webservices der topfact AG senden?\r\nSendet ein Signal an den topfact Analytics Webservice. Diese Option dient zur Supportoptimierung.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=49a1060d-2474-4a55-922c-4f11723a6748"
-}

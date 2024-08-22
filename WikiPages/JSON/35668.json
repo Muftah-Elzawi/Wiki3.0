@@ -1,7 +1,0 @@
-{
-  "PageID": 35668,
-  "PageGuid": "459c63df-85e3-476c-853b-6464a52f3f45",
-  "Title": "topfact6 MyWork - MyWork Dokumentenstruktur - Eigenschaften",
-  "Content": "Beginn Funktions-ID: 273 Modul-ID:68\r\nEigenschaften\r\nZeigt die Systeminformationen zu dem fokussierten Dokument an.\r\n\r\n\r\n\r\nParameter der Funktion\r\nSystemdaten\r\n-> Es werden alle vom System gespeicherten technischen Daten des Dokumentes gelistet. Zum Beispiel Dokument ID, Anzahl von Dateien, Speicherverbrauch und letzte Änderung.\r\nDateien\r\n-> Alle zu diesem Dokument gehörigen Dateien werden gelistet.\r\nOCR\r\n-> Zeigt den vom OCR Server erkannten Volltext des Dokumentes an.\r\nArchivhistorie\r\n-> Alle Datenbank Aktionen die mit diesem Dokument durchgeführt wurden, werden hier aufgelistet. Zum Beispiel Änderungen oder lesender Zugriff.\r\nKommentare\r\n-> Alle Stempel und Kommentare zu diesem Dokument werden aufgelistet.\r\nEnde Funktions-ID: 273 Modul-ID:68",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=459c63df-85e3-476c-853b-6464a52f3f45"
-}

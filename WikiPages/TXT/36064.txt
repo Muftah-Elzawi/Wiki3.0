@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  611 Modul-ID:85</span><br><br /><h3>Sachkonten: Kopieren</h3><p>Kopiert das Sachkonto und legt die Kopie als neuen Eintrag in der Liste an.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\85_611.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  611 Modul-ID:85</span><hr/>

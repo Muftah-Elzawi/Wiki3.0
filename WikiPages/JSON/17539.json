@@ -1,7 +1,0 @@
-{
-  "PageID": 17539,
-  "PageGuid": "cfb09f23-a54b-478a-bdaa-4826513054d6",
-  "Title": "Wie funktioniert die exakte oder unscharfe Suche in MyWork6",
-  "Content": "Unscharfe Suche\r\nDie unscharfe Suche, auch \"Wie\" oder \"LIKE\" Suche genannt, ist eine Suche um Teile eines Archivfeldes zu durchsuchen dessen genauen Inhalt man nicht kennt.\r\nDie Suchmaske von MyWork6 fügt an den eingegeben Wert automatisch Sterne (*) vor und nach dem eingegeben Wert ein.\r\nDadurch wird der Suchfunktion des Archives die Anweisung gegeben eine LIKE Suche auszuführen.\r\nBeispiel:\r\nEs wird der Wert \"top\" eingegeben. Mit der aktivierten unscharfen Suche wird im Archiv nach dem Wert *top* gesucht. Mögliche Treffer wären dann die Werte \"topfact AG\", \"Sport Topfit GmbH\" oder \"topteam\".\r\n\r\n\r\n\r\n\r\nExakte Suche\r\nDie exakte Suche durchsucht das Archivfeld nach genau dem Wert der eingegeben wurde. Es werden keine Platzhalter (*) angefügt.\r\nD.h. der Benutzer muss den genauen Wert des Feldes kennen um danach zu suchen.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=cfb09f23-a54b-478a-bdaa-4826513054d6"
-}

@@ -1,7 +1,0 @@
-{
-  "PageID": 31674,
-  "PageGuid": "639801b7-f2e6-4383-b951-2f5a4105d039",
-  "Title": "Downloadlink auf ein Dokument im topfact Archiv ohne Login",
-  "Content": "Anwendungsfall:\r\nEin Nutzer möchte ein Dokument aus dem Archiv zur externen Nutzung ohne topfact Login bereitstellen. \r\n\r\nVoraussetzungen:\r\nDer Empfänger hat Zugriff auf das topfact Archiv System (z.B. topfact Cloud oder über das VPN zum onPremise Archiv)\r\nDer Nutzer hat das Funktionsrecht zum Erzeugen von Downloadlinks.\r\nDer Downloadlink ist gültig da seine zeitliche Einschränkung noch nicht abgelaufen ist.\r\n\r\nBeispiel: \r\nEin Nutzer möchte dem externen Partner eine Dokumentation zum Download bereitstellen. Der externe Partner hat keinen topfact Login. Der Downloadlink soll für 7 Tage gültig sein.\r\nEin Nutzer möchte ein Softwarepaket zum dauerhaften Download im Wiki bereitstellen\r\nweitere Dokumentation: \r\nFAQ Downloadlink in MyWork erstellen",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=639801b7-f2e6-4383-b951-2f5a4105d039"
-}

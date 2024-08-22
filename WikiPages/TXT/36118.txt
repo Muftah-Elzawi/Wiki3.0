@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  645 Modul-ID:88</span><br><br /><h3>Benutzersitzungen: Aktualisieren</h3><p>Die Ansicht der Sitzungen wird aktualisiert.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\88_645.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  645 Modul-ID:88</span><hr/>

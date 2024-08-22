@@ -1,5 +1,0 @@
- <style>
-      h6 {
-        background-color: #fff00;
-      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 69<br /><h1>MyWork QuickIndex</h1><p>Mit Klick auf den Menüband-Button "QuickIndex anzeigen" öffnet sich das Quickindex-Fenster. In der Modul "QuickIndex" lassen sich Dokumente anzeigen, Indexdaten ändern sowie Stempel und Kommentare zu einem Dokument hinzufügen.</p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  181 Modul-ID:69</span><br><br /><h3> Vergrößern</h3><p>Vergrößert die Anzeige des Dokumentes. Die Ansicht wird immer um 10% vergrößert.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_181.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  181 Modul-ID:69</span><hr/>

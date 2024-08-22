@@ -1,5 +1,0 @@
- <style>
-      h6 {
-        background-color: #fff00;
-      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 76<br /><h1>Administration Jobserver Aufgaben</h1><p>Übersicht über die Jobserver Aufgaben. Aufgaben können angelegt und bearbeitet werden.</p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  410 Modul-ID:76</span><br><br /><h3>Ansicht aktualisieren </h3><p>Aktualisiert die Ansicht der Aufgabenliste. 
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\76_410.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  410 Modul-ID:76</span><hr/>

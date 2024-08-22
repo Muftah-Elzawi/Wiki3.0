@@ -1,7 +1,0 @@
-{
-  "PageID": 35640,
-  "PageGuid": "6db55b83-0083-4381-be78-a5e45f2b01f2",
-  "Title": "topfact6 MyWork - MyWork Aufgaben - Aufgabe bearbeiten",
-  "Content": "Letzte Aktuallisierung am : 25.03.2024\r\nModul-ID : 67\r\nMyWork Aufgaben\r\nAufgaben können angelegt, bearbeitet oder erledigt werden.\r\n\r\n\r\nBeginn Funktions-ID: 222 Modul-ID:67\r\nAufgabe bearbeiten\r\nDie Aufgabe wird auf der rechten Seite des Bildschirms angezeigt und kann dort bearbeitet werden.\r\n\r\n\r\n\r\nParameter der Funktion\r\nStatus\r\n-> Der Status beschreibt den derzeitigen Bearbeitungszustand einer Aufgabe. Zum Beispiel neu, in Bearbeitung oder erledigt.\r\nPriorität\r\n-> Beschreibt mit welcher Dringlichkeit eine Aufgabe erledigt werden sollte. Zum Beispiel Priorität hoch, normal und niedrig.\r\nStartdatum\r\n-> Zu diesem Zeitpunkt soll die Bearbeitung der Aufgabe begonnen werden. \r\nFälligkeitsdatum\r\n-> Zu diesem Zeitpunkt soll die Aufgabe erledigt sein.\r\nWiedervorlage\r\n-> Bei Aufgaben die sich regelmäßig wiederholen kann angegeben werden wann diese Aufgabe das nächste Mal zu erledigen ist.\r\nEnde Funktions-ID: 222 Modul-ID:67",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=6db55b83-0083-4381-be78-a5e45f2b01f2"
-}

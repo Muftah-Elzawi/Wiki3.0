@@ -1,4 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  173 Modul-ID:69</span><br><br /><h3>Volltext Reiter</h3><p>Der OCR Server liest zu jedem Dokument den Volltext aus und speichert diesen in der Volltextdatenbank. Hier wird der Volltextdatenbankeintrag zu diesem Dokument geladen und angezeigt.
-
-Über die Suchleiste über dem Volltext kann der Volltext nach einem Suchbegriff durchsucht werden. Wird der Begriff gefunden wird dieser farbig hinterlegt.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_173.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  173 Modul-ID:69</span><hr/>

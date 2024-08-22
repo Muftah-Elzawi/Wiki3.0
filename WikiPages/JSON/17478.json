@@ -1,7 +1,0 @@
-{
-  "PageID": 17478,
-  "PageGuid": "3092274d-3834-431b-b035-45fb6ca19e2c",
-  "Title": "Auswahllisten im Quickindex werden nicht angezeigt",
-  "Content": "Frage\r\nNach dem Zurücksetzen vom Quickindex werden die Auswahllisten nicht mehr angezeigt. Woran liegt das?\r\nAntwort / Lösung\r\nBetrifft MyWork Version 2020: Im Quickindex können persönliche Einstellungen hinterlegt werden. Diese sind ebenfalls zu löschen.\r\n\r\nKlicken Sie im Hauptmenü des QuickIndex auf \"QuickIndex anpassen\"\r\n\r\n\r\n\r\nIn der Anpassungsmaske die Einstellungen über den Button mit dem roten Kreuz löschen und die Löschung bestätigen:\r\n\r\nAbschließend den Quickindex neu starten.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=3092274d-3834-431b-b035-45fb6ca19e2c"
-}

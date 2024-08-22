@@ -1,7 +1,0 @@
-{
-  "PageID": 17606,
-  "PageGuid": "7b8d7207-11bf-4685-8f2a-1be513969f4f",
-  "Title": "Anpassung des Quickindex an unterschiedliche Bildschirme",
-  "Content": "Der Quickindex in topfact6 MyWork reagiert auf die aktuelle Auflösung (häufig 1920x1080) und Ausrichtung (Hoch oder Querformat) und passt seine Darstellung insbesondere des Menübands entsprechend an, um alle Funktionen auch bei nur wenig Platzangebot darstellen zu können. \r\n\r\nSie können das Platzangebot optimal nutzen, indem Sie bspw. die Stempel als Menü anzeigen. Dadurch sparen Sie im Menüband Platz. Diese Einstellungsmöglichkeit finden Sie im Quickindex (ab Version 2022.7.)\r\n\r\n\r\n\r\n\r\n\r\nZusätzlich können Sie sich die tatsächliche Dokumentenanzeige anpassen, indem Sie die unterschiedlichen Reiter für die Indexdaten, die Stempel, den Volltext ausblenden oder neu anordnen. Im folgenden Video sehen, wie per Drag&Drop die Anzeige im Quickindex auf einen im Hochformat ausgerichteten Bildschirm angepasst wird:\r\n\r\n\r\nIm diesem Video sehen Sie, wie Sie die einzelnen Panels im Quickindex  (Indexdaten im Änderungsdialog, Stempelübersicht, Volltext, oder die Dokumentenvorschau) als Reiter organisieren oder automatisch ausblenden. \r\n\r\n\r\nWie Sie den Quickindex wieder in den ursprünglichen Zustand zurückversetzen, erfahren Sie in diesem Wiki-Artikel.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=7b8d7207-11bf-4685-8f2a-1be513969f4f"
-}

@@ -1,7 +1,0 @@
-{
-  "PageID": 17016,
-  "PageGuid": "f29c69bc-0ce1-483f-a8b4-18c7d3fbd0be",
-  "Title": "FAQ GWC",
-  "Content": "Detlev Eberhardt\r\nHOTLINE@TOPFACT.DE\r\n\r\nGWC Anlage eines Regulären Ausdrucks zur automatischen Ergänzung der Archivdaten\r\n \r\nAktivierung der automatischen Zuordnung der Vorgangsnummer bei der Ablage über den GWC:\r\nAnlage einer View mit der Vorangsnummer und der Raute:\r\nSELECT        ID, '#' + CONVERT(VARCHAR(10), ID) + '#' AS Vorgang\r\nFROM            topteam.dbo.tblAktivitaet\r\n \r\nAnlage eines regulären Ausdrucks je GWC Konfigruation:\r\nAusdruck: #\\d{4,5}#\r\nTabelle: vw_Vorgänge\r\nAuswahlfeld: ID\r\nBedingung: Vorgang = '{0}'\r\n\r\n\r\n\r\nErgänzung: Konfiguration für die Archivsuche aus Topteam",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=f29c69bc-0ce1-483f-a8b4-18c7d3fbd0be"
-}

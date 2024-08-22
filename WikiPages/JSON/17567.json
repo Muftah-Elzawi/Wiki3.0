@@ -1,7 +1,0 @@
-{
-  "PageID": 17567,
-  "PageGuid": "6ecdbc38-d13b-4d49-9b33-bf2f0b0fff7a",
-  "Title": "FAQ DocuWare Migration übergibt als Dateinamen 0.pdf das führt beim Export aus MyWork zu Aufwänden",
-  "Content": "Frage\r\nDie DocuWare Migration übergibt teilweise als Dateinamen 0.pdf das führt beim Export von mehreren Dokumenten aus MyWork zu Nachfrage ob die erste Datei überschrieben werden soll. Wie kann das vermieden werden?\r\nAntwort / Lösung\r\nDer Dateiname den topfact verwendet kann automatisiert angepasst werden. Über das folgende Skript wird z. B. die TF_DocID und die eindeutige TF_FileID einmalig in den Dateinamen integriert.\r\n\r\nBeispiel für 2 Archive:\r\nupdate a\r\nset\r\n      [filename] = convert(varchar,tf_docid) + '_' + convert(varchar,tf_fileid) + '_' + filename  \r\n  FROM [topfactArchiv].[dbo].[tf_Archive001Files] as a\r\n  where filename = '0.pdf';\r\n \r\n  update a\r\nset\r\n      [filename] = convert(varchar,tf_docid) + '_' + convert(varchar,tf_fileid) + '_' + filename  \r\n  FROM [topfactArchiv].[dbo].[tf_Archive002Files] as a\r\n  where filename = '0.pdf';",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=6ecdbc38-d13b-4d49-9b33-bf2f0b0fff7a"
-}

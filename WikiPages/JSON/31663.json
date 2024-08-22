@@ -1,7 +1,0 @@
-{
-  "PageID": 31663,
-  "PageGuid": "7f6dee56-6a76-4f17-9512-7c38c0705be0",
-  "Title": "CSV-Reader zur Verarbeitung von CSV-Datensätzen",
-  "Content": "Anwendungsfall:\r\nGelegentliche Abholung und Verarbeitung von exportierten Datensätzen aus einem Drittsystem ohne Datenbankzugriff \r\n\r\nVoraussetzungen:\r\nEin Drittsystem oder ein Nutzer stellt eine CSV Datei in einem Netzlaufwerk zur Verfügung \r\nDer Abholpfad muss von dem topfact6 System erreichbar sein (Lese- und Schreibzugriff)\r\n\r\nBeispiel: \r\nEin Nutzer möchte Stammdatensätze aus einem Drittsystem über den manuellen Exportlauf für das topfact System bereitstellen. Dieser Export findet entweder manuell statt oder durch einen Automatismus des Drittsystems. Nach dem Exportlauf soll die weitere Verarbeitung automatisch erfolgen.\r\nweitere Dokumentation: \r\nkeine",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=7f6dee56-6a76-4f17-9512-7c38c0705be0"
-}

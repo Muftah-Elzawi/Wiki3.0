@@ -1,7 +1,0 @@
-{
-  "PageID": 11356,
-  "PageGuid": "3885fd6a-7ca8-4d68-86f8-a8707b4456ba",
-  "Title": "Update Status für Kündigungsparameter",
-  "Content": "Setzt den Status des Vertrages anhand des Datumfeldes \"Terminated\" in Duration auf den angegebenen Wert.\r\n-- =============================================\r\n-- Author: Stefan Bätz, topfact AG\r\n-- Create date: 27.01.2016\r\n-- Description: -\r\n-- =============================================\r\nCREATE PROCEDURE [dbo].[Sync_TT_SetContractStatus]\r\nAS\r\nBEGIN\r\n\r\nSET NOCOUNT ON;\r\n\r\nDECLARE @id int;\r\n\r\nDECLARE mycur CURSOR FOR \r\nSELECT\r\nVorgangID\r\nFROM\r\ntblContract\r\nWHERE\r\n(Terminated IS NOT NULL) AND (Terminated < GETDATE());\r\n\r\nOPEN mycur\r\n\r\nFETCH NEXT FROM mycur \r\nINTO @id\r\n\r\nWHILE @@FETCH_STATUS = 0\r\nBEGIN\r\n\r\nUPDATE\r\ntblAktivitaet\r\nSET\r\nfk_tblStatus = 63\r\nWHERE\r\nID = @id\r\n\r\nFETCH NEXT FROM mycur \r\nINTO @id\r\nEND \r\nCLOSE mycur;\r\nDEALLOCATE mycur;\r\n\r\nEND\r\n\r\nGO",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=3885fd6a-7ca8-4d68-86f8-a8707b4456ba"
-}

@@ -1,7 +1,0 @@
-{
-  "PageID": 17605,
-  "PageGuid": "afb1eb22-32a7-4cc7-af61-8eaf00e6d0fa",
-  "Title": "FAQ - Warum läuft mein MyWork Update nicht korrekt durch?",
-  "Content": "Frage\r\nIch bekomme beim Programmstart immer die Meldung dass es ein Update gibt. Klicke ich auf ausführen kommt die Meldung dass meine Version die neueste tf6 Version ist. Warum läuft das Update nicht durch?\r\nAntwort / Lösung\r\nDie Anwender benötigen Schreibrechte auf den Pfad %programdata%\\topfact AG\\update also z.B.  auf C:\\ProgramData\\topfact AG\\Update und alle Unterverzeichnisse. Nur wenn das gegeben ist, kann das System automatische Updates durchführen.\r\n\r\nzum Test kopieren Sie einfach den Pfad in Ihren Windows Explorer bestätigen Sie mit Enter\r\n\r\n\r\n\r\nWenn Sie dort einen neuen Ordner anlegen und diesen wieder löschen können, dann haben Sie Schreibrechte.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=afb1eb22-32a7-4cc7-af61-8eaf00e6d0fa"
-}

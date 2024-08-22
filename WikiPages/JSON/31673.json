@@ -1,7 +1,0 @@
-{
-  "PageID": 31673,
-  "PageGuid": "cd287e62-7222-4eb5-8f20-33125d17af55",
-  "Title": "TeamsNotifier zur Eskalation oder Benachrichtigung von Nutzergruppen in Teams-Kanälen",
-  "Content": "Anwendungsfall:\r\nBenachrichtigung von Nutzergruppen in einem Teams-Kanal über einen Systemzustand, offene Aufgaben oder eine Eskalation\r\n\r\nVoraussetzungen:\r\nEs existiert ein valider WebHook in einen TeamsKanal der von topfact genutzt werden kann\r\n\r\nBeispiel: \r\nNutzer möchten täglich über ihre offenen zu prüfenden Rechnungen informiert werden\r\nEin Systemadministrator möchte über Prozessabweichungen oder Probleme informiert werden\r\nEine Nutzergruppe möchte einen wöchentlichen Bericht erhalten\r\nDie Informationen werden als Nachricht in einem vorher definierten Teams-Kanal gepostet\r\nAus der Teams Nachricht heraus können über direkte Links entweder Archivsuchen in MyWork, einzelne Dokumente in MyWork oder einzelne Dokumente im topfact WebClient geöffnet werden\r\n\r\nweitere Dokumentation: \r\nEinrichtung eines WebHooks für einen Microsoft Teams Kanal\r\nAls Teams-Admin über Teams > ... mehr > Kanal verwalten > Connectors > Webhook\r\nhttps://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?tabs=newteams%2Cdotnet",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=cd287e62-7222-4eb5-8f20-33125d17af55"
-}

@@ -1,1 +1,0 @@
-Dieser FAQ beschreibt in Schritten die Installation und Konfiguration des topfact6 Jobservers.

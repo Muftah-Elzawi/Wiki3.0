@@ -1,7 +1,0 @@
-{
-  "PageID": 17207,
-  "PageGuid": "d003c62f-7e63-4dd4-bd75-3e3c520d7f45",
-  "Title": "FileCleaner Konfiguration",
-  "Content": "Der Filecleaner ist eine JobServer Modul. Es löscht zyklisch Dateien und/oder Verzeichnisse nach Konfigurationsvorgaben. \r\nTypischer Weise finden sich Aktionen des FileCleaner in der Aufgabe \"Systembereinigung\", können aber überall zum Einsatz kommen.\r\n\r\nGrundsätzlich können alle Dateien und Verzeichnisse in die Aktion eingebunden werden. Die technische Durchführung geschieht mit den Rechten des Diensteusers vom topfact6 Jobserver.\r\n\r\nBeispiel:\r\nZur Einrichtung folgen Sie der Konfigurationsmaske. Im nachfolgenden Beispiel werden mit jedem Durchlauf alle Dateien im Ordner \"C:\\Users\\DW-Admin\\AppData\\Local\\topfact AG\\Jobserver Paperworks\" gelöscht. \r\n\r\n\r\nDer Zyklus findet einmal täglich ab 22 Uhr, an allen Wochentagen statt.",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=d003c62f-7e63-4dd4-bd75-3e3c520d7f45"
-}

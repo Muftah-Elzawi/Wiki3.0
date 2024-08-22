@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  211 Modul-ID:62</span><br><br /><h3>Buchungsliste anzeigen</h3><p>Es wird eine Auflistung aller Buchungsätze angezeigt, die im Zusammenhang mit dem fokussierten Beleg stehen.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\62_211.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  211 Modul-ID:62</span><hr/>

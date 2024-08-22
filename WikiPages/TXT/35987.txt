@@ -1,5 +1,0 @@
- <style>
-      h6 {
-        background-color: #fff00;
-      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 85<br /><h1>Administration MyWork FiBuConnect</h1><p>Hier können Einstellungen für den Bereich FiBuConnect der Anwendung MyWork vorgenommen werden.</p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  548 Modul-ID:85</span><br><br /><h3>Bankverbindungen: Aktualisieren</h3><p>Aktualisiert die Ansicht der Bankverbindungen. Änderungen werden evtl. erst nach einer Aktualisierung angezeigt. 
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\85_548.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  548 Modul-ID:85</span><hr/>
