@@ -1,5 +1,0 @@
-<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=D79F4E20-A727-482E-91BC-AA4E5F5F8236" target="_blank">Wiki-Link	topfact6 Administration - Administration Profile - Bearbeiten</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=3D03B526-F815-4F5B-AEA1-9F1CBC2F6B4D" target="_blank">Wiki-Link	topfact6 Administration - Administration Profile - Anlegen</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=B6137756-4256-4802-9224-9B544419675F" target="_blank">Wiki-Link	topfact6 Administration - Administration Profile - Aktualisieren</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=38790BB3-8539-4E2F-BA14-D5920DE5F681" target="_blank">Wiki-Link	topfact6 Administration - Administration Profile - Löschen</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=5151730C-49DB-4928-BC16-2D7B7ED7CC81" target="_blank">Wiki-Link	topfact6 Administration - Administration Profile - Exportieren</a>

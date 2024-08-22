@@ -1,4 +1,0 @@
-<h2>Frage</h2>
-<div>Welche Voraussetzungen sind zur lokalen Installation von topfact zu erfüllen?</div>
-<p></p>
-<h2>Antwort / Lösung</h2>Windows Server 2019 (64-bit)<br />Microsoft SQL Server 2019 (Express, Standard, Enterprise) <br />Mind. 16 GB RAM<br />Mind. 250 GB HDD / SDD Speicher (in Abhängigkeit vom Dokumentenvolumen)<br />CPU: mindestens 2 * 1,4 GHz, empfohlen 2* 3,2 GHz<br /><br />Grundsätzlich kann topfact auch auf älteren Systemen installiert werden. Bitte teilen Sie uns in diesem Fall Ihre konkrete Einrichtungsplanung unter hotline@topfact.de mit.<br />

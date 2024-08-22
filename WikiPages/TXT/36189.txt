@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  718 Modul-ID:98</span><br><br /><h3>Ansicht drucken </h3><p>Übergibt die aktuelle Ansicht an die Druckeranwendung.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\98_718.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  718 Modul-ID:98</span><hr/>

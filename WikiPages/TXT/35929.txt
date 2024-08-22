@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  475 Modul-ID:83</span><br><br /><h3>Dialoge: Entfernen</h3><p>Entfernt den fokussierten Dialog aus der Liste. Ein entfernter Dialog steht in MyWork nicht mehr zur Verfügung.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\83_475.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  475 Modul-ID:83</span><hr/>

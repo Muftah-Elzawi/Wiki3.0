@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  460 Modul-ID:83</span><br><br /><h3>Einstellungen: Mailvorbereitung per MAPI</h3><p>Aktiviert die Mailvorbereitung per MAPI. Standardmäßig ist diese Funktion inaktiv.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\83_460.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  460 Modul-ID:83</span><hr/>

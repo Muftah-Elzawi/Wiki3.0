@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  476 Modul-ID:83</span><br><br /><h3>Dialoge: Aktualisieren</h3><p>Aktualisiert die Ansicht der Dialogliste. Änderungen werden evtl. erst nach einer Aktualisierung der Liste angezeigt.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\83_476.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  476 Modul-ID:83</span><hr/>

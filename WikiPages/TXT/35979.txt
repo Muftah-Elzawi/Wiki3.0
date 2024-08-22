@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  510 Modul-ID:84</span><br><br /><h3>Priorität: Aktualisieren</h3><p>Aktualisiert die Ansicht der Prioritätentabelle. Änderungen werden evtl. erst nach einer Aktualisierung angezeigt.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\84_510.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  510 Modul-ID:84</span><hr/>

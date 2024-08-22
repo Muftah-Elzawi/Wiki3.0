@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  179 Modul-ID:69</span><br><br /><h3>Gehe zur Seite </h3><p>Es öffnet sich ein Dialog mit dem zu einer bestimmten Seite navigiert wird.  
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\69_179.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  179 Modul-ID:69</span><hr/>

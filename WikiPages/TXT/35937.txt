@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  489 Modul-ID:83</span><br><br /><h3>Dokumentensignatur: Signatur Service URL</h3><p>Eingabefeld für die URL des Signaturen Web Service. Dieser Service wird genutzt, wenn in MyWork die Signaturen Funktion benutzt wird.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\83_489.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  489 Modul-ID:83</span><hr/>

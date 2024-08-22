@@ -1,5 +1,0 @@
- <style>
-      h6 {
-        background-color: #fff00;
-      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 78<br /><h1>Administration Jobserver Module</h1><p>Übersicht über die Jobserver Module. Module können angelegt und verwaltet werden.</p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  426 Modul-ID:78</span><br><br /><h3>Ansicht aktualisieren </h3><p>Die Ansicht der Modulliste wird aktualisiert.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\78_426.png" alt="" /><br /></div><br><br /><span style="color: #303030; font-weight: 500; text-align: left; text-decoration-color: initial; background-color: #ffff00; ">Hinweis</span><br /><p>Änderungen an den Modulen werden evtl. erst nach Aktualisierung angezeigt.</p><span style="color: #808080;"> Ende Funktions-ID:  426 Modul-ID:78</span><hr/>

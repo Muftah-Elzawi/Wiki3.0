@@ -1,1 +1,0 @@
-<p>Auf die Seite erfahren Sie wie sie selbständig ihr Kennwort in topfact6 zurücksetzen können,</p><div class="alert alert-info">Diese Funktion ist seit der Version topfact6 MyWork 2023.1&nbsp;verfügbar.</div>

@@ -1,5 +1,0 @@
- <style>
-      h6 {
-        background-color: #fff00;
-      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 83<br /><h1>Administration MyWork</h1><p>Hier können Einstellungen für die Anwendung MyWork vorgenommen werden.</p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  488 Modul-ID:83</span><br><br /><h3>Datenauswahl: Aktualisieren</h3><p>Aktualisiert die Ansicht der Datenauswahlliste. Änderungen werden evtl. erst nach einer Aktualisierung angezeigt.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\83_488.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  488 Modul-ID:83</span><hr/>

@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  154 Modul-ID:71</span><br><br /><h3>Reiter Einstellungen: Benutzer Kennwort zurücksetzen</h3><p>Altes Kennwort wird gelöscht und ein neues wird von Benutzer gewählt.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\71_154.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  154 Modul-ID:71</span><hr/>

@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  236 Modul-ID:64</span><br><br /><h3>Finden</h3><p>Startet eine Volltextsuche und zeigt die Stelle des Berichts an, an der das eingegebene Suchwort zum ersten Mal vorkommt.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\64_236.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  236 Modul-ID:64</span><hr/>

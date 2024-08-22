@@ -1,5 +1,0 @@
-<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=A9EC1047-5079-4EC7-B448-4AF046C8C3A3" target="_blank">Wiki-Link	topfact6 Administration - Administration Gruppen - Aktualisieren</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=F0147FD5-7B7D-4ADC-AA96-30B8315EE199" target="_blank">Wiki-Link	topfact6 Administration - Administration Gruppen - Löschen</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=023C7BCA-E964-4569-8133-AEF7D327C368" target="_blank">Wiki-Link	topfact6 Administration - Administration Gruppen - Exportieren</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=50C45115-BA94-4637-8296-3BE39F867355" target="_blank">Wiki-Link	topfact6 Administration - Administration Gruppen - Bearbeiten</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=9B84F3F9-FAD4-4673-9E40-4F3199BD2DEA" target="_blank">Wiki-Link	topfact6 Administration - Administration Gruppen - Anlegen</a>

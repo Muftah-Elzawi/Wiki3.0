@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  450 Modul-ID:81</span><br><br /><h3>Bereich ändern</h3><p>Wechsel des Bereichs dessen Dokumentenstruktur angezeigt werden soll. Auswahl zwischen Firma, Mitarbeiter, Termin und Anlage.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\81_450.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  450 Modul-ID:81</span><hr/>

@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  750 Modul-ID:103</span><br><br /><h3>Als gelesen markieren </h3><p>Die fokussierte Aufgabe wird als gelesen markiert.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\103_750.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  750 Modul-ID:103</span><hr/>

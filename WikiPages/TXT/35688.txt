@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  264 Modul-ID:68</span><br><br /><h3>QuickCheck</h3><p>Es wird ein gewählter Stempel auf das Dokument gesetzt ohne dieses im QuickIndex zu öffnen.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\68_264.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  264 Modul-ID:68</span><hr/>

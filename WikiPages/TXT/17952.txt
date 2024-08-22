@@ -1,8 +1,0 @@
-<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=45C19D26-5B4B-49EB-B0AA-DB2C31DE25FE" target="_blank">Wiki-Link	topfact6 Administration - Administration Best People - Archiv wählen</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=37233F5D-1325-4ED9-A3B4-FF8045CD8D1A" target="_blank">Wiki-Link	topfact6 Administration - Administration Best People - Dokument im Archiv verschlüsseln</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=73C10D2F-23CF-4CD3-A0B1-BA71FE4DDD4C" target="_blank">Wiki-Link	topfact6 Administration - Administration Best People - Programmbereich</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=D4887572-5D2B-41ED-A3A1-363041C79F08" target="_blank">Wiki-Link	topfact6 Administration - Administration Best People - Aktualisieren</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=B5D37836-28A2-4D91-BA4F-38723EA07A29" target="_blank">Wiki-Link	topfact6 Administration - Administration Best People - Löschen</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=A2295091-6880-4194-BA73-4EC5446B8C7B" target="_blank">Wiki-Link	topfact6 Administration - Administration Best People - Bearbeiten</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=133407FD-493E-487F-985C-10022EDD4698" target="_blank">Wiki-Link	topfact6 Administration - Administration Best People - Anlegen</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=AF22246E-6DC8-44D3-B3E0-2F7E644E23B9" target="_blank">Wiki-Link	topfact6 Administration - Administration Best People - Verschlüsselungsschlüssel in Zwischenablage kopieren</a>

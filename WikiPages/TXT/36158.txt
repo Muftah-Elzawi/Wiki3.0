@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  672 Modul-ID:93</span><br><br /><h3>Löschen</h3><p>Löscht das fokussierte Profil.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\93_672.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  672 Modul-ID:93</span><hr/>

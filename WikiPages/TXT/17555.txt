@@ -1,1 +1,0 @@
-<p>topfact6 MyWork stellt die Funktion bereit, dass Programm mit Parametern (Argumenten) zu starten.</p><p>Dadurch wird es ermöglicht topfact6 MyWork aus externen Programm aufzurufen und relevante Informationen zu übergeben.</p><p>Aktuell stehen die Funktionen Aufruf &quot;QuickIndex&quot; und &quot;Ergebnisliste&quot; zur Verfügung.</p>

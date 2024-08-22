@@ -1,5 +1,0 @@
- <style>
-      h6 {
-        background-color: #fff00;
-      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 87<br /><h1>Administration Vorlagen</h1><p>Übersicht über alle verfügbaren Vorlagen. </p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  629 Modul-ID:87</span><br><br /><h3> Aktualisieren</h3><p>Aktualisiert die Ansicht der Ergebnisliste. 
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\87_629.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  629 Modul-ID:87</span><hr/>

@@ -1,1 +1,0 @@
-<p>Dieser Artikel beschreibt die möglichen Parameter in&nbsp;topfact WebSearch.</p><p>Topfact WebSearch ist eine Webanwendung die Parameter zur Suche in DMS System auswertet und umwandelt.</p><p>Aus diesen Parametern wird eine Suche an das DMS System erstellt und der Benutzer wird direkt an das Ergebnis weitergeleitet.</p>

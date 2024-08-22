@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  431 Modul-ID:79</span><br><br /><h3>Server als Standard setzen </h3><p>Markiert den Server als Standardserver. 
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\79_431.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  431 Modul-ID:79</span><hr/>

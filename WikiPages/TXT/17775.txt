@@ -1,1 +1,0 @@
-Neben der topfact Benutzer Synchronisation als automatische Lösung zur Benutzerverwaltung, gibt es auch die Möglichkeit, Benutzer manuell zu importieren.

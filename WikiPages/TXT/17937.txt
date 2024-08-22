@@ -1,8 +1,0 @@
-<br><br><b>Liste der öffentlichen Links</b><br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=D3CF067D-CD78-484B-800D-C267DCF27224" target="_blank">Wiki-Linktopfact6 MyWork - MyWork Aufgaben - Dokument anzeigen</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=6DB55B83-0083-4381-BE78-A5E45F2B01F2" target="_blank">Wiki-Linktopfact6 MyWork - MyWork Aufgaben - Aufgabe bearbeiten</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=97D6FDEC-83A6-45C8-AF5D-01AEA509B62B" target="_blank">Wiki-Linktopfact6 MyWork - MyWork Aufgaben - Beschreibung anzeigen</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=46E5C66A-B88D-4AA7-90B0-42FA9BF1FB7C" target="_blank">Wiki-Linktopfact6 MyWork - MyWork Aufgaben - Aufgabe kopieren</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=D5AE6AE3-6C32-4283-8385-0ABBC8623012" target="_blank">Wiki-Linktopfact6 MyWork - MyWork Aufgaben - Aufgabe zuweisen </a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=88854ECF-D0BC-4B8A-9395-688E201567AF" target="_blank">Wiki-Linktopfact6 MyWork - MyWork Aufgaben - Aufgabe erledigen</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=2831F4BE-D572-4DD1-9846-0A2BDEBC6B90" target="_blank">Wiki-Linktopfact6 MyWork - MyWork Aufgaben - Aufgabe übernehmen</a>
-<br /><br />&nbsp;<a href="https://services.topfact.de/wiki/pages/view?g=A2054DE7-AC74-4F20-826D-C14A9B4407E9" target="_blank">Wiki-Linktopfact6 MyWork - MyWork Aufgaben - Aufgabe erstellen </a>

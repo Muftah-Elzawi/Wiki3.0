@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  380 Modul-ID:73</span><br><br /><h3>Barcode </h3><p>Individuelle Barcodes erstellen und einen oder mehrere Barcodes drucken.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\73_380.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  380 Modul-ID:73</span><hr/>

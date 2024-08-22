@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  346 Modul-ID:70</span><br><br /><h3>Nach dieser Spalte gruppieren</h3><p>Bildet Gruppen von Dokumenten, welche in der gewählten Spalte den gleichen Wert haben. Die Gruppen werden standardmäßig aufsteigend sortiert.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\70_346.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  346 Modul-ID:70</span><hr/>

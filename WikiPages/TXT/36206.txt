@@ -1,5 +1,0 @@
- <style>
-      h6 {
-        background-color: #fff00;
-      }  </style><br>Letzte Aktuallisierung am : 25.03.2024<br />Modul-ID : 101<br /><h1>Administration Facility</h1><p>Es können Einstellungen für die Anwendung Facility vorgenommen werden.</p><br><br /><span style="color: #808080;"> Beginn Funktions-ID:  738 Modul-ID:101</span><br><br /><h3> Aktualisieren</h3><p>Aktualisiert die Ansicht der Archivzuordnungen.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\101_738.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  738 Modul-ID:101</span><hr/>

@@ -1,2 +1,0 @@
-<br><br /><span style="color: #808080;"> Beginn Funktions-ID:  350 Modul-ID:70</span><br><br /><h3>Optimale Spaltenbreite</h3><p>Die Spaltenbreite der fokussierten Spalte wird optimal auf den Inhalt der Ergebnisliste angepasst. Das bedeutet die Spalte ist so breit, dass der längste Spalteneintrag komplett zu sehen ist.
-</p><br><br /><div style="text-indent: 20px;"><img src="/wiki/filemanager/images\Funktionskatalog\70_350.png" alt="" /><br /></div><br><br /><p></p><span style="color: #808080;"> Ende Funktions-ID:  350 Modul-ID:70</span><hr/>
