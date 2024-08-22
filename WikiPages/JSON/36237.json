@@ -1,7 +1,0 @@
-{
-  "PageID": 36237,
-  "PageGuid": "1e6adf94-c20f-45fb-9586-ef69bf15560e",
-  "Title": "FAQ wie kann ich die topfact6 Datenbank aktualisieren (topfact Database Tool)",
-  "Content": "FAQ - wie kann ich die topfact6 Datenbank aktualisieren (topfact Database Tool)\r\n\r\nDamit die aktuelle topfact6 MyWork Version einwandfrei funktioniert, muss die topfact6 Datenbank auf dem aktuellen Stand sein. \r\nHier ein Tutorial, wie man die topfact6 Datenbank aktualisieren kann: \r\n\r\n1. topfact Database Tool finden\r\n\r\nDas topfact Database Tool steht in dem Installationsordner der topfact6 Administration\r\nNormalerweise: \"C:\\Program Files (x86)\\topfact AG\\topfact6 Administration\"\r\n\r\n\r\n\r\n2. topfact.Database.exe als Administrator ausführen \r\n\r\n3. Die Datenbank Aktualisieren \r\nSchritt 1 - Datenbank Aktualisierung klicken\r\nSchritt 2 - Datenbank topfact6 auswählen und mit dem Download Button die xml Datei herunterladen\r\nSchritt 3 - Struktur Aktualisierung klicken",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=1e6adf94-c20f-45fb-9586-ef69bf15560e"
-}
