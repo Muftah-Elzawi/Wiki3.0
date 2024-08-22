@@ -1,7 +1,0 @@
-{
-  "PageID": 36208,
-  "PageGuid": "1d08fbfb-14a7-4cdb-9ce9-a578dba4cfc5",
-  "Title": "topfact6 Administration - Administration Facility -  Bearbeiten",
-  "Content": "Beginn Funktions-ID: 736 Modul-ID:101\r\nBearbeiten\r\nÖffnet einen Dialog mit dem eine Archivzuordnung bearbeitet werden kann. \r\n\r\n\r\n\r\nParameter der Funktion\r\nArt\r\n-> Angabe der Art der Archivzuordnung.\r\nFeld\r\n-> Auswahl des ausschlaggebenden Archivfeldes.\r\nWertetyp\r\n-> Auswahl des Typ für den Wert der Archivzuordnung.\r\nWert\r\n-> Auswahl eines Datentyps des Feldeintrages.\r\nArchivzuordnung in \"Alle Dokumente\" verwenden\r\n-> Gibt an, ob diese Zuordnung in \"Alle Dokumente\" genutzt werden soll. \r\nEnde Funktions-ID: 736 Modul-ID:101",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=1d08fbfb-14a7-4cdb-9ce9-a578dba4cfc5"
-}

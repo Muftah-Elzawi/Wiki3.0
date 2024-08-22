@@ -1,7 +1,0 @@
-{
-  "PageID": 36191,
-  "PageGuid": "30b0933a-ee6c-472e-944b-5d51f6a9128b",
-  "Title": "topfact6 Administration - Administration Datensichten -  Bearbeiten",
-  "Content": "Letzte Aktuallisierung am : 25.03.2024\r\nModul-ID : 99\r\nAdministration Datensichten\r\nÜbersicht über die zur Verfügung stehenden Datensichten.\r\n\r\n\r\nBeginn Funktions-ID: 720 Modul-ID:99\r\nBearbeiten\r\nÖffnet einen Dialog zur Bearbeitung der fokussierten Datensicht. \r\n\r\n\r\n\r\nParameter der Funktion\r\nName\r\n-> Bezeichnung der Datensicht.\r\nDatenquelle\r\n-> Auswahl einer Datenquelle für die Datensicht.\r\nAbfrage\r\n-> Auswählen eines Abfragetyps und Eingabe einer Abfrage.\r\nAbfrage prüfen\r\n-> Überprüft ob die Abfrage ein gültiges SQL Statement ist.\r\nAbfrage durchführen\r\n-> Die Datenbankabfrage wird durchgeführt.\r\nDatenbanktabelle\r\n-> Datenbanktabelle die zu der Datensicht gehört.\r\nIDs\r\n-> Eindeutige IDs der Datensicht (ID und GUID) und der Datenquelle.\r\nEnde Funktions-ID: 720 Modul-ID:99",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=30b0933a-ee6c-472e-944b-5d51f6a9128b"
-}
