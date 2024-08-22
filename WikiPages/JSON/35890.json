@@ -1,7 +1,0 @@
-{
-  "PageID": 35890,
-  "PageGuid": "4d59cf78-23fb-4ca4-9178-1cf7ff51fb7d",
-  "Title": "topfact6 Administration - Administration Jobserver Module - Ansicht exportieren",
-  "Content": "Beginn Funktions-ID: 427 Modul-ID:78\r\nAnsicht exportieren \r\nExportiert die aktuelle Ansicht der Modulliste als XML Datei. \r\n\r\n\r\n\r\nParameter der Funktion\r\nExportordner \r\n-> Speicherort der XML Datei nach dem Export.\r\nEnde Funktions-ID: 427 Modul-ID:78",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=4d59cf78-23fb-4ca4-9178-1cf7ff51fb7d"
-}

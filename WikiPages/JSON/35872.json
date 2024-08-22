@@ -1,7 +1,0 @@
-{
-  "PageID": 35872,
-  "PageGuid": "66b60ada-c24c-4ad8-93c4-2dbc4b500cd4",
-  "Title": "topfact6 Administration - Administration Jobserver Aufgaben - Aufgabe aktivieren",
-  "Content": "Beginn Funktions-ID: 411 Modul-ID:76\r\nAufgabe aktivieren \r\nMarkiert die fokussierte Aufgabe als aktiv. Der Jobserver führt die Aufgabe nun automatisch aus. \r\n\r\n\r\n\r\n\r\nHinweis\r\nBei aktiven Aufgaben ist der Button nicht verfügbar (grau) da eine aktive Aufgabe nicht nochmal aktiviert werden kann. \r\nEnde Funktions-ID: 411 Modul-ID:76",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=66b60ada-c24c-4ad8-93c4-2dbc4b500cd4"
-}

@@ -1,7 +1,0 @@
-{
-  "PageID": 35837,
-  "PageGuid": "17c1755e-57b9-4225-aa7f-264f8f326713",
-  "Title": "topfact6 MyWork - MyWork Archivsuche - exakte Suche aktiv, unscharfe Suche",
-  "Content": "Beginn Funktions-ID: 160 Modul-ID:72\r\nexakte Suche aktiv, unscharfe Suche\r\nAuswahl zwischen exakter Suche oder Suche nach Einträgen denen ggf. andere Begriffe vor oder nachgestellt sind. Die unscharfe Suche, auch \"Wie\" oder \"LIKE\" Suche genannt, ist eine Suche um Teile eines Archivfeldes zu durchsuchen dessen genauen Inhalt man nicht kennt. MyWork6 fügt an den eingegeben Wert automatisch Sterne (*) vor und nach dem eingegeben Wert ein. Dadurch wird der Suchfunktion des Archives die Anweisung gegeben eine LIKE Suche auszuführen. Mit der aktivierten unscharfen Suche wird im Archiv nach dem Wert *top* gesucht. Mögliche Treffer wären dann die Werte \"topfact AG\", \"Sport Topfit GmbH\" oder \"topteam\". Die exakte Suche durchsucht das Archivfeld nach genau dem Wert der eingegeben wurde. Es werden keine Platzhalter (*) angefügt. D.h. der Benutzer muss den genauen Wert des Feldes kennen um danach zu suchen.\r\n\r\n\r\n\r\n\r\nHinweis\r\nFunktion nur für Textfelder. Ähnliche Begriffsinterpretationen, wie von \"Auto\" zu \"Fahrzeug\" finden nicht statt.\r\nEnde Funktions-ID: 160 Modul-ID:72",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=17c1755e-57b9-4225-aa7f-264f8f326713"
-}

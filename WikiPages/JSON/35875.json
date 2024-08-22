@@ -1,7 +1,0 @@
-{
-  "PageID": 35875,
-  "PageGuid": "78312704-bf54-4d78-bfbd-e10f1aa19506",
-  "Title": "topfact6 Administration - Administration Jobserver Aufgaben - Aufgabe deaktivieren",
-  "Content": "Beginn Funktions-ID: 412 Modul-ID:76\r\nAufgabe deaktivieren \r\nMarkiert die fokussierte Aufgabe als inaktiv. Inaktive Aufgabe werden vom Jobserver nicht automatisch ausgeführt. \r\n\r\n\r\n\r\n\r\nHinweis\r\nBei inaktiven Aufgaben ist der Button nicht verfügbar (grau) da eine inaktive Aufgabe nicht nochmal deaktiviert werden kann. \r\nEnde Funktions-ID: 412 Modul-ID:76",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=78312704-bf54-4d78-bfbd-e10f1aa19506"
-}

@@ -1,7 +1,0 @@
-{
-  "PageID": 35885,
-  "PageGuid": "4360f5c4-6a0c-4694-871c-6f1fd9712ab7",
-  "Title": "topfact6 Administration - Administration Jobserver Ordner - Ordner anlegen",
-  "Content": "Beginn Funktions-ID: 416 Modul-ID:77\r\nOrdner anlegen\r\nÖffnet einen Dialog um einen Ordner anzulegen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nName\r\n-> Bezeichnung des Ordners.\r\nBeschreibung \r\n-> Es kann eine Beschreibung für den Ordner angelegt werden.\r\nEnde Funktions-ID: 416 Modul-ID:77",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=4360f5c4-6a0c-4694-871c-6f1fd9712ab7"
-}

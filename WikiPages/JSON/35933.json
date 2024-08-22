@@ -1,7 +1,0 @@
-{
-  "PageID": 35933,
-  "PageGuid": "fd14e067-4ef5-48d2-9732-136946c44140",
-  "Title": "topfact6 Administration - Administration MyWork - Dialoge: Import",
-  "Content": "Beginn Funktions-ID: 477 Modul-ID:83\r\nDialoge: Import\r\nÖffnet einen Dialog zum Import von Dialogen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die ausgewählte Organisation wird mit den importierten Dialogen verknüpft.\r\nArchiv \r\n-> Das ausgewählte Archiv wird mit den importierten Dialogen verknüpft. Die verfügbaren Archive werden in Abhängigkeit von der Organisation geladen.\r\nXML Datei\r\n-> Auswahl der zu importierenden XML Datei.\r\nEnde Funktions-ID: 477 Modul-ID:83",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=fd14e067-4ef5-48d2-9732-136946c44140"
-}

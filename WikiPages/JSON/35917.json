@@ -1,7 +1,0 @@
-{
-  "PageID": 35917,
-  "PageGuid": "be6e7e74-ea4d-4e2e-86c7-e567c4dcc276",
-  "Title": "topfact6 Administration - Administration Dokumentenstruktur - Struktur bearbeiten",
-  "Content": "Beginn Funktions-ID: 443 Modul-ID:81\r\nStruktur bearbeiten\r\nÖffnet einen Dialog um die fokussierte Dokumentenstruktur zu bearbeiten. \r\n\r\n\r\n\r\nParameter der Funktion\r\nBenennung\r\n-> Bezeichnung der Dokumentenstruktur.\r\nBeschreibung\r\n-> Details zur Dokumentenstruktur werden beschrieben. \r\nGruppenliste\r\n-> Die Gruppenliste gibt an welche Gruppen Zugriff auf die Dokumentenstruktur haben. \r\nEnde Funktions-ID: 443 Modul-ID:81",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=be6e7e74-ea4d-4e2e-86c7-e567c4dcc276"
-}

@@ -1,7 +1,0 @@
-{
-  "PageID": 35936,
-  "PageGuid": "a0d25a0e-bb4a-449d-beb3-9ffcdd7d1b49",
-  "Title": "topfact6 Administration - Administration MyWork - Dokumentensignatur: Anmeldung testen",
-  "Content": "Beginn Funktions-ID: 490 Modul-ID:83\r\nDokumentensignatur: Anmeldung testen\r\nTestet die Anmeldung beim Signatur Service mit den angegebenen Benutzerdaten.\r\n\r\n\r\n\r\nParameter der Funktion\r\nBenutzername\r\n-> Eingabefeld für den Benutzernamen. \r\nPasswort\r\n-> Eingabefeld für das Passwort. \r\nEnde Funktions-ID: 490 Modul-ID:83",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=a0d25a0e-bb4a-449d-beb3-9ffcdd7d1b49"
-}

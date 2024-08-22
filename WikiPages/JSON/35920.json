@@ -1,7 +1,0 @@
-{
-  "PageID": 35920,
-  "PageGuid": "b5108611-1ee5-47a1-a878-9bd68dea49bf",
-  "Title": "topfact6 Administration - Administration Anwendungen - Anwendung anlegen",
-  "Content": "Beginn Funktions-ID: 451 Modul-ID:82\r\nAnwendung anlegen\r\nÖffnet einen Dialog zum erstellen einer neuen Anwendung. \r\n\r\n\r\n\r\nParameter der Funktion\r\nAnwendung\r\n-> Auswahl der Anwendung die registriert werden soll. Zum Beispiel MyWork, Facility, oder verschiedene Jobserver Module.\r\nSchlüssel\r\n-> Eingabe eines eindeutigen Anwendungsschlüssels.\r\nApp ID\r\n-> Der Anwendung wird eine eindeutige App ID zugewiesen.\r\nEnde Funktions-ID: 451 Modul-ID:82",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=b5108611-1ee5-47a1-a878-9bd68dea49bf"
-}

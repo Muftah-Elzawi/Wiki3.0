@@ -1,7 +1,0 @@
-{
-  "PageID": 35879,
-  "PageGuid": "df2bd13a-1733-4356-bff5-47ebd86e42b3",
-  "Title": "topfact6 Administration - Administration Jobserver Aufgaben - Aufgabenbericht erstellen",
-  "Content": "Beginn Funktions-ID: 415 Modul-ID:76\r\nAufgabenbericht erstellen\r\nGeneriert Berichte zu den Aufgaben. Die Aufgaben welche als Bericht exportieren werden sollen, können vorher ausgewählt werden. \r\n\r\n\r\n\r\nParameter der Funktion\r\nExportordner \r\n-> Speicherort des Aufgabenberichts nach dem Export.\r\nEnde Funktions-ID: 415 Modul-ID:76",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=df2bd13a-1733-4356-bff5-47ebd86e42b3"
-}
