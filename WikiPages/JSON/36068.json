@@ -1,0 +1,7 @@
+{
+  "PageID": 36068,
+  "PageGuid": "0b86a076-738f-4c6a-b389-a1f4fedb8459",
+  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Steuerschlüssel: Bearbeiten",
+  "Content": "Beginn Funktions-ID: 554 Modul-ID:85\r\nSteuerschlüssel: Bearbeiten\r\nÖffnet einen Dialog zur Bearbeitung des fokussierten Steuerschlüssels. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Der Steuerschlüssel wird mit der Organisation verknüpft. \r\nSteuerschlüsselinformationen\r\n-> Angabe von Informationen des Steuerschlüssels. Zum Beispiel Steuersatz, Mandant oder Steuergruppe.\r\nBeschreibung\r\n-> Anlegen einer Beschreibung für den Steuerschlüssel. \r\nEnde Funktions-ID: 554 Modul-ID:85",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=0b86a076-738f-4c6a-b389-a1f4fedb8459"
+}

@@ -1,0 +1,7 @@
+{
+  "PageID": 36055,
+  "PageGuid": "4a4ddd17-c033-40e4-bb97-d5c35b22192c",
+  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Mandanten: Import",
+  "Content": "Beginn Funktions-ID: 531 Modul-ID:85\r\nMandanten: Import\r\nÖffnet einen Dialog zum Import von Mandanten. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Der importierte Mandant wird dieser Organisation zugewiesen.\r\nMandant\r\n-> Bezeichnung des Mandanten.\r\nCSV-Datei\r\n-> Auswahl der zu importierenden Datei. \r\nEnde Funktions-ID: 531 Modul-ID:85",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=4a4ddd17-c033-40e4-bb97-d5c35b22192c"
+}

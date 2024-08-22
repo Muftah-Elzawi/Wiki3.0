@@ -1,0 +1,7 @@
+{
+  "PageID": 36305,
+  "PageGuid": "613d137f-e27b-43a0-94e4-d7db2ada026a",
+  "Title": "Serienbrief Inhalte an die Signaturfelder oder Formularfelder von topfact Signatur übertragen",
+  "Content": "Frage\r\nWie kann ich aus meinem Serienbrief Inhalte an die Signaturfelder oder Formularfelder der Signatur übertragen, um gleichzeitig eine Automatisierung bei der Dokumentenerzeugung und dem Versand zur Unterschrift zu erreichen?\r\nAntwort / Lösung\r\n\r\nDie Felder werden einfach in dieser Schreibweise im Dokument breitgestellt. Bei der Übergabe an den Signaturprozess werden über diese Textzeilen dann die Felder im Signaturformular erzeugt. \r\nDer Text sollte mit der gleichen Schriftfarbe wie der Hintergrund gestaltet sein, um für den Leser nicht sichtbar zu sein. Wichtig ist, dass der Befehl in ein Zeile steht und kein Zeilenumbruch hat. Der Textfond kann auch sehr klein sein.\r\n\r\nBeispiel für ein Textfeld um die IBAN zu übergeben:\r\n##SIG{ w:'5cm', h:'0.5cm', type:'text', text: ‘{MERGEFIELD IBAN}‘}\r\n\r\nSo sieht dann das Serienbriefergebnis aus:\r\n##SIG{ w:'5cm', h:'0.5cm', type:'text', text: ‘DE89711500000500563804‘}\r\n\r\nBeispiel eines Signaturfeldes zur Zusendung an die passende Mailadresse:\r\nSerienbriefeintrag:\r\n##SIG{\"required\": true, \"externRole\": “{MERGEFIELD Kunde_Ansprechpartner}”} \r\n\r\nSerienbriefergebnis:\r\n##SIG{\"required\": true, \"externRole\": “max.mustermann@kunde.de”} \r\n\r\nBeispiel Ergebnis:",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=613d137f-e27b-43a0-94e4-d7db2ada026a"
+}

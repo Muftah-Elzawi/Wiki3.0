@@ -1,0 +1,7 @@
+{
+  "PageID": 35905,
+  "PageGuid": "7598d50b-6d11-4eb2-aa9a-8a3268d61f63",
+  "Title": "topfact6 Administration - Administration Datentabellen - Datentabelle bearbeiten",
+  "Content": "Beginn Funktions-ID: 434 Modul-ID:80\r\nDatentabelle bearbeiten \r\nÖffnet einen Dialog zum bearbeiten einer Datentabelle. \r\n\r\n\r\n\r\nParameter der Funktion\r\nName\r\n-> Bezeichnung der Datentabelle.\r\nBeschreibung\r\n-> Details zur Datentabelle werden beschrieben.\r\nAbfrage\r\n-> Datenbankabfrage in SQL.\r\nAbfragetyp\r\n-> Legt den Typ der Abfrage fest. Entweder Abfrage per Text oder per gespeicherter Prozedur.\r\nSchlüsselfeld\r\n-> Angabe des Schlüssels der Datentabelle.\r\nParameterfeld\r\n-> Eingabefeld für Parameter. \r\nFiltermodus\r\n-> Angabe in welchem Filtermodus die Abfrage der Datentabelle stattfindet. Auswahl zwischen AND und OR Filter.\r\nAbfrage testen\r\n-> Testet die Datenbankabfrage mit den aktuell eingetragenen Parametern.\r\nRechte einschränken\r\n-> Die Datenrückgabe erfolgt nur wenn Filter definiert sind. \r\nEnde Funktions-ID: 434 Modul-ID:80",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=7598d50b-6d11-4eb2-aa9a-8a3268d61f63"
+}

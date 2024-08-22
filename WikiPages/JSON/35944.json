@@ -1,0 +1,7 @@
+{
+  "PageID": 35944,
+  "PageGuid": "3c2f6b99-13bb-499e-96be-fb19548d90e8",
+  "Title": "topfact6 Administration - Administration MyWork - Dokumentenstruktur: Import",
+  "Content": "Beginn Funktions-ID: 468 Modul-ID:83\r\nDokumentenstruktur: Import\r\nÖffnet einen Dialog zum Import von Dokumentenstrukturen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die ausgewählte Organisation wird mit den importierten Dokumentenstrukturen verknüpft.\r\nArchiv \r\n-> Das ausgewählte Archiv wird mit der importierten Datenstruktur verknüpft. Die verfügbaren Archive werden in Abhängigkeit von der Organisation geladen. \r\nXML Datei\r\n-> Auswahl der zu importierenden XML Datei.\r\nEnde Funktions-ID: 468 Modul-ID:83",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=3c2f6b99-13bb-499e-96be-fb19548d90e8"
+}

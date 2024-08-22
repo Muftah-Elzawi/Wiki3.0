@@ -1,0 +1,7 @@
+{
+  "PageID": 35984,
+  "PageGuid": "831fa981-a20d-4df3-837a-34c01b6d27e3",
+  "Title": "topfact6 Administration - Administration MyWork Aufgaben - Status: Anlegen",
+  "Content": "Beginn Funktions-ID: 503 Modul-ID:84\r\nStatus: Anlegen\r\nÖffnet einen Dialog mit dem ein neuer Status angelegt werden kann. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Der Aufgabenstatus kann in dieser Organisation genutzt werden.\r\nStatus\r\n-> Bezeichnung das Status. Diese wird in MyWork angezeigt.\r\nStatustyp\r\n-> Auswahl des Bearbeitungszustandes einer Aufgabe, wenn dieser Status gewählt ist. zum Beispiel Ohne Bearbeitung, In Bearbeitung oder Bearbeitung abgeschlossen.\r\nFarbe\r\n-> Auswahl einer Farbe mit der eine Aufgabe mit diesem Status markiert wird.\r\nBeschreibung\r\n-> Anlegen einer Beschreibung für diesen Status.\r\nEnde Funktions-ID: 503 Modul-ID:84",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=831fa981-a20d-4df3-837a-34c01b6d27e3"
+}

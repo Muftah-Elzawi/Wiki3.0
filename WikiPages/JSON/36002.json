@@ -1,0 +1,7 @@
+{
+  "PageID": 36002,
+  "PageGuid": "9dea17f9-8800-4acc-810c-195083318387",
+  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Belegarten: Hinzufügen",
+  "Content": "Beginn Funktions-ID: 573 Modul-ID:85\r\nBelegarten: Hinzufügen\r\nÖffnet einen Dialog um eine neue Belegart anzulegen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die Belegart wird mit der Organisation verknüpft.\r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen.\r\nBelegart\r\n-> Bezeichnung der Belegart.\r\nFiBu Belegart\r\n-> Bezeichnung der Belegart in der FiBu.\r\nBeschreibung\r\n-> Anlegen einer Beschreibung für die Belegart.\r\nEnde Funktions-ID: 573 Modul-ID:85",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=9dea17f9-8800-4acc-810c-195083318387"
+}

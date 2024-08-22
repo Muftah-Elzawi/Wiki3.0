@@ -1,0 +1,7 @@
+{
+  "PageID": 35891,
+  "PageGuid": "941b2490-e1a3-477a-9c03-fd47ca4367e8",
+  "Title": "topfact6 Administration - Administration Jobserver Module - Modul anlegen",
+  "Content": "Beginn Funktions-ID: 421 Modul-ID:78\r\nModul anlegen\r\nÖffnet einen Dialog um ein Modul anzulegen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nModuldatei\r\n-> Auswählen der Datei des Moduls.\r\nModul\r\n-> Bezeichnung des Moduls. \r\nVersion\r\n-> Versionsnummer des Moduls.\r\ntopfact6 Administration\r\n-> Das Modul wird in der topfact6 Administration angelegt und kann dort genutzt werden.\r\ntopfact6 Jobserver\r\n-> Das Modul wird im tofact6 Jobserver angelegt und kann dort genutzt werden.\r\nEnde Funktions-ID: 421 Modul-ID:78",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=941b2490-e1a3-477a-9c03-fd47ca4367e8"
+}
