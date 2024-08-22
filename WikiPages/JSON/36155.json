@@ -1,7 +1,0 @@
-{
-  "PageID": 36155,
-  "PageGuid": "3d03b526-f815-4f5b-aea1-9f1cbc2f6b4d",
-  "Title": "topfact6 Administration - Administration Profile - Anlegen",
-  "Content": "Beginn Funktions-ID: 669 Modul-ID:93\r\nAnlegen\r\nÖffnet einen Dialog zum Anlegen eines neuen Profils. Ein Profil beinhaltet bestimmte Rechte für die topfact Anwendungen und sie werden Gruppen zugeordnet. Die User in der Gruppe erhalten dann alle im Profil beinhalteten Berechtigungen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Das Profil wird mit dieser Organisation verknüpft.\r\nAnwendung\r\n-> Das Profil bezieht sich auf diese Anwendung.\r\nName \r\n-> Bezeichnung des Profils.\r\nBeschreibung\r\n-> Anlegen einer Beschreibung für das Profil.\r\nRechteliste\r\n-> Übersicht aller Rechte, die ein Profil besitzen kann. Klick auf ein Recht wählt es an oder ab, abhängig von vorherigen Zustand.\r\nRechteschlüssel\r\n-> Eindeutiger Schlüssel der dieser Rechtekonfiguration zugeordnet ist.\r\nGruppen: Hinzufügen\r\n-> Fügt das Profil zu weiteren Gruppen hinzu.\r\nGruppen: Entfernen\r\n-> Entfernt das Profil aus der fokussierten Gruppe. \r\nGruppen: Aktualisieren\r\n-> Aktualisiert die Ansicht der Gruppen. \r\nEnde Funktions-ID: 669 Modul-ID:93",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=3d03b526-f815-4f5b-aea1-9f1cbc2f6b4d"
-}

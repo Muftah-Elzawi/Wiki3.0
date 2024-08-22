@@ -1,7 +1,0 @@
-{
-  "PageID": 36132,
-  "PageGuid": "1d36f2ff-3a88-4600-aea6-fdd35376ee96",
-  "Title": "topfact6 Administration - Administration Lizensierung - Lizenz zuweisen",
-  "Content": "Beginn Funktions-ID: 646 Modul-ID:89\r\nLizenz zuweisen\r\nÖffnet einen Dialog um eine Lizenz an einen Benutzer zu vergeben. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation \r\n-> Angabe der Organisation für die eine Lizenz vergeben werden soll.\r\nAnwendung\r\n-> Die Anwendung für die eine Lizenz vergeben werden soll.\r\nBenutzen\r\n-> Angabe des Benutzers der die Lizenz bekommen soll.\r\nVerfügbare Lizenzen\r\n-> Anzahl der Lizenzen, die für die Anwendung zur Verfügung stehen.\r\nLizenzen in Anwendung\r\n-> Anzahl der verwendeten Lizenzen.\r\nFreie Lizenzen\r\n-> Anzahl der Lizenzen die noch vergeben werden können.\r\nParameter hier falsch\r\n-> x\r\nEnde Funktions-ID: 646 Modul-ID:89",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=1d36f2ff-3a88-4600-aea6-fdd35376ee96"
-}

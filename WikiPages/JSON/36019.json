@@ -1,7 +1,0 @@
-{
-  "PageID": 36019,
-  "PageGuid": "1673eff4-c93a-4fd7-94af-3eb5bdebf28e",
-  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Kostenarten: Import",
-  "Content": "Beginn Funktions-ID: 605 Modul-ID:85\r\nKostenarten: Import\r\nÖffnet einen Dialog zum Import von Kostenarten. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation \r\n-> Die importierte Kostenart wird dieser Organisation zugewiesen.\r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation.\r\nCSV-Datei\r\n-> Auswahl der zu importierenden Datei.\r\nEnde Funktions-ID: 605 Modul-ID:85",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=1673eff4-c93a-4fd7-94af-3eb5bdebf28e"
-}

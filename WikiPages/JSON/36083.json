@@ -1,7 +1,0 @@
-{
-  "PageID": 36083,
-  "PageGuid": "278d0487-3718-454e-aa81-1d2d33faaa8c",
-  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Zahlungsbedingungen: Hinzufügen",
-  "Content": "Beginn Funktions-ID: 564 Modul-ID:85\r\nZahlungsbedingungen: Hinzufügen\r\nÖffnet einen Dialog um eine neue Zahlungsbedingung anzulegen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nReiter Allgemein: Kreditor\r\n-> Angabe allgemeiner Informationen zu Kreditor. Zum Beispiel Nummer, Name oder Gegenkonto.\r\nReiter Allgemein: Kontaktinformationen\r\n-> Angabe der Kontaktinformationen des Kreditors.\r\nReiter Bankverbindung\r\n-> Angabe der Bankverbindung des Kreditors.\r\nReiter Zahlungsbedingung\r\n-> Konfiguration verschiedener Zahlungsbedingungen. Zum Beispiel Valuta oder Skonto.\r\nEnde Funktions-ID: 564 Modul-ID:85",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=278d0487-3718-454e-aa81-1d2d33faaa8c"
-}

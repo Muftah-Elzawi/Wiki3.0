@@ -1,7 +1,0 @@
-{
-  "PageID": 36027,
-  "PageGuid": "bf7d43aa-ec51-4f8b-a24a-fa82e075a41c",
-  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Kostenstelle: Hinzufügen",
-  "Content": "Beginn Funktions-ID: 591 Modul-ID:85\r\nKostenstelle: Hinzufügen\r\nÖffnet einen Dialog um eine neue Kostenstelle anzulegen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation \r\n-> Die Kostenstelle wird mit der Organisation verknüpft.\r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen. \r\nNummer\r\n-> Die Kostenstellennummer der Kostenstelle.\r\nBenennung\r\n-> Bezeichnung der Kostenstelle.\r\nBeschreibung\r\n-> Anlegen einer Beschreibung für die Kostenstelle. \r\nEnde Funktions-ID: 591 Modul-ID:85",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=bf7d43aa-ec51-4f8b-a24a-fa82e075a41c"
-}

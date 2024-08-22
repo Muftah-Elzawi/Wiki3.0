@@ -1,7 +1,0 @@
-{
-  "PageID": 36028,
-  "PageGuid": "3881dc71-bccf-4e83-ad13-414ea444d957",
-  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Kostenstelle: Import",
-  "Content": "Beginn Funktions-ID: 596 Modul-ID:85\r\nKostenstelle: Import\r\nÖffnet einen Dialog zum Import von Kostenstellen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation \r\n-> Die importierte Kostenstelle wird dieser Organisation zugewiesen.\r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen.\r\nCSV-Datei\r\n-> Auswahl der zu importierenden Datei.\r\nEnde Funktions-ID: 596 Modul-ID:85",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=3881dc71-bccf-4e83-ad13-414ea444d957"
-}

@@ -1,7 +1,0 @@
-{
-  "PageID": 35993,
-  "PageGuid": "577552da-ec2a-4c1a-9f91-db451b3d74d1",
-  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Bankverbindungen: Hinzufügen",
-  "Content": "Beginn Funktions-ID: 544 Modul-ID:85\r\nBankverbindungen: Hinzufügen\r\nÖffnet einen Dialog um eine neue Bankverbindung anzulegen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die Bankverbindung wird mit der Organisation verknüpft.\r\nKontoinformantionen\r\n-> Angabe der Kontoinformationen. Zum Beispiel Name der Bank, IBAN oder BIC.\r\nBeschreibung\r\n-> Anlegen einer Beschreibung für die Bankverbindung.\r\nEnde Funktions-ID: 544 Modul-ID:85",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=577552da-ec2a-4c1a-9f91-db451b3d74d1"
-}
