@@ -1,0 +1,7 @@
+{
+  "PageID": 17311,
+  "PageGuid": "e621f913-1f96-4217-8f88-21a3412bc1b0",
+  "Title": "Übernahme der GWC Log Informationen",
+  "Content": "Dieser Artikel beschreibt die Vorgehensweise um GWC Protokolldaten in eine neue Datenbank zu übertragen.\r\nVor dem ausführen der Befehle muss ein Verbindungsserver <Linked_Server> zum alten DB System erstellt werden. Dieser kann dann direkt abgefragt werden.\r\nDas Script leert als erstes die neuen Tabellen und überträgt die Werte vom alten System in das neue DB System.\r\n\r\nUSE topfact6;\r\nTRUNCATE TABLE topfact6.dbo.tblGWCLogData;\r\nTRUNCATE TABLE topfact6.dbo.tblGWCLogDetails;\r\nINSERT INTO topfact6.dbo.tblGWCLogData\r\n    (Mailbox, MailUniqueID, dtInsertDate, ConfigurationID, HasError, ErrorText, Jobserver, ConversationId, MD5Hash, DocID)\r\nSELECT\r\n    Mailbox, MailUniqueID, dtInsertDate, ConfigurationID, HasError, ErrorText, Jobserver, ConversationId, MD5Hash, DocID\r\nFROM\r\n    [<Linked_Server>].[topfact6].[dbo].[tblGWCLogData]\r\n\r\nINSERT INTO topfact6.dbo.tblGWCLogDetails\r\n    (Mailbox, MailUniqueID, InsertDate, DateTimeCreated, DateTimeReceived, DateTimeSent, Size, Subject, Sender, ToRecipients, CcRecipients, Attachments)\r\nSELECT\r\n    Mailbox, MailUniqueID, InsertDate, DateTimeCreated, DateTimeReceived, DateTimeSent, Size, Subject, Sender, ToRecipients, CcRecipients, Attachments\r\nFROM\r\n    [<Linked_Server>].[topfact6].[dbo].[tblGWCLogDetails]",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=e621f913-1f96-4217-8f88-21a3412bc1b0"
+}

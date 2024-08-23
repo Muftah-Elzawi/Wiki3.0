@@ -1,0 +1,7 @@
+{
+  "PageID": 35671,
+  "PageGuid": "42cdf5a0-ade1-4763-84f5-c23900ebebf6",
+  "Title": "topfact6 MyWork - MyWork Dokumentenstruktur - Formatierungsregel anlegen",
+  "Content": "Beginn Funktions-ID: 294 Modul-ID:68\r\nFormatierungsregel anlegen\r\nÖffnet einen Dialog zum Anlegen einer neuen Formatierungsregel. \r\n\r\n\r\n\r\nParameter der Funktion\r\nBenennung\r\n-> Name der Formatierungsregel, dieser sollte möglichst aussagekräftig sein.\r\nArchiv \r\n-> Die Formatierungsregel bezieht sich auf Daten aus diesem Archiv.\r\nArchivfeld\r\n-> Die Formatierungsregel bezieht sich auf die Einträge dieses Archivfelds. Die verfügbaren Archivfelder hängen von dem gewählten Archiv.\r\nBedingung\r\n-> Die Daten werden anhand der Bedingung mit der Ausdruck der Formatierungsregel verglichen. Beispiele für Bedingungen sind gleich, ungleich, zwischen oder größer.\r\nAusdruck\r\n-> Der Ausdruck ist die Regel die auf die Daten angewendet wird.\r\nTextfarbe\r\n-> In dieser Farbe wird der Text formatiert.\r\nHintergrundfarbe\r\n-> In dieser Farbe wird der Hintergrund formatiert.\r\nEnde Funktions-ID: 294 Modul-ID:68",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=42cdf5a0-ade1-4763-84f5-c23900ebebf6"
+}

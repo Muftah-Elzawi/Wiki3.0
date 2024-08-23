@@ -1,0 +1,7 @@
+{
+  "PageID": 35670,
+  "PageGuid": "71b6c8af-df82-491c-b599-3520b2af8096",
+  "Title": "topfact6 MyWork - MyWork Dokumentenstruktur - Filter ein-/ ausblenden",
+  "Content": "Beginn Funktions-ID: 373 Modul-ID:68\r\nFilter ein-/ ausblenden\r\nDie Suchleiste oberhalb der Ordnerstruktur wird ein- oder ausgeblendet. Mit dieser Suche können Ordner innerhalb der Dokumentenstruktur gesucht werden. \r\n\r\n\r\n\r\nParameter der Funktion\r\nSuchwort\r\n-> Nach diesem Begriff wird in der Ordnerstruktur gesucht\r\nHinweis\r\nDiese Suche bezieht sich nur auf die Ordnerstruktur. Es wird damit keine Volltextsuche auf die Ergebnisliste durchgeführt.\r\nEnde Funktions-ID: 373 Modul-ID:68",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=71b6c8af-df82-491c-b599-3520b2af8096"
+}

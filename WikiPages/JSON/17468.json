@@ -1,0 +1,7 @@
+{
+  "PageID": 17468,
+  "PageGuid": "a4b98e36-4211-4a16-8a5b-1ae8b0729728",
+  "Title": "In der Summenzeile erscheint plötzlich ein Fragezeichen vor der Summe",
+  "Content": "Frage\r\nIn der Summenzeile von MyWork erscheint plötzlich in Fragezeichen vor der Summe. Wie kommt das?\r\nAntwort / Lösung\r\nEs kann sein, dass nicht alle Feldinhalte zur Standardformatierung passen. Über die Einstellung \"Formatierung N2\", in der topfact Administration (im jeweiligen Ergebnisdialog), kann die Summe als nummerisch mit zwei Nachkommastellen ausgegeben werden. Fragezeichen taucht dann nicht mehr auf.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=a4b98e36-4211-4a16-8a5b-1ae8b0729728"
+}

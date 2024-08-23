@@ -1,0 +1,7 @@
+{
+  "PageID": 31643,
+  "PageGuid": "07aa7e2a-42b1-4ab0-a823-bc494ab1b619",
+  "Title": "FAQ - Standardbrowser für Links in MS Teams nutzen",
+  "Content": "FAQ - Standardbrowser für Links in MS Teams nutzen\r\n\r\nFrage: Wenn ich in Microsoft Teams einen Link klicke öffnet sich immer der Edge Browser. Ich möchte aber dort den Firefox oder Chrome als Standardbrowser starten.\r\n\r\nAntwort: Der Standardbrowser muss an zwei Stellen konfiguriert werden:\r\n1.in den Einstellungen von Microsoft Teams\r\n2.in der Windows Systemsteuerung\r\n\r\n1) Konfigurieren des Standard-Browsers für Microsoft Teams\r\nUm Links aus MS Teams heraus mit einem anderen Browser als Edge zu öffnen muss dies in den Einstellungen angepasst werden. Klicken Sie dazu auf: \r\nEinstellungen > Dateien und Links > Links immer öffnen in > Standard-Browser\r\n\r\n\r\n\r\n\r\n\r\n2) Konfigurieren des Standard Browsers für Windows\r\nIm Windows Menü suchen nach \"Standard-Apps\" (1)\r\nDort die Anwendungen je nach Wunsch filtern nach \"Chrome\" oder \"Firefox\" (2)\r\nDie Einstellungen der spezifischen Anwendung per Klick öffnen (3) \r\nDen ausgewählten Browser \"Als Standard festlegen\" (4)",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=07aa7e2a-42b1-4ab0-a823-bc494ab1b619"
+}

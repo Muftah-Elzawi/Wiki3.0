@@ -1,0 +1,7 @@
+{
+  "PageID": 17604,
+  "PageGuid": "db006383-5e14-44b2-a2fc-58f9aaa382c2",
+  "Title": "Import2BstLager Projektkosten an die KWP Nachkalkulation übergeben",
+  "Content": "Es werden Belege als PDF und XML Pärchen aus dem DMS für KWP bereitgestellt. KWP übergibt die Werte an die Projektkalkulation und an das KWP Archiv. Zweck ist die direkte Verfügbarkeit der Kosten auf dem Kostenträger bzw. der Erlösabteilung.\r\nAblauf:\r\n1.Rechnungseingang und Verarbeitung in topfact bis zur Übergabe an Datev\r\n2.Aufbereitung der Daten für KWP\r\n3.Export an ein KWP Verzeichnis\r\n4.Import nach KWP durch KWP Service\r\nHinweise von topfact:\r\nIm Anhang beschreiben KWP Unterlagen die Vorgehensweise auf Basis eines konkreten Kundenprojektes. Dabei steht DocuWare für DMS. Kann also auch topfact sein.\r\nDie Belege müssen vorab an KWP Vorgangsarten zugewiesen werden. Nach unseren bisherigen Erfahrungen sind das die Vorgangsarten P,R und W die meines Wissens feste Bedeutung in KWP haben. Soweit wir wissen, wird aufgrund der Projektnummerntypes die Vorgangsart besetzt.\r\n\r\nP = Projekt\r\nR = Regie\r\nW = Wartung\r\nDie Zuweisung könnte dann so aussehen:\r\nWHEN ktrnummer LIKE 'BN%' THEN 'P'\r\nWHEN ktrnummer LIKE 'AUF%' THEN 'R' \r\nWHEN ktrnummer LIKE 'KD%' THEN 'W'",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=db006383-5e14-44b2-a2fc-58f9aaa382c2"
+}

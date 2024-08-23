@@ -1,0 +1,7 @@
+{
+  "PageID": 14624,
+  "PageGuid": "5ad919cc-acad-466c-a4ac-e42549abdbb9",
+  "Title": "Korrektur von Buchungsdatensätzen nach Fehlermeldung „Fehler bei Übergabe an Invoice“",
+  "Content": "SQL-Skipte zur Korrektur von Buchungsdatensätzen nach Fehlermeldung „Fehler bei Übergabe an Invoice“\r\nUrsache in diesem Fall: Es konnte kein Datensatz mit Stage =5 angelegt werden. Auslöser unbekannt.\r\nDie Kontierungen wurden trotzdem gespeichert. Um die Kontierungen nicht zur verlieren wurden mit dem nachfolgenden Skript die Einträge von Stage 3 auf Stage und der Status von 64 auf 1 geändert. Danach waren alle Kontierungen bereit zur Übergabe.\r\nZur Fehlerbehebung werden die Arbeitsplätze neu installiert.\r\nDatenbank: MySQL\r\nKunde: Ulltech\r\nDezember 2016\r\n \r\nSkript1:\r\nErmittlung der \r\nselect MasterID, max(stage) from pberdata group by masterid having max(stage) = 3\r\n \r\nSkript2:\r\nupdate topfact.pberdata set stage = 5 , status = 1 where masterid in(\r\n67,\r\n68,\r\n…\r\n120,\r\n121,\r\n122) and stage = 3",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=5ad919cc-acad-466c-a4ac-e42549abdbb9"
+}

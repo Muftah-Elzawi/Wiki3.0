@@ -1,0 +1,7 @@
+{
+  "PageID": 35592,
+  "PageGuid": "8c9e1e2e-2c26-4d8c-a414-2cd5b8f55e12",
+  "Title": "topfact6 MyWork - MyWork FibuConnect - Belege filtern",
+  "Content": "Beginn Funktions-ID: 218 Modul-ID:62\r\nBelege filtern\r\nFiltert die Belege nach den vorher gesetzten Filtern. \r\n\r\n\r\n\r\nParameter der Funktion\r\nStatus\r\n-> Auswahl eines bestimmten Verarbeitungsstatus der Belege. Zum Beispiel übergeben, kontiert oder exportiert.\r\nZeitraum\r\n-> Auswahl eines bestimmten Zeitspanne an Belegdaten. Zum Beispiel letzter Monat oder individueller Zeitraum. Bei letzterem wird die Zeitspanne selbst bestimmt.\r\nEnde Funktions-ID: 218 Modul-ID:62",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=8c9e1e2e-2c26-4d8c-a414-2cd5b8f55e12"
+}

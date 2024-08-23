@@ -1,0 +1,7 @@
+{
+  "PageID": 10147,
+  "PageGuid": "fe817383-b98d-46a2-9ce3-0673f6f1f5c0",
+  "Title": "Wiederherstellung der LNX-Datenbank",
+  "Content": "Nach Update von PDS Programmständen oder aus anderen Gründen können die Datenbanken in PDS unbrauchbar für die Synchronisation mit topfact sein. Eine Datenbankreorganisation ist notwendig. Der Artikel beschreibt zwei Wege. \r\n\r\nA. Reorganisation der Tabellen eines PDS Mandanten\r\n·1. Mandantenauswahl (f5), Firmenaufnahme(F5), Änderung\r\n·2. den Mandaten wählen / ändern\r\n·3. im Punkt 9. \"..PDS SQL\"  umsetzen auf \"nein\" dann speichern, dann wieder auf \"ja\"\r\n·4. die Datenbank baut sich dann wieder auf. Vorgang dauer ca. 5 Minuten.5. Test mit SD-Synchron\r\nB. Reorganisation aller PDS Tabellen\r\nAlternativ: Tipp von Hr. Rotsch, Firma Prowis (Dauer kann eine Stunde sein, Verantwortung ausschließlich beim Kunden da Befehlseingabe auf Systemebene außerhalb unserer Kernkompetenz)\r\n·login als User in FET-X, \r\n·auf systemebene als !su, \r\n·im Verzeichnis /home2/oli/pds/lnx/bin dort ./lnxinit starten\r\n·Eventuell Server bzw Box neu starten",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=fe817383-b98d-46a2-9ce3-0673f6f1f5c0"
+}

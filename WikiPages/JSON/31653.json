@@ -1,0 +1,7 @@
+{
+  "PageID": 31653,
+  "PageGuid": "e5cc423f-0404-4daf-ba17-91a18b5271d0",
+  "Title": "Import von korrespondierenden XML-Dateipärchen",
+  "Content": "Anwendungsfall\r\nAutomatische Archivierung und Verschlagwortung von ERP-Dateien\r\n\r\nVoraussetzungen:\r\nDas ERP-System exportiert ERP-Dateien als PDF + XML in einen Austauschordner\r\nDer Austauschordner muss für topfact6 System erreichbar sein (Lese-und Schreibrechte)\r\nJe Datei steht eine korrespondierende XML-Datei mit Indexdaten zur Verfügung sowie eine logische Verknüpfung in einem XML Wert oder anhand der Dateinamen\r\n\r\nBeispiel: \r\nDas ERP-System PDS stellt Belegdateien als PDF mit einer zugehörigen XML-Datei in einem Netzwerkpfad bereit (Beispiele siehe Anhänge)\r\nDer topfact6 Jobserver archiviert Dateien mit Indexdaten aus XML-Datei in regelmäßigen Abständen\r\n\r\n\r\nweitere Dokumentation: \r\nkeine",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=e5cc423f-0404-4daf-ba17-91a18b5271d0"
+}

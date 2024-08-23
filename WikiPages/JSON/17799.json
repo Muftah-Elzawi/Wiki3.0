@@ -1,0 +1,7 @@
+{
+  "PageID": 17799,
+  "PageGuid": "f5845bcb-bccf-4617-80c3-1eb19441b4e1",
+  "Title": "Dokument lässt sich nicht öffnen",
+  "Content": "Frage\r\nWoran kann es liegen wenn sich ein Dokument nicht öffnen läßt?\r\n\r\n\r\nAntwort / Lösung\r\nIn den meisten Fällen wurden Dateiformate archiviert die nicht direkt im QuickIndex wieder dargestellt werden können. In der Meldung wird das erklärt.\r\n\r\nWenn Sie diese Meldung erhalten können Sie das Dokumente exportieren und im Exportordner anschauen/bearbeiten. Je nach Format könnten Sie auch direkt in MyWork auf \"bearbeiten\" klicken, dann wird das Dokument an die Standardanwendung für diesen Dateityp übergeben.\r\n\r\n\r\nUm diese Meldung zu vermeiden empfehlen wir die Ablage als PDF Datei.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=f5845bcb-bccf-4617-80c3-1eb19441b4e1"
+}

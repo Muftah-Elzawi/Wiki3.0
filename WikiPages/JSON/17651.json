@@ -1,0 +1,7 @@
+{
+  "PageID": 17651,
+  "PageGuid": "0a76aefb-3fff-458c-9302-6cb15a7fc863",
+  "Title": "topfact6 MyWork Dokumentenstrukturen sind trotz Berechtigungen nicht sichtbar",
+  "Content": "Frage\r\nDie Dokumentenstrukturen sind nicht sichtbar obwohl die Rechte zugewiesen wurden. Der Reiterkopf ist sichtbar aber der Reiter selbst ist leer.\r\n\r\n\r\nAntwort / Lösung\r\nPrüfen Sie, ob ggf. der Splitterbalken, der die Dokumentenstrukturen von den Ergebnislisten trennt, auf den äußersten linken Rand verschoben ist.\r\n\r\n\r\n\r\nIn so einem Fall ziehen Sie diesen Splitter einfach mit der Maus wieder nach rechts und die Dokumentenstrukturen sind wieder sichtbar. Die Änderung der Splitterposition speichert sich beim Verlassen von MyWork selbständig.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=0a76aefb-3fff-458c-9302-6cb15a7fc863"
+}

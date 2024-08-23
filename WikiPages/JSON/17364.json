@@ -1,0 +1,7 @@
+{
+  "PageID": 17364,
+  "PageGuid": "c2e75dd7-2df0-4fa0-b22a-4dcf148e9fa2",
+  "Title": "DocuWare: COLD  Belege können nicht geöffnet werden - Browser-Cache leeren",
+  "Content": "Frage\r\nCOLD-Belege können nicht geöffnet werden. Fehlermeldung: Cannot find Section in Database \r\nAntwort / Lösung\r\nTechnisch sollten COLD-Belege auch mit DW 7.2 und DW 7.3 Versionen darstellbar sein. Wenn alle technischen Voraussetzungen getroffen wurden und die Belege trotzdem nicht angezeigt werden, löschen Sie bitte den Browser-Cache.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=c2e75dd7-2df0-4fa0-b22a-4dcf148e9fa2"
+}

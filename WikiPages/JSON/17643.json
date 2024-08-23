@@ -1,0 +1,7 @@
+{
+  "PageID": 17643,
+  "PageGuid": "a54724a0-606e-477f-874d-869b728cd645",
+  "Title": "FAQ - MyWork zeigt offene Aufgaben obwohl keine da sind",
+  "Content": "Frage\r\nHallo Topfact Team,\r\n \r\nwir bekommen offene Aufgaben signalisiert obwohl keine offene Aufgaben da sind.\r\nAntwort / Lösung\r\nZielgruppe der Lösung:\r\nAdministratoren mit guten Kenntnissen in Datenbank und topfact Systemen\r\n\r\nFehlerursache:\r\nDiese Felder der [topfact6].[dbo].[TASKS_Assignment] waren bei bestimmten Aufgaben leer:\r\n[OwnerID]\r\n[PriorityID]\r\n\r\nLösung:\r\nDie Aufgaben wurden manuell um die fehlenden Werte ergänzt.\r\n\r\nMögliche Fehlerquellen:\r\n- Aufgabentool Taskplaner zum setzen der Aufgabe (wird von topfact geprüft)\r\n- Alte Versionen von MyWork (Vom Kunden zu prüfen das keine alten Versionen eingesetzt werden sollten)\r\n\r\nErmittlung der Ursache (spezifisch auf besteimmte User Ids):\r\nSELECT w.*, t.UserCreated, t.OwnerUserID\r\nFROM [topfact6].[dbo].[TASKS_Workitem] as w\r\njoin [topfact6].[dbo].[TASKS_Assignment] as a on a.WorkitemID = w.WorkitemID\r\ninner join topfact6.dbo.TASKS_Task as t on w.TaskID = t.TaskID\r\nwhere (a.UserID = 39 or a.UserID = 71)\r\nand w.StatusID <> 3 and w.IsDeleted = 0",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=a54724a0-606e-477f-874d-869b728cd645"
+}

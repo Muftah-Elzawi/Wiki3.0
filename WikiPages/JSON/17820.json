@@ -1,0 +1,7 @@
+{
+  "PageID": 17820,
+  "PageGuid": "57b1d1c9-84a1-4313-a0a3-1e4c5a939636",
+  "Title": "PDS ODBC und Dokumentenabholung",
+  "Content": "Notwendige Vorarbeiten durch PDS zur Abholung von Dateien oder Daten\r\n\r\n1. UNC Pfad: Freigegebener UNC Pfad (über IP Adresse bei PDS Cloud), über den dann die Dokumente abgerufen werden können. \r\n\r\n2. Login für Verwendung des UNC Pfades: Benutzername und Kennwort. Der Benutzer muss auf den UNC Pfad löschen können.\r\n- Bei PDS onPrem ist das der Windows User des JobServers\r\n- Bei PDS Cloud wird der User von PDS mitgeteilt und muss im XML Reader, im Reiter Sicherheit eingetragen werden\r\n\r\n3. Zwei Logins zur Abholung von Stammdaten über ODBC für Branche und CSS\r\n- Servername oder IP-Adresse\r\n- Name Datenbank (meist für ERP pdserp, für kfm progdb)\r\n- Port (meist Port ERP: 5432, Port KFM: 5433)\r\n- Username\r\n- Password\r\n\r\nAchtung: Bei PDS Cloud Kunden muss der DMS Server dann in der VPN des Kunden so eingebunden sein, dass über die Dienste (ohne Login) auf die PDS Cloud Ressourcen direkt zugegriffen werden kann.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=57b1d1c9-84a1-4313-a0a3-1e4c5a939636"
+}

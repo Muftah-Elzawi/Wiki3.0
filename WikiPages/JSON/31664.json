@@ -1,0 +1,7 @@
+{
+  "PageID": 31664,
+  "PageGuid": "00960999-7a3f-44f1-8c59-74595e3c3c32",
+  "Title": "AD Synchronisation onPrem",
+  "Content": "Anwendungsfall:\r\nSynchronisation der Benutzer und Gruppenzuordnungen aus dem Microsoft Active Directory in das topfact System\r\n\r\nVoraussetzungen:\r\nDas topfact System hat Zugriff auf das AD über einen entsprechenden Nutzer\r\n\r\nBeispiel: \r\nDie Benutzer und Gruppenzuordnungen sollen vom Kunden IT Administrator an einer zentralen Stelle im Microsoft Active Directory verwaltet werden. Das topfact System soll diese Anpassungen automatisch übernehmen.\r\nEin neuer Nutzer wird automatisiert den korrekten topfact Gruppen zugewiesen, während ausgeschiedene Benutzer deaktiviert werden, etc\r\nweitere Dokumentation: \r\nkeine",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=00960999-7a3f-44f1-8c59-74595e3c3c32"
+}

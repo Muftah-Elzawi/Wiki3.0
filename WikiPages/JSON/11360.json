@@ -1,0 +1,7 @@
+{
+  "PageID": 11360,
+  "PageGuid": "b172ecd2-e474-4983-b8e1-c0a6162d4789",
+  "Title": "Update DMS Indexdaten aus topteam Daten",
+  "Content": "Aktualisiert alle Indexdaten  in DW anhand der Daten aus topteam.\r\n\r\n-- =============================================\r\n-- Author: Stefan Bätz, topfact AG\r\n-- Create date: 21.01.2016\r\n-- Description: Update DMS data from topteam\r\n-- =============================================\r\nCREATE PROCEDURE [dbo].[Sync_DMS_Indexdata]\r\nAS\r\nBEGIN\r\n\r\nSET NOCOUNT ON;\r\n\r\nUPDATE\r\nt1\r\nSET\r\nt1.COMPANY = t2.Company,\r\nt1.CONTRACT_CATEGORIE = t2.ContractCategorie,\r\nt1.ERPID = t2.ERPID,\r\nt1.CRMID = t2.CRMID,\r\nt1.[OWNER] = t2.ContractOwner,\r\nt1.OWNER_EMAIL = t2.ContractOwnerEmail,\r\n--t1.TICONTRACT_ID = t2.TIContractNumber,\r\nt1.CONTRACT_STATUS = t2.Status,\r\nt1.DEPARTMENT = t2.Department,\r\nt1.SUBJECT_ = SUBSTRING(t2.[Subject],0,255),\r\nt1.COMPANY_SPECIFICATION = t2.Companyspecification\r\nFROM \r\ndwdata.dbo.TRANSPOREON AS t1\r\nINNER JOIN topteam.dbo.StampService_Scandata AS t2 ON t1.Vorgang = t2.ContractNumber\r\nWHERE\r\nt2.DateModified IS NOT NULL AND\r\nt2.DateModified > GETDATE()-3;\r\n\r\nEND\r\nGO",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=b172ecd2-e474-4983-b8e1-c0a6162d4789"
+}

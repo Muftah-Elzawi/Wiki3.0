@@ -1,0 +1,7 @@
+{
+  "PageID": 17469,
+  "PageGuid": "bcd60597-f9f0-4433-8152-0d37fc90d4f1",
+  "Title": "Wie kann ich das MyWork Protokoll bzw. die Log-Datei öffnen?",
+  "Content": "Frage\r\nZur Nachverfolgung von technischen Fragen kann die Log-Datei von MyWork analysiert werden. Wie kann ich das MyWork Protokoll bzw. die Log-Datei öffnen?\r\nAntwort / Lösung\r\nKlicken Sie in MyWork auf Datei / Protokolle anzeigen\r\nMyWork öffnet dann den Standard Ordner C:\\ProgramData\\topfact AG\\Logs\\MyWork6\r\nDie Log-Dateien sind nach Datum geordnet. Mit Doppelklick auf eine Datei wird diese im Editor geöffnet.\r\n\r\n\r\nHinweis: Logdateien können ohne Problem gelöscht werden. Wenn viele alten Logdateien im Verzeichnis liegen können Sie diese markieren und löschen.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=bcd60597-f9f0-4433-8152-0d37fc90d4f1"
+}

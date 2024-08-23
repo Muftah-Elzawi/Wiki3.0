@@ -1,0 +1,7 @@
+{
+  "PageID": 17723,
+  "PageGuid": "d08eebf7-26eb-4a94-aa05-69943fff8645",
+  "Title": "topfact Cloud TransferService",
+  "Content": "Die Anwendung topfact Cloud TransferService überträgt Daten aus dem internen Kundennetzwerk in die topfact Cloud. Die Anwendung besteht aus einem Installationsatz der aus einem Konfigurationsprogramm und einem Windows Dienst besteht.\r\nEs stehen Profile für die Übertragung von Active Directory Benutzern und Gruppen, Dateien und Daten zur Verfügung.\r\nMithilfe des Konfigurationsprogrammes, konfigurieren Sie die gewünschten Profile. Der Windows Dienst überträgt automatisch im Hintergrund alle Daten an die topfact Cloud.\r\nSämtliche Übertragungen finden über die Adresse https://app.topfactcloud.de statt, welche mit einem gültigen SSL Protokoll versehen ist.\r\nZur kompletten Funktionalität benötigen Sie einen Organisationsschlüssel, auch Guid genannt, welche Sie vom Cloudteam der topfact AG erhalten.\r\nSollten Sie Fragen zur Einrichtung haben, wenden Sie sich an das topfact Cloud Team.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=d08eebf7-26eb-4a94-aa05-69943fff8645"
+}

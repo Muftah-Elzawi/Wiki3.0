@@ -1,0 +1,7 @@
+{
+  "PageID": 31628,
+  "PageGuid": "5a203212-2c73-4093-919a-2f2ccf43d777",
+  "Title": "topfact6 Systemvoraussetzungen - MyWork App",
+  "Content": "Einrichtungsinformationen für DNS und Firewall zum Betrieb der topfact MyWork App\r\n1.topfact Cloud App-Anwender müssen Zugriff auf diesen Endpunkt haben: https://app.topfactcloud.de\r\n2.onPremise App-Anwender müssen Zugriff auf den vom Kunden bereitgestellten DNS Namen haben, z.B. https://app.Kundenname.de Der Zugriff muss vom internen und externen Netzwerk erreichbar sein. Hier muss insbesondere das SSL Zertifikat von der korrekten Validierungsstelle überprüft worden sein. Der Standardport in der Firewall ist 443 (https), es kann jedoch auch ein individueller Port zugewiesen werden.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=5a203212-2c73-4093-919a-2f2ccf43d777"
+}

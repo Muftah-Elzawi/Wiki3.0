@@ -1,0 +1,7 @@
+{
+  "PageID": 17477,
+  "PageGuid": "20df2add-58fa-41c1-8545-62b0bf3870ec",
+  "Title": "Welche Systemvoraussetzungen hat topfact on Premise?",
+  "Content": "Frage\r\nWelche Voraussetzungen sind zur lokalen Installation von topfact zu erfüllen?\r\nAntwort / Lösung\r\nWindows Server 2019 (64-bit)\r\nMicrosoft SQL Server 2019 (Express, Standard, Enterprise) \r\nMind. 16 GB RAM\r\nMind. 250 GB HDD / SDD Speicher (in Abhängigkeit vom Dokumentenvolumen)\r\nCPU: mindestens 2 * 1,4 GHz, empfohlen 2* 3,2 GHz\r\n\r\nGrundsätzlich kann topfact auch auf älteren Systemen installiert werden. Bitte teilen Sie uns in diesem Fall Ihre konkrete Einrichtungsplanung unter hotline@topfact.de mit.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=20df2add-58fa-41c1-8545-62b0bf3870ec"
+}

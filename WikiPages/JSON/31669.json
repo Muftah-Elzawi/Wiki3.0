@@ -1,0 +1,7 @@
+{
+  "PageID": 31669,
+  "PageGuid": "4e399da3-b1ea-4dbf-87bd-c4a63d2ea435",
+  "Title": "E-Mails aus einem POP3 Postfach verarbeiten",
+  "Content": "Anwendungsfall:\r\nAbholung und Verarbeitung von E-Mails aus einem POP3 E-Mail Postfach\r\n\r\nVoraussetzungen:\r\nDer Login zum Postfach und die Verbindung zum Server muss vom topfact System aus möglich sein\r\n\r\nBeispiel: \r\nEin Kunde möchte automatisiert neue E-Mails (z.B. Eingangsrechnungen) aus einem Posteingang archivieren. \r\nDie E-Mails sollen als Korrespondenz archiviert werden.\r\nDer Funktionsumfang bei der Abholung aus einem POP Postfach ist im Vergleich zu einem Exchange oder M365 eingeschränkt \r\nweitere Dokumentation:\r\nkeine",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=4e399da3-b1ea-4dbf-87bd-c4a63d2ea435"
+}

@@ -1,0 +1,7 @@
+{
+  "PageID": 17369,
+  "PageGuid": "4e49faf3-b0d0-4e07-9e1f-2df105d8937b",
+  "Title": "topfact Stundenzettel Generator",
+  "Content": "Das Programm Stundenzettel Generator dient zum Erstellen von Stundenzetteln für Mitarbeiter.\r\nDie Stundenzettel werden als PDF Datei erstellt oder können auch direkt an einen Drucker gesendet werden.\r\nAls Eingabeparameter erwartet das Programm:\r\n·den Standort\r\n·den Zeitraum\r\n·die Personalnummern\r\nStundenzettel werden immer je Standort und für eine volle Woche erstellt. Ist die Auswahl der Datumsparameter größer als eine Woche, werden die folgenden Wochen ebenfalls komplett erstellt.\r\nDas bedeutet das der erstellte Stundenzettel immer von Montag bis Sonntag gefüllt wird.\r\n\r\nPDF erstellen\r\nDrücken Sie auf den Knopf \"PDF erstellen\" um den Stundenzettel mit den den eingestellten Parametern zu erstellen.\r\nNach dem Erstellen erscheint eine Meldung das die Erstellung abgeschlossen ist.\r\nIm Anschluss können Sie über den Knopf \"Exportordner öffnen\" die erstellen PDF Dateien betrachten.\r\n\r\nDie Benennung der Dateien ist nach dem Schema {Standortkürzel}_{Personalnummer}_{Kalenderwoche}.pdf aufgebaut.\r\nStundenzettel drucken\r\nWählen Sie für diese Funktion ihren Drucker aus und drücken auf den Knopf \"Stundenzettel drucken\".\r\nDie Stundenzettel werden direkt ohne weitere Rückfrage auf dem gewählten Drucker ausgedruckt.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=4e49faf3-b0d0-4e07-9e1f-2df105d8937b"
+}

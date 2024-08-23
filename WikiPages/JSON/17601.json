@@ -1,0 +1,7 @@
+{
+  "PageID": 17601,
+  "PageGuid": "5191fc23-e431-4b71-bc36-5fda32e1051a",
+  "Title": "topfact6 2022.10 Update",
+  "Content": "Übersicht zu den Arbeitsschritten:\r\n1.MSI Pakete runterladen (Software Archiv)\r\ntopfact6 JobServer.msi\r\ntopfact6Administration.msi\r\ntopfact6MyWork.msi\r\ntopfactRestAPI.msi (Falls der Kunde tfArchiv hat)\r\n2.Backup topfact6 Datenbanken\r\n3.Update Jobserver (Dienst) durch Ausführung des MSI Paketes\r\n4.Update Administration durch Ausführung des MSI Paketes\r\n5.Update MyWork durch Ausführung des MSI Paketes\r\n6.Update Datenbank-Struktur durch Start der Datenbank Administration und download des aktuellen Datenbankprofils.\r\n7.Konfiguration Jobserver (Login neu hinterlegen und auf automatischen Start umstellen)\r\n8.Test der Systeme und Prüfung der Logs (Sichtprüfung der Konfigurationen, Bartail Sichtprüfung des Log-Verlaufs vom Jobserver)\r\n9.Installation MyWork für die Clients, Danach: Test des Logins und der Archivzugriffe\r\nHinweis: \r\n- Der hinterlegte Auto-Update Nutzer muss erneut eingetragen werden, da dieser nun pro Organisation definiert wird.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=5191fc23-e431-4b71-bc36-5fda32e1051a"
+}

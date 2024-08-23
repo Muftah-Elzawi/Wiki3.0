@@ -1,0 +1,7 @@
+{
+  "PageID": 17002,
+  "PageGuid": "85852be2-1e56-4a9c-9775-0aeb0174d231",
+  "Title": "Ermitteln aller Tabellen einer Datenbank bzw. Felder einer Tabelle",
+  "Content": "Detlev Eberhardt\r\nErmitteln Tabellen einer Datenbank Beispiel MSSQL, hier Suche nach bestimmten Tabellen:\r\n\r\nSELECT *\r\nFROM   INFORMATION_SCHEMA.TABLES\r\nWHERE  TABLE_TYPE = 'BASE TABLE'\r\nand TABLE_NAME in (\r\n'anschrift',\r\n'kontakt',\r\n'kostenstelle',\r\n'kostentraeger',\r\n'pds_personenkonto',\r\n'personendaten',\r\n'rchkondguelt',\r\n'sachkonto'\r\n)\r\n\r\nErmitteln aller Felder und Feldtypen einer DAtenbank in MSSQL:\r\nSELECT\r\ntable_name=sysobjects.name,\r\ncolumn_name=syscolumns.name,\r\ndatatype=systypes.name,\r\nlength=syscolumns.length\r\nFROM\r\nsysobjects\r\nJOIN syscolumns ON sysobjects.[id] = syscolumns.[id]\r\nJOIN systypes ON syscolumns.xtype=systypes.xtype\r\nWHERE\r\nsysobjects.[xtype]='U'\r\nORDER BY\r\nsysobjects.[name],\r\nsyscolumns.colid\r\n\r\nErmitteln aller Tabellen einer Datenbank in MYSQL:\r\nSHOW tables from topfact\r\n\r\nErmitteln aller Spalten einer Tabelle in MYSQL:\r\nSHOW FIELDS FROM Winstamm",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=85852be2-1e56-4a9c-9775-0aeb0174d231"
+}

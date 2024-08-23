@@ -1,0 +1,7 @@
+{
+  "PageID": 17519,
+  "PageGuid": "c7777ff5-a797-4cef-a0b7-fda8dfe16f7b",
+  "Title": "Auswirkungen des Archivierungs-Zeitraums im GWC",
+  "Content": "Frage\r\nGemeldetes Verhalten\r\n- E-Mails in einem Exchange-Ordner werden nicht archiviert\r\n- Sonstiges GWC-Verhalten störungsfrei\r\nAntwort / Lösung\r\nStörung stellt sich in Administration so dar:\r\n- GWC zeigt keine Fehlermeldungen\r\n- Postfachinhalt ist beim Aufruf über Administration leer\r\n- in der Browseranwendung des Exchange-Postfaches sind jedoch E-Mails sichtbar\r\n\r\nUrsache: Zeitraum der Archivierung war zu kurz eingestellt. Kunde wollte ältere E-Mails archivieren, die aufgrund des Eingangsdatums vom GWC nicht erkannt worden\r\nAnzeige des Ordnerinhalts berücksichtigt den Archivierungszeitraum",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=c7777ff5-a797-4cef-a0b7-fda8dfe16f7b"
+}

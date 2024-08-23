@@ -1,0 +1,7 @@
+{
+  "PageID": 17123,
+  "PageGuid": "179ebd07-f782-4a36-a117-33e07cc71ad5",
+  "Title": "Aktionen per SQL erledigen",
+  "Content": "Skript zur Erledigung von Aktionen unter Ausschluss bestimmter Statusinhalte, wie bereits erledigte Aktionen oder Aktionen die noch auf \"Durchführung* stehen.  Ebenfalls sollen nur Aktionen eines bestimmten Bearbeiters (261=Detlev Eberhardt) und nicht Aktionen mit bestimmten Begrifflichkeiten gesetzt werden. Abschließend soll die Änderung nur bis zu einem bestimmten Aktionsstartdatum durchgeführt werden um aktuelle Aktionen manuell zu bearbeiten.\r\n\r\nErmitteln der Aktionen\r\nSELECT *\r\nFROM [Bussy2].[dbo].[tblAktivitaetAktion]\r\nwhere \r\nfk_tblAnsprechpartner = '261'\r\nand fk_tblStatus not in (5,6,10,53,54,55,56,57,65,66)\r\nand convert(date,StartDatum) < convert(date,'2019-07-01') \r\nand Aktion <> 'Anforderung und Aufwandssch?tzung'\r\nand Aktion not like '%Einrichtung%'\r\n\r\nUpdate der Aktionen\r\nupdate [Bussy2].[dbo].[tblAktivitaetAktion]\r\nset fk_tblStatus = 5\r\nwhere \r\nfk_tblAnsprechpartner = '261'\r\nand fk_tblStatus not in (5,6,10,53,54,55,56,57,65,66)\r\nand convert(date,StartDatum) < convert(date,'2019-07-01') \r\nand Aktion <> 'Anforderung und Aufwandssch?tzung'\r\nand Aktion not like '%Einrichtung%'",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=179ebd07-f782-4a36-a117-33e07cc71ad5"
+}

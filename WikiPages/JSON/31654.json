@@ -1,0 +1,7 @@
+{
+  "PageID": 31654,
+  "PageGuid": "575a393a-3981-40c0-86a3-37a3078c7299",
+  "Title": "Manuelle Ablage von E-mails mit Sonderzeichen im Betreff",
+  "Content": "Situation: \r\nBei manueller Ablage von E-Mails per Drag&Drop wird der Betreff der E-mail als Dateiname verwendet. Wenn der Betreff Sonderzeichen enthält, bspw. &, $, § etc., kann es dazu kommen, dass der Dateiname ab dem Sonderzeichen abgeschnitten wird. Dadurch fehlt im Archiv die Dateiendung und die archivierte Datei kann nicht angezeigt werden und wird nur defekt exportiert. \r\n\r\n\r\nEmpfehlung:\r\nVor der Archivierung per Drag&Drop sollten alle Sonderzeichen aus dem Betreff entfernt werden. Dies kann in Outlook durch Bearbeitung der E-Mail erfolgen. \r\nFolgende Sonderzeichen sollten entfernt werden:\r\n* < > &\r\n1) Öffnen Sie zur Beabeitung die E-Mail per Doppelklick in einem eigenen Outlook-Fenster\r\n\r\n\r\n2) Im sich öffnenden Fenster Markieren Sie die zu entfernenden Sonderzeichen im Betreff und drücken Ihre \"Entf\"-Taste\r\n\r\n\r\n\r\n3) Drücken Sie den Speichern-Knopf\r\n\r\n\r\n4) Archivieren Sie wie gewohnt die E-mail per Drag&Drop im Archiv\r\n5) Überprüfen Sie die Anzeige im Archiv",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=575a393a-3981-40c0-86a3-37a3078c7299"
+}
