@@ -1,7 +1,0 @@
-{
-  "PageID": 35971,
-  "PageGuid": "57a24d75-e0f4-41ce-853f-dd265502dff7",
-  "Title": "topfact6 Administration - Administration MyWork Aufgaben - Einstellungen: Anlegen",
-  "Content": "Beginn Funktions-ID: 491 Modul-ID:84\r\nEinstellungen: Anlegen\r\nÖffnet einen Dialog zum Anlegen einer neuen Standardeinstellung für die Aufgaben in MyWork.\r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die Aufgabeneinstellung ist für diese Organisation gültig.\r\nStandard Aufgabenart\r\n-> Wird in MyWork eine neue Aufgabe angelegt wird diese Aufgabenart standardmäßig ausgewählt.\r\nStandard Status\r\n-> Wird in MyWork eine neue Aufgabe angelegt wird diese Status standardmäßig ausgewählt.\r\nStandard Priorität\r\n-> Wird in MyWork eine neue Aufgabe angelegt wird diese Priorität standardmäßig ausgewählt.\r\nErledigungsstatus\r\n-> Mit diesem Status gilt die Aufgabe als erledigt.\r\nAbfragen des Ergebnisses\r\n-> Wenn aktiviert, wird das Ergebnis bei der Erledigung der Aufgabe abgefragt.\r\nEnde Funktions-ID: 491 Modul-ID:84",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=57a24d75-e0f4-41ce-853f-dd265502dff7"
-}

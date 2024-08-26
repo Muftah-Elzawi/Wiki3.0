@@ -1,7 +1,0 @@
-{
-  "PageID": 36120,
-  "PageGuid": "071c0201-285e-4868-b262-049ded5cf269",
-  "Title": "topfact6 Administration - Administration topfactArchiv! - Database Server: Datenbank initialisieren",
-  "Content": "Beginn Funktions-ID: 630 Modul-ID:88\r\nDatabase Server: Datenbank initialisieren\r\nInitialisiert die Datenbank mit den angegebenen Parametern. \r\n\r\n\r\n\r\nParameter der Funktion\r\nKonfiguration\r\n-> Konfiguration der Datenbank.\r\nVersion\r\n-> Versionsinformationen zum SQL Server.\r\nServer\r\n-> Bezeichnung des Datenbank Servers.\r\nDatenbank\r\n-> Bezeichnung der Datenbank.\r\nAuthentifizierung\r\n-> Festlegen der Art der Authentifizierung, sowie der Zugangsdaten.\r\nEnde Funktions-ID: 630 Modul-ID:88",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=071c0201-285e-4868-b262-049ded5cf269"
-}

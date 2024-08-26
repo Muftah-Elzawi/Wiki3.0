@@ -1,7 +1,0 @@
-{
-  "PageID": 36230,
-  "PageGuid": "5447d634-0b6f-4a9c-b862-4cc9e3613a8d",
-  "Title": "Aufgaben werden nicht mehr angezeigt - Splitter außerhalb des anzeigbaren Bereiches",
-  "Content": "Frage\r\nWarum kann ich nach dem Wechsel auf einen anderen PC meine Aufgaben nicht mehr sehen?\r\nAntwort / Lösung\r\nDer erste PC hat eine deutlich höhere Auflösung als der zweite, bei dem dann die Störung auftritt.\r\n\r\nDie TF User Settings speichert u. A. die Splittereinträge der Fenster. Dieser ist über das Notebook im Homeoffice für das Aufgabenfenster so weit Verschoben, dass im Büro das Fenster nicht mehr vollständig angezeigt werden kann.\r\n\r\nDie User-ID muss über die [topfact6].[dbo].[TF_Benutzer] ermittelt werden dann manuelles Zurücksetzen bei geschlossenem(!) MyWork:\r\nUpdate t\r\nset\r\n--SELECT *\r\n      [Value] = ' Hier XML aus Value des Users mit geänderten Splittereinträgen einsetzen'\r\n \r\n  FROM [topfact6].[dbo].[TF_UserSettings] t\r\n  where UserId = 4",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=5447d634-0b6f-4a9c-b862-4cc9e3613a8d"
-}

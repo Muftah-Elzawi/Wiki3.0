@@ -1,7 +1,0 @@
-{
-  "PageID": 36137,
-  "PageGuid": "9966d1f8-05ba-45bf-ad17-b19310cbea86",
-  "Title": "topfact6 Administration - Administration Sitzungen - Benutzeranmeldungen",
-  "Content": "Beginn Funktions-ID: 654 Modul-ID:90\r\nBenutzeranmeldungen\r\nÖffnet eine Übersicht über die Anmeldungen eines Benutzers. \r\n\r\n\r\n\r\nParameter der Funktion\r\nAnmeldungen\r\n-> Eine Tabelle mit allen Anmeldungen des Benutzers.\r\nStatistik\r\n-> Graphische Darstellung der Anzahl der Anmeldungen.\r\nEnde Funktions-ID: 654 Modul-ID:90",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=9966d1f8-05ba-45bf-ad17-b19310cbea86"
-}

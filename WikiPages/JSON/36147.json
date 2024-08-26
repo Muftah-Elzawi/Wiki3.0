@@ -1,7 +1,0 @@
-{
-  "PageID": 36147,
-  "PageGuid": "f5a678db-87b3-4f8b-8a2f-3d5c25fe02bb",
-  "Title": "topfact6 Administration - Administration Benutzer - Benutzerkennwort ändern",
-  "Content": "Beginn Funktions-ID: 663 Modul-ID:91\r\nBenutzerkennwort ändern\r\nÖffnet einen Dialog zum ändern des Kennworts. \r\n\r\n\r\n\r\nParameter der Funktion\r\nNeues Kennwort\r\n-> Eingabe des neuen Kennworts.\r\nWiederholung neues Kennwort\r\n-> Wiederholen des neuen Kennworts.\r\nEnde Funktions-ID: 663 Modul-ID:91",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=f5a678db-87b3-4f8b-8a2f-3d5c25fe02bb"
-}

@@ -1,7 +1,0 @@
-{
-  "PageID": 36161,
-  "PageGuid": "c65fc649-372c-438e-9f1b-1b8a14cdf99a",
-  "Title": "topfact6 Administration - Administration Anwendungsarchive - Bearbeiten",
-  "Content": "Beginn Funktions-ID: 675 Modul-ID:94\r\nBearbeiten\r\nÖffnet einen Dialog um ein Archiv zu bearbeiten. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Das Archiv wird dieser Organisation zugeordnet.\r\nDMS-System\r\n-> Angabe des verwendeten DMS-Systems.\r\nURLs\r\n-> Angabe der URLs des SOAP Webservice und des REST Webservice.\r\nArchiv\r\n-> Bezeichnung des Archivs.\r\nAn erste Stelle\r\n-> Setzt das fokussierte Feld an die Erste Stelle der Liste.\r\nNach oben verschieben\r\n-> Verschiebt das fokussierte Feld um eine Stelle nach oben.\r\nNach unten verschieben\r\n-> Verschiebt das fokussierte Feld um eine Stelle nach unten.\r\nAn Letzte Stelle\r\n-> Setzt das fokussierte Feld an die Letzte Stelle der Liste.\r\nAktualisieren\r\n-> Aktualisiert die Ansicht.\r\nExportieren\r\n-> Exportiert die Archivfelder als CSV Datei.\r\nAnwendungsliste\r\n-> Übersicht über alle Anwendungen in denen das Archiv verwendet werden kann. Klick auf eine Anwendung wählt diese an oder ab, abhängig von vorherigen Zustand.\r\nEnde Funktions-ID: 675 Modul-ID:94",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=c65fc649-372c-438e-9f1b-1b8a14cdf99a"
-}

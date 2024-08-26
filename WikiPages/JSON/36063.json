@@ -1,7 +1,0 @@
-{
-  "PageID": 36063,
-  "PageGuid": "de73e1a7-57ba-48fd-8bb9-4a84668a988c",
-  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Sachkonten: Import",
-  "Content": "Beginn Funktions-ID: 613 Modul-ID:85\r\nSachkonten: Import\r\nÖffnet ein Menü zum Import von Sachkonten. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Das importierte Sachkonto wird dieser Organisation zugewiesen.\r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen. \r\nCSV-Datei\r\n-> Auswahl der zu importierenden Datei.\r\nEnde Funktions-ID: 613 Modul-ID:85",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=de73e1a7-57ba-48fd-8bb9-4a84668a988c"
-}

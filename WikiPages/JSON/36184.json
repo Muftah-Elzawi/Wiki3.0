@@ -1,7 +1,0 @@
-{
-  "PageID": 36184,
-  "PageGuid": "27f0afc5-41f2-4a7c-94b7-6ec71a68a6bb",
-  "Title": "topfact6 Administration - Administration Datenquellen -  Bearbeiten",
-  "Content": "Letzte Aktuallisierung am : 25.03.2024\r\nModul-ID : 98\r\nAdministration Datenquellen\r\nÜbersicht über die zur Verfügung stehenden Datenquellen.\r\n\r\n\r\nBeginn Funktions-ID: 713 Modul-ID:98\r\nBearbeiten\r\nÖffnet einen Dialog zur Bearbeitung der fokussierten Datenquelle. \r\n\r\n\r\n\r\nParameter der Funktion\r\nDatenbankinformationen\r\n-> Auswahl und anzeigen von allgemeinen Datenbankinformationen. Zum Beispiel Datenbanktyp, Server, Port und Datenbank.\r\nAuthentifizierung\r\n-> Angabe von Benutzername und Passwort für die Authentifizierung.\r\nAsyncronosProcessing\r\n-> Die Daten werden asynchron Verarbeitet.\r\nEncrypt\r\n-> Verschlüsselung der Daten der Datenquellen.\r\nDauer Verbindungsaufbau\r\n-> Maximale Dauer des Verbindungsaufbaus. Wird dieser Wert überschritten wird der Verbindungsversuch abgebrochen.\r\nDauer Befehlsausführung\r\n-> Maximale Dauer des Befehlsausführung. Wird dieser Wert überschritten wird die Befehlsausführung abgebrochen. \r\nVerbindung testen\r\n-> Testet die Datenbankverbindung mit den angegebenen Parametern. \r\nEnde Funktions-ID: 713 Modul-ID:98",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=27f0afc5-41f2-4a7c-94b7-6ec71a68a6bb"
-}

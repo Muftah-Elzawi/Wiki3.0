@@ -1,7 +1,0 @@
-{
-  "PageID": 36167,
-  "PageGuid": "70b65151-35e9-4b4c-a7c3-5d8214bd993f",
-  "Title": "topfact6 Administration - Administration Anmeldeinformationen - Anmeldung bearbeiten",
-  "Content": "Beginn Funktions-ID: 682 Modul-ID:95\r\nAnmeldung bearbeiten\r\nÖffnet einen Dialog zum Bearbeiten einer Anmeldung. \r\n\r\n\r\n\r\nParameter der Funktion\r\nBeschreibung\r\n-> Anlegen einer Beschreibung für die Anmeldung.\r\nAnmeldedaten\r\n-> Angabe von Benutzername, Passwort und Domäne der Anmeldung.\r\nEnde Funktions-ID: 682 Modul-ID:95",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=70b65151-35e9-4b4c-a7c3-5d8214bd993f"
-}

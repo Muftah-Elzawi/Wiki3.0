@@ -1,7 +1,0 @@
-{
-  "PageID": 36108,
-  "PageGuid": "fc49ded7-5c2c-430c-b2eb-ae50e1fedda0",
-  "Title": "topfact6 Administration - Administration Vorlagen -  Anlegen",
-  "Content": "Beginn Funktions-ID: 626 Modul-ID:87\r\nAnlegen\r\nÖffnet ein Menü mit dem eine neue Vorlage angelegt werden kann. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation \r\n-> In dieser Organisation steht die Vorlage zur Verfügung.\r\nVorlagenart\r\n-> Auswahl um was für eine Art von Vorlage es sich handelt. \r\nGruppe\r\n-> Auswahl der Vorlagen Gruppe.\r\nBenennung\r\n-> Bezeichnung der Vorlage.\r\nkleines Symbol verwenden\r\n-> Gibt an, ob für die Vorlage ein kleines Symbol verwendet wird. \r\nEnde Funktions-ID: 626 Modul-ID:87",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=fc49ded7-5c2c-430c-b2eb-ae50e1fedda0"
-}

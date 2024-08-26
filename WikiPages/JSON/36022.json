@@ -1,7 +1,0 @@
-{
-  "PageID": 36022,
-  "PageGuid": "13f7065c-04f3-49ee-87b0-3e7b91cfbf19",
-  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Kostenstelle: Bearbeiten",
-  "Content": "Beginn Funktions-ID: 592 Modul-ID:85\r\nKostenstelle: Bearbeiten\r\nÖffnet einen Dialog zur Bearbeitung der fokussierten Kostenstelle. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation \r\n-> Die Kostenstelle wird mit der Organisation verknüpft.\r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen. \r\nNummer\r\n-> Die Kostenstellennummer der Kostenstelle.\r\nBenennung\r\n-> Bezeichnung der Kostenstelle. \r\nBeschreibung \r\n-> Anlegen einer Beschreibung für die Kostenstelle. \r\nEnde Funktions-ID: 592 Modul-ID:85",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=13f7065c-04f3-49ee-87b0-3e7b91cfbf19"
-}

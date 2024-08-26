@@ -1,7 +1,0 @@
-{
-  "PageID": 36170,
-  "PageGuid": "d8f4b224-6c77-48d6-94d9-8bd91fa7d33f",
-  "Title": "topfact6 Administration - Administration Systemeinstellungen - Systemeinstellungen",
-  "Content": "Letzte Aktuallisierung am : 25.03.2024\r\nModul-ID : 96\r\nAdministration Systemeinstellungen\r\nBearbeiten der Systemeinstellungen.\r\n\r\n\r\nBeginn Funktions-ID: 685 Modul-ID:96\r\nSystemeinstellungen\r\nÖffnet einen Dialog zur Bearbeitung und Anzeige der Systemeinstellungen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nURL\r\n-> Angabe der URL des Reporting Servers.\r\nAnmeldedaten\r\n-> Falls eine Authentifizierung notwendig ist werden Benutzername, Passwort und Domäne angegeben.\r\nE-Mail\r\n-> Angabe des E-Mail Servers, Ports und Absenderadressen für Benachrichtigungen aus der Administration.\r\nAnmeldung\r\n-> Wenn eine Authentifizierung erforderlich ist werden Benutzername, Kennwort und Domäne angegeben. \r\nAnmeldung testen\r\n-> Sendet eine Test E-Mail an die eingegebene E-Mailadresse.\r\nEnde Funktions-ID: 685 Modul-ID:96",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=d8f4b224-6c77-48d6-94d9-8bd91fa7d33f"
-}

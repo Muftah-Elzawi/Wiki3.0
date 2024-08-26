@@ -1,7 +1,0 @@
-{
-  "PageID": 35952,
-  "PageGuid": "3d315447-d402-40dd-999b-bd385482bdbb",
-  "Title": "topfact6 Administration - Administration MyWork - Einstellungen: Versionierung aktivieren",
-  "Content": "Beginn Funktions-ID: 456 Modul-ID:83\r\nEinstellungen: Versionierung aktivieren\r\nAktiviert DMS Felder zum Speichern der Versionierungsinformationen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nVersionsnummer\r\n-> DMS Feld für die Speicherung der Versionsnummer.\r\nVersionsstatus\r\n-> DMS Feld für die Speicherung des Versionsstatus. \r\nAlter Wert\r\n-> DMS Feld für die Speicherung des alten Versionswertes.\r\nNeuer Wert\r\n-> DMS Feld für die Speicherung des aktuellen Versionswertes. \r\nEnde Funktions-ID: 456 Modul-ID:83",
-  "Url": "https://services.topfact.de/wiki/pages/view?g=3d315447-d402-40dd-999b-bd385482bdbb"
-}
