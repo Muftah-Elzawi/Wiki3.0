@@ -1,0 +1,7 @@
+{
+  "PageID": 36109,
+  "PageGuid": "6ad0355d-4512-40de-8cf7-d9593c0c6f99",
+  "Title": "topfact6 Administration - Administration Vorlagen -  Bearbeiten",
+  "Content": "Beginn Funktions-ID: 627 Modul-ID:87\r\nBearbeiten\r\nÖffnet einen Dialog mit dem eine Vorlage bearbeitet werden kann. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> In dieser Organisation steht die Vorlage zur Verfügung.\r\nVorlagenart\r\n-> Auswahl um was für eine Art von Vorlage es sich handelt. \r\nGruppe\r\n-> Auswahl der Vorlagen Gruppe.\r\nBenennung\r\n-> Bezeichnung der Vorlage.\r\nkleines Symbol verwenden\r\n-> Gibt an, ob für die Vorlage ein kleines Symbol verwendet wird.\r\nEnde Funktions-ID: 627 Modul-ID:87",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=6ad0355d-4512-40de-8cf7-d9593c0c6f99"
+}

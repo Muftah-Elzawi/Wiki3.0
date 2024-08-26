@@ -1,0 +1,7 @@
+{
+  "PageID": 36215,
+  "PageGuid": "a2295091-6880-4194-ba73-4ec5446b8c7b",
+  "Title": "topfact6 Administration - Administration Best People - Bearbeiten",
+  "Content": "Beginn Funktions-ID: 742 Modul-ID:102\r\nBearbeiten\r\nÖffnet einen Dialog mit dem eine Archivzuordnung bearbeitet werden kann.\r\n\r\n\r\n\r\nParameter der Funktion\r\nArt\r\n-> Angabe der Art der Archivzuordnung.\r\nFeld\r\n-> Auswahl des ausschlaggebenden Archivfeldes.\r\nWertetyp\r\n-> Auswahl des Typ für den Wert der Archivzuordnung.\r\nWert\r\n-> Auswahl eines Datentyps des Feldeintrages.\r\nArchivzuordnung in \"Alle Dokumente\" verwenden\r\n-> Gibt an, ob diese Zuordnung in \"Alle Dokumente\" genutzt werden soll.\r\nEnde Funktions-ID: 742 Modul-ID:102",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=a2295091-6880-4194-ba73-4ec5446b8c7b"
+}

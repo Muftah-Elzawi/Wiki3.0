@@ -1,0 +1,7 @@
+{
+  "PageID": 36073,
+  "PageGuid": "67d58437-a1a6-424c-9800-51957f8c80ed",
+  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Steuerschlüssel: Hinzufügen",
+  "Content": "Beginn Funktions-ID: 553 Modul-ID:85\r\nSteuerschlüssel: Hinzufügen\r\nÖffnet einen Dialog um einen neuen Steuerschlüssel anzulegen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Der Steuerschlüssel wird mit der Organisation verknüpft.\r\nSteuerschlüsselinformationen\r\n-> Angabe von Informationen des Steuerschlüssels. Zum Beispiel Steuersatz, Mandant oder Steuergruppe.\r\nBeschreibung \r\n-> Anlegen einer Beschreibung für den Steuerschlüssel.\r\nEnde Funktions-ID: 553 Modul-ID:85",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=67d58437-a1a6-424c-9800-51957f8c80ed"
+}

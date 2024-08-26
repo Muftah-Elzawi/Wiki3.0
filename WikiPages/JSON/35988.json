@@ -1,0 +1,7 @@
+{
+  "PageID": 35988,
+  "PageGuid": "50bae7c0-5756-4a71-b024-02679e6d6bb9",
+  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Bankverbindungen: Bearbeiten",
+  "Content": "Beginn Funktions-ID: 545 Modul-ID:85\r\nBankverbindungen: Bearbeiten\r\nÖffnet einen Dialog zur Bearbeitung der fokussierten Bankverbindung. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die Bankverbindung wird mit der Organisation verknüpft.\r\nKontoinformantionen\r\n-> Angabe der Kontoinformationen. Zum Beispiel Name der Bank, IBAN oder BIC.\r\nBeschreibung\r\n-> Anlegen einer Beschreibung für die Bankverbindung.\r\nEnde Funktions-ID: 545 Modul-ID:85",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=50bae7c0-5756-4a71-b024-02679e6d6bb9"
+}

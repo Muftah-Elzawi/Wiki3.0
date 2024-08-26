@@ -1,0 +1,7 @@
+{
+  "PageID": 36084,
+  "PageGuid": "3d070493-30d6-44b7-bb40-cb3b6c328de0",
+  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Zahlungsbedingungen: Import",
+  "Content": "Beginn Funktions-ID: 569 Modul-ID:85\r\nZahlungsbedingungen: Import\r\nÖffnet einen Dialog zum Import von Zahlungsbedingungen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die importierte Zahlungsbedingung wird dieser Organisation zugewiesen.\r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen. \r\nCSV-Datei\r\n-> Auswahl der zu importierenden Datei. \r\nEnde Funktions-ID: 569 Modul-ID:85",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=3d070493-30d6-44b7-bb40-cb3b6c328de0"
+}

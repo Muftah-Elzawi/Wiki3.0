@@ -1,0 +1,7 @@
+{
+  "PageID": 36074,
+  "PageGuid": "2447c417-3f89-4d7d-b79e-1259656427b4",
+  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Steuerschlüssel: Import",
+  "Content": "Beginn Funktions-ID: 560 Modul-ID:85\r\nSteuerschlüssel: Import\r\nÖffnet einen Dialog zum Import von Steuerschlüsseln. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die importierte Bankverbindung wird dieser Organisation zugewiesen.\r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen. \r\nCSV-Datei\r\n-> Auswahl der zu importierenden Datei.\r\nEnde Funktions-ID: 560 Modul-ID:85",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=2447c417-3f89-4d7d-b79e-1259656427b4"
+}

@@ -1,0 +1,7 @@
+{
+  "PageID": 35953,
+  "PageGuid": "542a5c9f-e59f-44ed-9c83-2e9bc0a3eab8",
+  "Title": "topfact6 Administration - Administration MyWork - Einstellungen: Versionsprüfung aktivieren",
+  "Content": "Beginn Funktions-ID: 457 Modul-ID:83\r\nEinstellungen: Versionsprüfung aktivieren\r\nAktiviert die Versionsprüfung, die Eingegebenen minimal und maximal Versionsnummern werden mit der aktuellen verglichen. Ist die aktuelle Versionsnummer außerhalb des Bereichs meldet das System entsprechend, dass eine zu alte oder zu junge Version verwendet wird. \r\n\r\n\r\n\r\nParameter der Funktion\r\nminimale Versionsnummer\r\n-> Die für die Prüfung kleinste erlaubte Versionsnummer.\r\nmaximale Versionsnummer\r\n-> Die für die Prüfung größte erlaubte Versionsnummer. \r\nEnde Funktions-ID: 457 Modul-ID:83",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=542a5c9f-e59f-44ed-9c83-2e9bc0a3eab8"
+}

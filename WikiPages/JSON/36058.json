@@ -1,0 +1,7 @@
+{
+  "PageID": 36058,
+  "PageGuid": "5d1b0f29-5002-432e-aa38-f47cdfb1777d",
+  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Sachkonten: Bearbeiten",
+  "Content": "Beginn Funktions-ID: 610 Modul-ID:85\r\nSachkonten: Bearbeiten\r\nÖffnet ein Menü zur Bearbeitung des fokussierten Sachkontos. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Das Sachkonto wird mit der Organisation verknüpft.\r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen. \r\nNummer\r\n-> Die Kontonummer des Sachkontos.\r\nBenennung\r\n-> Bezeichnung des Sachkontos.\r\nBeschreibung\r\n-> Anlegen einer Beschreibung für das Sachkonto.\r\nKostenstelle\r\n-> Das Sachkonto wird mit dieser Kostenstelle verknüpft.\r\nKostenträger\r\n-> Das Sachkonto wird mit diesem Kostenträger verknüpft. \r\nKostenart\r\n-> Das Sachkonto wird mit dieser Kostenart verknüpft.\r\nSteuerschlüssel\r\n-> Das Sachkonto wird mit diesem Steuerschlüssel verknüpft. \r\nEnde Funktions-ID: 610 Modul-ID:85",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=5d1b0f29-5002-432e-aa38-f47cdfb1777d"
+}
