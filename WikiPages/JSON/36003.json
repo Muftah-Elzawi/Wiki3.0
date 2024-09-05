@@ -1,7 +1,7 @@
 {
   "PageID": 36003,
   "PageGuid": "ff6c98c9-bf3e-4e94-aed7-3b70900bca25",
-  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Belegarten: Import",
+  "Title": "\ttopfact6 Administration - Administration MyWork FiBuConnect - Belegarten: Import",
   "Content": "Beginn Funktions-ID: 578 Modul-ID:85\r\nBelegarten: Import\r\nÖffnet einen Dialog zum Import von Belegarten. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die importierte Bankverbindung wird dieser Organisation zugewiesen.\r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen.\r\nCSV-Datei\r\n-> Auswahl der zu importierenden Datei.\r\nEnde Funktions-ID: 578 Modul-ID:85",
   "Url": "https://services.topfact.de/wiki/pages/view?g=ff6c98c9-bf3e-4e94-aed7-3b70900bca25"
 }

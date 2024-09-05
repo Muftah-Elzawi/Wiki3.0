@@ -1,7 +1,7 @@
 {
   "PageID": 36213,
   "PageGuid": "133407fd-493e-487f-985c-10022edd4698",
-  "Title": "topfact6 Administration - Administration Best People - Anlegen",
+  "Title": "\ttopfact6 Administration - Administration Best People - Anlegen",
   "Content": "Beginn Funktions-ID: 741 Modul-ID:102\r\nAnlegen\r\nÖffnet einen Dialog mit dem eine neue Archivzuordnung angelegt werden kann.\r\n\r\n\r\n\r\nParameter der Funktion\r\nArt\r\n-> Angabe der Art der Archivzuordnung.\r\nFeld\r\n-> Auswahl des ausschlaggebenden Archivfeldes.\r\nWertetyp\r\n-> Auswahl des Typ für den Wert der Archivzuordnung.\r\nWert\r\n-> Auswahl eines Datentyps des Feldeintrages.\r\nArchivzuordnung in \"Alle Dokumente\" verwenden\r\n-> Gibt an, ob diese Zuordnung in \"Alle Dokumente\" genutzt werden soll.\r\nEnde Funktions-ID: 741 Modul-ID:102",
   "Url": "https://services.topfact.de/wiki/pages/view?g=133407fd-493e-487f-985c-10022edd4698"
 }

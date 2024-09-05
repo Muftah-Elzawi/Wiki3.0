@@ -1,7 +1,7 @@
 {
   "PageID": 36040,
   "PageGuid": "2fb175ba-308e-4401-b249-77ae9cd7692f",
-  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Kreditoren: Bearbeiten",
+  "Title": "\ttopfact6 Administration - Administration MyWork FiBuConnect - Kreditoren: Bearbeiten",
   "Content": "Beginn Funktions-ID: 536 Modul-ID:85\r\nKreditoren: Bearbeiten\r\nÖffnet einen Dialog zur Bearbeitung des fokussierten Kreditors. \r\n\r\n\r\n\r\nParameter der Funktion\r\nReiter Allgemein: Kreditor\r\n-> Angabe allgemeiner Informationen zu Kreditor. Zum Beispiel Nummer, Name oder Gegenkonto. \r\nReiter Allgemein: Kontaktinformationen\r\n-> Angabe der Kontaktinformationen des Kreditors.\r\nReiter Bankverbindung\r\n-> Angabe der Bankverbindung des Kreditors.\r\nReiter Zahlungsbedingungen\r\n-> Konfiguration verschiedener Zahlungsbedingungen. Zum Beispiel Valuta oder Skonto. \r\nEnde Funktions-ID: 536 Modul-ID:85",
   "Url": "https://services.topfact.de/wiki/pages/view?g=2fb175ba-308e-4401-b249-77ae9cd7692f"
 }

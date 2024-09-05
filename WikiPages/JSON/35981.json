@@ -1,7 +1,7 @@
 {
   "PageID": 35981,
   "PageGuid": "465449be-97cf-492b-91c0-f345d5d0ed76",
-  "Title": "topfact6 Administration - Administration MyWork Aufgaben - Priorität: Bearbeiten",
+  "Title": "\ttopfact6 Administration - Administration MyWork Aufgaben - Priorität: Bearbeiten",
   "Content": "Beginn Funktions-ID: 508 Modul-ID:84\r\nPriorität: Bearbeiten\r\nÖffnet einen Dialog mit dem die fokussierte Priorität bearbeitet werden kann. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die Priorität steht in dieser Organisation zur Verfügung.\r\nPriorität \r\n-> Bezeichnung der Priorität, diese wird in MyWork angezeigt. \r\nPrioritätstyp\r\n-> Auswahl der Dringlichkeit einer Aufgabe, der diese Priorität zugeordnet wurde. Wahlmöglichkeiten sind hoch, normal oder niedrig. \r\nFarbe\r\n-> Auswahl einer Farbe mit der eine Aufgabe dieser Priorität markiert wird.\r\nBeschreibung\r\n-> Anlegen einer Beschreibung für die Priorität. \r\nEnde Funktions-ID: 508 Modul-ID:84",
   "Url": "https://services.topfact.de/wiki/pages/view?g=465449be-97cf-492b-91c0-f345d5d0ed76"
 }

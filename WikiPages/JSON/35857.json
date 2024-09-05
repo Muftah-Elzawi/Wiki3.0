@@ -1,7 +1,7 @@
 {
   "PageID": 35857,
   "PageGuid": "e7e0030e-81e6-42ee-886a-34b6c8a5bbfb",
-  "Title": "topfact6 MyWork - MyWork Datei - Systeminformationen",
+  "Title": "topfact6 MyWork - MyWork Datei - Systeminformationen ",
   "Content": "Beginn Funktions-ID: 387 Modul-ID:73\r\nSysteminformationen \r\nÖffnet einen Dialog in dem die Systeminformationen angezeigt werden.\r\n\r\n\r\n\r\nParameter der Funktion\r\nReiter Info\r\n-> Hier werden allgemeine Informationen zum System angezeigt. Zum Beispiel der Benutzername des aktuellen Users, die IP Adresse oder die topfactArchiv Version die aktuell verwendet wird.\r\nReiter Dialoge\r\n-> In dieser Dialogliste sind alle Dialoge zu finden auf die die Gruppe des Benutzers Zugriff hat. \r\nReiter Archive\r\n-> In dieser Archivliste sind alle Archive zu finden auf die die Gruppe des Benutzers Zugriff hat.\r\nEnde Funktions-ID: 387 Modul-ID:73",
   "Url": "https://services.topfact.de/wiki/pages/view?g=e7e0030e-81e6-42ee-886a-34b6c8a5bbfb"
 }

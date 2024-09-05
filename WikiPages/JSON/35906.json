@@ -1,7 +1,7 @@
 {
   "PageID": 35906,
   "PageGuid": "273d6188-ac04-4028-97bd-e523200c44a7",
-  "Title": "topfact6 Administration - Administration Datentabellen - Datentabelle exportieren",
+  "Title": "\ttopfact6 Administration - Administration Datentabellen - Datentabelle exportieren ",
   "Content": "Beginn Funktions-ID: 436 Modul-ID:80\r\nDatentabelle exportieren \r\nExportiert die fokussierte Datentabelle als XML Datei. \r\n\r\n\r\n\r\nParameter der Funktion\r\nExportordner \r\n-> Speicherort der Datei nach dem Export.\r\nEnde Funktions-ID: 436 Modul-ID:80",
   "Url": "https://services.topfact.de/wiki/pages/view?g=273d6188-ac04-4028-97bd-e523200c44a7"
 }

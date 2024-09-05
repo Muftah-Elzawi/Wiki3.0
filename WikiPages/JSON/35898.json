@@ -1,7 +1,7 @@
 {
   "PageID": 35898,
   "PageGuid": "835f7eb5-8c9d-4a80-a3da-39c406505544",
-  "Title": "topfact6 Administration - Administration Jobserver Server - Server anlegen",
+  "Title": "\ttopfact6 Administration - Administration Jobserver Server - Server anlegen ",
   "Content": "Beginn Funktions-ID: 429 Modul-ID:79\r\nServer anlegen \r\nÖffnet einen Dialog um einen neuen Server anzulegen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nReiter Server: Organisation\r\n-> Der Server wird dieser Organisation zugeordnet.\r\nReiter Server: Lizenzbenutzer\r\n-> Name des Users der die Lizenzen für die Jobserver Module hält.\r\nReiter Server: Benennung\r\n-> Bezeichnung des Servers. Diese Bezeichnung hat keine technische Relevanz.\r\nReiter Server: Servername\r\n-> Technischer Name des Servers.\r\nReiter Server: Beschreibung\r\n-> Es kann eine Beschreibung für den Server angelegt werden.\r\nReiter Server: aktiver Server\r\n-> Der Server wird als aktiv markiert. Es kann nur auf aktive Server zugegriffen werden.\r\nReiter Optionen: Jobserver Intervall\r\n-> In diesem zeitlichen Abstand überprüft der Server die Aufgaben.\r\nReiter Optionen: Anzahl Einträge in Historie\r\n-> Begrenzt die Anzahl der Einträge in der Serverhistorie auf die eingegebene Anzahl. Anzahl =0 bedeutet unbegrenzte Einträge. Eine Begrenzung der Einträge kann eine Verbesserung der Ladezeiten bewirken.\r\nReiter Optionen: Leistungsdaten sammeln\r\n-> Die Leistungsdaten werden gesammelt und aus die Festplatte geschrieben. Diese Funktion kann im Fall von Performance Problemen zur Analyse aktiviert werden, andernfalls ist es besser diese Funktion deaktiviert zu lassen.\r\nEnde Funktions-ID: 429 Modul-ID:79",
   "Url": "https://services.topfact.de/wiki/pages/view?g=835f7eb5-8c9d-4a80-a3da-39c406505544"
 }

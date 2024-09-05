@@ -2,6 +2,6 @@
   "PageID": 17254,
   "PageGuid": "76e46a4e-7424-4124-bf10-1fbe6f5d2f6e",
   "Title": "FAQ Reaktivieren Outlook Add-In nach Fehler",
-  "Content": "Nach Windowsupdates kann es sein, dass das topfact Outlook Add-In neu aktiviert werden muss.",
+  "Content": "Nach Windowsupdates kann es sein, dass das topfact Outlook Add-In neu aktiviert werden muss.\r\n\r\nProblembeschreibung\r\nNach Micorosoft Updates ist das topfact Outlook Add-In nicht mehr startbar, weil deaktiviert.\r\n\r\nArbeitsumgebung\r\ntopfact Outlook Add-In für DocuWare und Outlook 201-2013\r\n\r\nLösung\r\nIn Outlook, unter Optionen / Add-Ins / Verwalten   Deaktivierte Elemente auswählen. Das topfact Add-In anwählen und Aktiveren klicken.\r\n\r\nDann prüfen ob bei Optionen / Add-Ins / Verwalten  COM-Add-Ins  das topfact Add-In aktiv ist, ansonsten hier nochmal anchecken.\r\n\r\n\r\n\r\nAbschließend Outlook nochmal neu starten und prüfen ob das topfact Add-In startet:",
   "Url": "https://services.topfact.de/wiki/pages/view?g=76e46a4e-7424-4124-bf10-1fbe6f5d2f6e"
 }

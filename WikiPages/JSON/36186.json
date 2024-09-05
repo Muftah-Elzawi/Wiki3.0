@@ -1,7 +1,7 @@
 {
   "PageID": 36186,
   "PageGuid": "b968c714-b7cc-4992-a6dc-282d8219f7f2",
-  "Title": "topfact6 Administration - Administration Datenquellen -  Hinzufügen",
+  "Title": "\ttopfact6 Administration - Administration Datenquellen -  Hinzufügen",
   "Content": "Beginn Funktions-ID: 712 Modul-ID:98\r\nHinzufügen\r\nÖffnet einen Dialog um eine neue Datenquelle anzulegen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nDatenbankinformationen\r\n-> Auswahl und anzeigen von allgemeinen Datenbankinformationen. Zum Beispiel Datenbanktyp, Server, Port und Datenbank.\r\nAuthentifizierung\r\n-> Angabe von Benutzername und Passwort für die Authentifizierung. \r\nAsyncronosProcessing\r\n-> Die Daten werden asynchron verarbeitet. \r\nEncrypt\r\n-> Verschlüsselung der Daten der Datenquellen.\r\nDauer Verbindungsaufbau\r\n-> Maximale Dauer des Verbindungsaufbaus. Wird dieser Wert überschritten wird der Verbindungsversuch abgebrochen.\r\nDauer Befehlsausführung\r\n-> Maximale Dauer des Befehlsausführung. Wird dieser Wert überschritten wird die Befehlsausführung abgebrochen.\r\nVerbindung testen\r\n-> Testet die Datenbankverbindung mit den angegebenen Parametern. \r\nEnde Funktions-ID: 712 Modul-ID:98",
   "Url": "https://services.topfact.de/wiki/pages/view?g=b968c714-b7cc-4992-a6dc-282d8219f7f2"
 }

@@ -2,6 +2,6 @@
   "PageID": 17612,
   "PageGuid": "52b03162-118c-471d-b200-cff12ebdb507",
   "Title": "Zuweisung der topfact6 JobServer Modullizenzen",
-  "Content": "Ab der Version 2022.10.1 können die Modullizenzen zu einem Benutzer zugewiesen werden.",
+  "Content": "Ab der Version 2022.10.1 können die Modullizenzen zu einem Benutzer zugewiesen werden.\r\n\r\nSchritt 1: Einrichtung des Lizenzbenutzers\r\nIn dem Reiter \"Anwendungen\" klicken Sie auf \"Jobserver Server\" und machen Sie die Einstellungen von Ihrem Jobserver Server auf.\r\n\r\n\r\nIn diesem Dialog wählen Sie Ihren Lizenzbenutzer aus.\r\n\r\nSchritt 2: Zuweisung der Modullizenzen zu einem User\r\nIn dem Reiter \"Organisation\" klicken Sie den Button \"Lizensierung\"\r\n\r\n\r\ntopfact AG empfehlt für diese Zuweisung der Lizenzen eine einzelne \"Lizenz zuweisen\".\r\n\r\n\r\n\r\nFür alle Ihre topfact6 JobServer Module soll eine Lizenz zu Ihrem Lizenzbenutzer zugewiesen werden.\r\n\r\n\r\nHier wird es empfehlt mit dem \"Übernehmen\" Button zu arbeiten.",
   "Url": "https://services.topfact.de/wiki/pages/view?g=52b03162-118c-471d-b200-cff12ebdb507"
 }

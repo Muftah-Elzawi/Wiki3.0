@@ -1,7 +1,7 @@
 {
   "PageID": 36123,
   "PageGuid": "660dbda1-1621-4502-8f6a-e7043af3d1f6",
-  "Title": "topfact6 Administration - Administration topfactArchiv! - Speicherorte: Anlegen",
+  "Title": "\ttopfact6 Administration - Administration topfactArchiv! - Speicherorte: Anlegen",
   "Content": "Beginn Funktions-ID: 632 Modul-ID:88\r\nSpeicherorte: Anlegen\r\nÖffnet einen Dialog mit dem ein neuer Speicherort angelegt werden kann. \r\n\r\n\r\n\r\nParameter der Funktion\r\nName\r\n-> Bezeichnung des Speicherorts.\r\nSpeichertyp\r\n-> Auswahl eines Speichertyps. Zum Beispiel Dateisystem, Netzwerkfreigabe oder Microsoft Azure Cloud.\r\nDateipfad\r\n-> Pfad unter dem die Dateien abgelegt sind.\r\nVersion\r\n-> Gibt an wie viele Unterordner und Dateien in dem Dateisystem gespeichert werden können.\r\nVerschlüsselungsschlüssel\r\n-> Verschlüsselung der Dateien am Speicherort, ohne den Verschlüsselungsschlüssel können die Dateien im Archiv nicht wieder hergestellt werden.\r\nDateien am Speicherort verschlüsseln\r\n-> Wenn aktiv werden die Dateien am Speicherort verschlüsselt.\r\nHinweis\r\nDer Verschlüsselungsschlüssel kann nach dem anlegen des Speicherortes nicht mehr geändert werden. Daher ist es entscheidend den Verschlüsselungsschlüssel an einem sicheren Ort abzulegen.\r\nEnde Funktions-ID: 632 Modul-ID:88",
   "Url": "https://services.topfact.de/wiki/pages/view?g=660dbda1-1621-4502-8f6a-e7043af3d1f6"
 }

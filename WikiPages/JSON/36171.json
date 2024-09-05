@@ -1,7 +1,7 @@
 {
   "PageID": 36171,
   "PageGuid": "60d81f94-7fd3-4511-9569-4729640360ff",
-  "Title": "topfact6 Administration - Administration Datenpflege -  Bearbeiten",
+  "Title": "\ttopfact6 Administration - Administration Datenpflege -  Bearbeiten",
   "Content": "Letzte Aktuallisierung am : 25.03.2024\r\nModul-ID : 97\r\nAdministration Datenpflege\r\nÜbersicht über die zur Verfügung stehenden Datenpflegen.\r\n\r\n\r\nBeginn Funktions-ID: 701 Modul-ID:97\r\nBearbeiten\r\nÖffnet einen Dialog mit dem ein Eintrag der Datenpflege bearbeiten werden kann. \r\n\r\n\r\n\r\n\r\nHinweis\r\nDie Parameter dieser Funktionen hängen von der Datenpflege ab. Die Parameter sind die Spaltennamen der Tabelle.\r\nEnde Funktions-ID: 701 Modul-ID:97",
   "Url": "https://services.topfact.de/wiki/pages/view?g=60d81f94-7fd3-4511-9569-4729640360ff"
 }

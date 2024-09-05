@@ -1,0 +1,7 @@
+{
+  "PageID": 36329,
+  "PageGuid": "41a4021e-84e7-4cb5-a7f2-3b7f530773f1",
+  "Title": "PDF Datei lässt sich nicht in MyWork Quickindex anzeigen",
+  "Content": "Frage\r\nIn myWork wird eine PDF nicht angezeigt. Äußerlich scheint alles ok, die Datei lässt sich auch in einem PDF Viewer öffnen, jedoch nicht in MyWork\r\nIm protokoll steht z. B.\r\nERROR topfact.MyWork.Forms.QuickIndex.frmQuickIndex DisplayPage - Die Eingabedaten werden nicht als gültiges PDF erkannt.\r\n\r\nAntwort / Lösung\r\nDie Datei kann vom QuickIndex PDF Konverter nicht verarbeitet werden. Am einfachtsten ist es diese zu exportieren, in einem PDF Viewer zu öffnen und über einen PDF Drucker als neue PDF Datei abzuspeichern. Über diese Konvertierung kann das Problem behoben sein. Die neue Datei einfach ablegen und prüfen ob es nun geht.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=41a4021e-84e7-4cb5-a7f2-3b7f530773f1"
+}

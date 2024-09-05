@@ -1,7 +1,7 @@
 {
   "PageID": 35913,
   "PageGuid": "d1ebb8c3-c4f0-4dd3-b724-e1b583d1ff79",
-  "Title": "topfact6 Administration - Administration Dokumentenstruktur - Hauptknoten anlegen",
+  "Title": "\ttopfact6 Administration - Administration Dokumentenstruktur - Hauptknoten anlegen",
   "Content": "Beginn Funktions-ID: 441 Modul-ID:81\r\nHauptknoten anlegen\r\nÖffnet einen Dialog um einen neuen Hauptknoten anzulegen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nBenennung\r\n-> Bezeichnung der Dokumentenstruktur.\r\nBeschreibung \r\n-> Details zur Dokumentenstruktur werden beschrieben.\r\nGruppenliste\r\n-> Die Gruppenliste gibt an welche Gruppen Zugriff auf die Dokumentenstruktur haben.\r\nEnde Funktions-ID: 441 Modul-ID:81",
   "Url": "https://services.topfact.de/wiki/pages/view?g=d1ebb8c3-c4f0-4dd3-b724-e1b583d1ff79"
 }

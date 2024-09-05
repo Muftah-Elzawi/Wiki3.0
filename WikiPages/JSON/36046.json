@@ -1,7 +1,7 @@
 {
   "PageID": 36046,
   "PageGuid": "01b4a8c6-dc21-44a9-ba29-27aa7945bd8e",
-  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Kreditoren: Import",
+  "Title": "\ttopfact6 Administration - Administration MyWork FiBuConnect - Kreditoren: Import",
   "Content": "Beginn Funktions-ID: 540 Modul-ID:85\r\nKreditoren: Import\r\nÖffnet einen Dialog zum Import von Kreditoren. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Der importierte Kreditor wird dieser Organisation zugewiesen.\r\nMandant\r\n-> Bezeichnung des Mandanten.\r\nCSV-Datei\r\n-> Auswahl der zu importierenden Datei.\r\nEnde Funktions-ID: 540 Modul-ID:85",
   "Url": "https://services.topfact.de/wiki/pages/view?g=01b4a8c6-dc21-44a9-ba29-27aa7945bd8e"
 }

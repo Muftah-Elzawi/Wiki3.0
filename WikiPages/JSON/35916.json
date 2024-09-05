@@ -1,7 +1,7 @@
 {
   "PageID": 35916,
   "PageGuid": "eb6d366a-5e2d-4561-8715-c367308c2c77",
-  "Title": "topfact6 Administration - Administration Dokumentenstruktur - Struktur anlegen",
+  "Title": "\ttopfact6 Administration - Administration Dokumentenstruktur - Struktur anlegen",
   "Content": "Beginn Funktions-ID: 442 Modul-ID:81\r\nStruktur anlegen\r\nÖffnet einen Dialog um eine neue Dokumentenstruktur anzulegen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nBenennung\r\n-> Bezeichnung der Dokumentenstruktur.\r\nBeschreibung\r\n-> Details zur Dokumentenstruktur werden beschrieben.\r\nGruppenliste\r\n-> Die Gruppenliste gibt an welche Gruppen Zugriff auf die Dokumentenstruktur haben. \r\nEnde Funktions-ID: 442 Modul-ID:81",
   "Url": "https://services.topfact.de/wiki/pages/view?g=eb6d366a-5e2d-4561-8715-c367308c2c77"
 }

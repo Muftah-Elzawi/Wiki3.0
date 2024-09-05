@@ -2,6 +2,6 @@
   "PageID": 17775,
   "PageGuid": "8515ffb2-2d65-452d-8d98-d7ba5e00067d",
   "Title": "FAQ Benutzer manuell aus AD importieren",
-  "Content": "Neben der topfact Benutzer Synchronisation als automatische Lösung zur Benutzerverwaltung, gibt es auch die Möglichkeit, Benutzer manuell zu importieren.",
+  "Content": "Neben der topfact Benutzer Synchronisation als automatische Lösung zur Benutzerverwaltung, gibt es auch die Möglichkeit, Benutzer manuell zu importieren.\r\n\r\nProblembeschreibung\r\nWie kann ich einen Benutzer manuell aus dem Active Directory importieren?\r\n\r\nArbeitsumgebung\r\ntopfact6 Administration ab den Versionen 2022 zum Betrieb im eigenen Netzwerk mit einer Benutzerverwaltung im Windows Server Active Directory\r\nInfos zu Active Directory durch Microsoft u.a. hier https://learn.microsoft.com/de-de/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview\r\n\r\nLösung\r\nDer neue Benutzer muss im Active Directory als aktiver Benutzer angelegt sein.\r\n\r\nBenutzeranlage per Import aus dem Active Directory\r\n\r\nReiter Organisation/Benutzer dort Extras Benutzer importieren\r\n\r\nBenutzer suchen, markieren und OK\r\n\r\nWenn importiert Anrede und Gruppen zuordnen\r\n\r\nMit dem nächsten Login zieht sich der Benutzer dann automatisch eine MyWork Lizenz. Falls keine mehr frei ist, bekommt er einen Hinweis.",
   "Url": "https://services.topfact.de/wiki/pages/view?g=8515ffb2-2d65-452d-8d98-d7ba5e00067d"
 }

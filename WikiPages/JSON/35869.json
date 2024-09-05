@@ -1,7 +1,7 @@
 {
   "PageID": 35869,
   "PageGuid": "57e680f3-70d6-4d88-86c1-7dc036f1b43d",
-  "Title": "topfact6 Administration - Administration Jobserver Überwachung - Ordner hinzufügen",
+  "Title": "\ttopfact6 Administration - Administration Jobserver Überwachung - Ordner hinzufügen",
   "Content": "Beginn Funktions-ID: 397 Modul-ID:75\r\nOrdner hinzufügen\r\nÖffnet einen Dialog zum Erstellen eines neuen Ordners. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Auswahl der Organisation zu der dieser Ordner gehört.\r\nKategorie\r\n-> Angabe des Jobservermoduls zu dem der Ordner gehört.\r\nOrdner\r\n-> Auswahl des zu überwachenden Ordners. Optional werden auch alle Unterordner des ausgewählten Ordners überwacht. \r\nAnzahl von Dateien\r\n-> Die gesamt Anzahl von Dateien die sich in dem Ordner oder Unterordnern befinden.\r\nAnzahl Unterordner\r\n-> Die Anzahl von Unterordnern die sich in dem Ordner befinden.\r\nOrdnergröße in MB\r\n-> Gesamtgröße des Ordners, wird berechnet über die Summe der Größe aller sich in dem Ordner befindlichen Dateien.\r\nEnde Funktions-ID: 397 Modul-ID:75",
   "Url": "https://services.topfact.de/wiki/pages/view?g=57e680f3-70d6-4d88-86c1-7dc036f1b43d"
 }

@@ -1,7 +1,7 @@
 {
   "PageID": 36133,
   "PageGuid": "57964936-742d-452d-ab4b-ba4fc96950c9",
-  "Title": "topfact6 Administration - Administration Lizensierung - Massenzuweisung",
+  "Title": "\ttopfact6 Administration - Administration Lizensierung - Massenzuweisung",
   "Content": "Beginn Funktions-ID: 647 Modul-ID:89\r\nMassenzuweisung\r\nÖffnet einen Dialog um Lizenzen an mehrere Benutzer gleichzeitig zu vergeben. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Angabe der Organisation für die eine Lizenz vergeben werden soll.\r\nAnwendung\r\n-> Die Anwendung für die eine Lizenz vergeben werden soll.\r\nBenutzen\r\n-> Angabe des Benutzers der die Lizenz bekommen soll.\r\nVerfügbare Lizenzen\r\n-> Anzahl der Lizenzen, die für die Anwendung zur Verfügung stehen.\r\nLizenzen in Anwendung\r\n-> Anzahl der verwendeten Lizenzen.\r\nFreie Lizenzen\r\n-> Anzahl der Lizenzen die noch vergeben werden können.\r\nEnde Funktions-ID: 647 Modul-ID:89",
   "Url": "https://services.topfact.de/wiki/pages/view?g=57964936-742d-452d-ab4b-ba4fc96950c9"
 }

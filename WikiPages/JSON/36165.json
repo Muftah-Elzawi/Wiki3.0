@@ -1,7 +1,7 @@
 {
   "PageID": 36165,
   "PageGuid": "b38c2613-eb73-467b-9957-c5219bc50797",
-  "Title": "topfact6 Administration - Administration Anwendungsarchive - Webservice ändern",
+  "Title": "\ttopfact6 Administration - Administration Anwendungsarchive - Webservice ändern",
   "Content": "Beginn Funktions-ID: 676 Modul-ID:94\r\nWebservice ändern\r\nÖffnet einen Dialog um den Webservice zu ändern. \r\n\r\n\r\n\r\nParameter der Funktion\r\nSOAP URL\r\n-> Eingabe einer neuen SOAP URL.\r\nREST URL\r\n-> Eingabe einer neuen REST URL.\r\nEnde Funktions-ID: 676 Modul-ID:94",
   "Url": "https://services.topfact.de/wiki/pages/view?g=b38c2613-eb73-467b-9957-c5219bc50797"
 }

@@ -2,6 +2,6 @@
   "PageID": 17611,
   "PageGuid": "c1b45f33-b323-4c44-b261-83bf7dd1fed4",
   "Title": "",
-  "Content": "Was machen, wenn der Admin User keine Lizenz hat?\r\nAuf dieser Wiki-Seite erfahren Sie wie sie selbständig eine Lizenz für das Produkt topfact6 Administration einem Administrator zuweisen können.",
+  "Content": "Was machen, wenn der Admin User keine Lizenz hat?\r\nAuf dieser Wiki-Seite erfahren Sie wie sie selbständig eine Lizenz für das Produkt topfact6 Administration einem Administrator zuweisen können.\r\n\r\nFehlermeldung\r\nDie Fehlermeldung kann nach einem Update auf die Version 2022.1.1 oder höher vorkommen.\r\n\r\nSQL Skript für die Anlage der Lizenz\r\nMit diesem SQL Skript kann man für den ersten gefundenen Administrator in der [topfact6].[dbo].[TF_Benutzer] eine Lizenz für das Produkt topfact6 Administration zuweisen.\r\n\r\n\r\nINSERT INTO [topfact6].[dbo].[TF_UserLicense]\r\n\r\n([OrgID],\r\n[UserID],\r\n[AppGuid],  \r\n[DateCreated],\r\n[UserCreated])\r\n\r\nVALUES \r\n\r\n((SELECT TOP(1)OrgID as OrgID FROM dbo.TF_Organisations),\r\n(SELECT top 1 UserId  FROM [topfact6].[dbo].[TF_Benutzer] WHERE IsAdministrator = 1),\r\n'FD8C616E-CD66-44E2-8D26-31E60EE05AD0',\r\nGETDATE(),\r\n'topfactSkript')\r\n\r\nAnmeldung\r\nNachdem man das SQL Skript ausgeführt hat, kann man sich in der topfact6 Administratior anmelden.",
   "Url": "https://services.topfact.de/wiki/pages/view?g=c1b45f33-b323-4c44-b261-83bf7dd1fed4"
 }

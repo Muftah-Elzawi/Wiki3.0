@@ -1,7 +1,7 @@
 {
   "PageID": 35973,
   "PageGuid": "29d1c304-3566-401b-9259-0ae55443bafd",
-  "Title": "topfact6 Administration - Administration MyWork Aufgaben - Einstellungen: Bearbeiten",
+  "Title": "\ttopfact6 Administration - Administration MyWork Aufgaben - Einstellungen: Bearbeiten",
   "Content": "Beginn Funktions-ID: 492 Modul-ID:84\r\nEinstellungen: Bearbeiten\r\nÖffnet einen Dialog zum Bearbeiten einer Standard Aufgabeneinstellungen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die Aufgabeneinstellung ist für diese Organisation gültig.\r\nStandard Aufgabenart\r\n-> Wird in MyWork eine neue Aufgabe angelegt wird diese Aufgabenart standardmäßig ausgewählt.\r\nStandard Status\r\n-> Wird in MyWork eine neue Aufgabe angelegt wird diese Status standardmäßig ausgewählt.\r\nStandard Priorität\r\n-> Wird in MyWork eine neue Aufgabe angelegt wird diese Priorität standardmäßig ausgewählt.\r\nErledigungsstatus\r\n-> Mit diesem Status gilt die Aufgabe als erledigt.\r\nAbfragen des Ergebnisses\r\n-> Wenn aktiviert, wird das Ergebnis bei der Erledigung der Aufgabe abgefragt.\r\nEnde Funktions-ID: 492 Modul-ID:84",
   "Url": "https://services.topfact.de/wiki/pages/view?g=29d1c304-3566-401b-9259-0ae55443bafd"
 }

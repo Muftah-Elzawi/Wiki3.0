@@ -1,7 +1,7 @@
 {
   "PageID": 36164,
   "PageGuid": "81141264-01b2-4b64-8563-da215765cb2d",
-  "Title": "topfact6 Administration - Administration Anwendungsarchive - Hinzufügen",
+  "Title": "\ttopfact6 Administration - Administration Anwendungsarchive - Hinzufügen",
   "Content": "Beginn Funktions-ID: 674 Modul-ID:94\r\nHinzufügen\r\nÖffnet einen Dialog um ein neues Archiv hinzuzufügen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Das Archiv wird dieser Organisation zugeordnet.\r\nDMS-System\r\n-> Angabe des verwendeten DMS-Systems.\r\nURLs\r\n-> Angabe der URLs des SOAP Webservice und des REST Webservice.\r\nArchiv\r\n-> Bezeichnung des Archivs.\r\nAn erste Stelle\r\n-> Setzt das fokussierte Feld an die Erste Stelle der Liste.\r\nNach oben verschieben\r\n-> Verschiebt das fokussierte Feld um eine Stelle nach oben.\r\nNach unten verschieben\r\n-> Verschiebt das fokussierte Feld um eine Stelle nach unten.\r\nAn Letzte Stelle\r\n-> Setzt das fokussierte Feld an die Letzte Stelle der Liste.\r\nAktualisieren\r\n-> Aktualisiert die Ansicht. \r\nExportieren\r\n-> Exportiert die Archivfelder als CSV Datei.\r\nAnwendungsliste\r\n-> Übersicht über alle Anwendungen in denen das Archiv verwendet werden kann. Klick auf eine Anwendung wählt diese an oder ab, abhängig von vorherigen Zustand.\r\nEnde Funktions-ID: 674 Modul-ID:94",
   "Url": "https://services.topfact.de/wiki/pages/view?g=81141264-01b2-4b64-8563-da215765cb2d"
 }

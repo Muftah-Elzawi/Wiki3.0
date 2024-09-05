@@ -1,7 +1,7 @@
 {
   "PageID": 35961,
   "PageGuid": "0739f130-d17f-491a-b544-87b02ab2b437",
-  "Title": "topfact6 Administration - Administration MyWork Aufgaben - Aufgabenart: Bearbeiten",
+  "Title": "\ttopfact6 Administration - Administration MyWork Aufgaben - Aufgabenart: Bearbeiten",
   "Content": "Beginn Funktions-ID: 496 Modul-ID:84\r\nAufgabenart: Bearbeiten\r\nÖffnet einen Dialog mit dem eine Aufgabenart bearbeitet werden kann. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die Aufgabenart wird dieser Organisation zugeordnet.\r\nAufgabenart\r\n-> Bezeichnung der Aufgabenart.\r\nZuweisungsreihenfolge\r\n-> Auswahl, ob alle Aufgabenschritte auf einmal angelegt werden sollen oder nacheinander.\r\nAufgabenerledigung\r\n-> Auswahl, on die Aufgabe durch einen oder alle Mitarbeiter der Organisation erfolgt. \r\nBeschreibung\r\n-> Anlegen einer Beschreibung für die Aufgabenart.\r\nKennfarbe\r\n-> Auswahl einer Farbe mit der alle Aufgaben dieser Aufgabenartgekennzeichnet werden.\r\nEnde Funktions-ID: 496 Modul-ID:84",
   "Url": "https://services.topfact.de/wiki/pages/view?g=0739f130-d17f-491a-b544-87b02ab2b437"
 }

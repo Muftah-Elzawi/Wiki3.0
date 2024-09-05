@@ -1,7 +1,7 @@
 {
   "PageID": 35904,
   "PageGuid": "e83a97f1-5043-43b2-bfd3-0993bda19ce0",
-  "Title": "topfact6 Administration - Administration Datentabellen - Datentabelle anlegen",
+  "Title": "\ttopfact6 Administration - Administration Datentabellen - Datentabelle anlegen ",
   "Content": "Beginn Funktions-ID: 433 Modul-ID:80\r\nDatentabelle anlegen \r\nÖffnet einen Dialog zum anlegen einer neuen Datentabelle. \r\n\r\n\r\n\r\nParameter der Funktion\r\nName\r\n-> Bezeichnung der Datentabelle.\r\nBeschreibung\r\n-> Details zur Datentabelle werden beschrieben.\r\nAbfrage\r\n-> Datenbankabfrage in SQL.\r\nAbfragetyp\r\n-> Legt den Typ der Abfrage fest. Entweder Abfrage per Text oder per gespeicherter Prozedur.\r\nSchlüsselfeld\r\n-> Angabe des Schlüssels der Datentabelle.\r\nParameterfeld\r\n-> Eingabefeld für Parameter.\r\nFiltermodus\r\n-> Angabe in welchem Filtermodus die Abfrage der Datentabelle stattfindet. Auswahl zwischen AND und OR Filter.\r\nAbfrage testen\r\n-> Testet die Datenbankabfrage mit den aktuell eingetragenen Parametern. \r\nRechte einschränken\r\n-> Die Datenrückgabe erfolgt nur wenn Filter definiert sind.\r\nEnde Funktions-ID: 433 Modul-ID:80",
   "Url": "https://services.topfact.de/wiki/pages/view?g=e83a97f1-5043-43b2-bfd3-0993bda19ce0"
 }

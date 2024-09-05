@@ -1,7 +1,7 @@
 {
   "PageID": 35859,
   "PageGuid": "858c664e-7102-4a44-acb1-c4452b034793",
-  "Title": "topfact6 Administration - Administration Formular Erkennung - Daten filtern",
+  "Title": "\ttopfact6 Administration - Administration Formular Erkennung - Daten filtern",
   "Content": "Beginn Funktions-ID: 396 Modul-ID:74\r\nDaten filtern\r\nFiltert die Formulare anhand eines bestimmten Zeitraums. Der Zeitraum kann individuell eingestellt werden.\r\n\r\n\r\n\r\nParameter der Funktion\r\nDatum von\r\n-> Datum ab welchem die Formulare angezeigt werden. Das Datum bezieht sich auf das Belegdatum des Dokuments.\r\nDatum bis\r\n-> Datum bis zu dem Formulare angezeigt werden. Das Datum bezieht sich auf das Belegdatum der Dokumente.\r\nEnde Funktions-ID: 396 Modul-ID:74",
   "Url": "https://services.topfact.de/wiki/pages/view?g=858c664e-7102-4a44-acb1-c4452b034793"
 }

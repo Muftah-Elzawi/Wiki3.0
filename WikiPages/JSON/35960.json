@@ -1,7 +1,7 @@
 {
   "PageID": 35960,
   "PageGuid": "5b5b60eb-e469-4ccc-9642-082b75825f87",
-  "Title": "topfact6 Administration - Administration MyWork Aufgaben - Aufgabenart: Anlegen",
+  "Title": "\ttopfact6 Administration - Administration MyWork Aufgaben - Aufgabenart: Anlegen",
   "Content": "Beginn Funktions-ID: 495 Modul-ID:84\r\nAufgabenart: Anlegen\r\nÖffnet ein Menü mit dem eine neue Aufgabenart angelegt werden kann. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die Aufgabenart wird dieser Organisation zugeordnet. \r\nAufgabenart\r\n-> Bezeichnung der Aufgabenart.\r\nZuweisungsreihenfolge\r\n-> Auswahl, ob alle Aufgabenschritte auf einmal angelegt werden sollen oder nacheinander. \r\nAufgabenerledigung\r\n-> Auswahl, on die Aufgabe durch einen oder alle Mitarbeiter der Organisation erfolgt.\r\nBeschreibung\r\n-> Anlegen einer Beschreibung für die Aufgabenart.\r\nKennfarbe\r\n-> Auswahl einer Farbe mit der alle Aufgaben dieser Aufgabenartgekennzeichnet werden.\r\nEnde Funktions-ID: 495 Modul-ID:84",
   "Url": "https://services.topfact.de/wiki/pages/view?g=5b5b60eb-e469-4ccc-9642-082b75825f87"
 }

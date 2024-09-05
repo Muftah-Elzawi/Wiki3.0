@@ -1,0 +1,7 @@
+{
+  "PageID": 36326,
+  "PageGuid": "1c59c052-913b-4fb5-8d35-48384a3982aa",
+  "Title": "MyWork Login speichern, Passwort speichern, automatische Anmeldung in MyWork",
+  "Content": "Frage\r\nWie kann die Eingabe des Passworts beim MyWork Login vermieden werden? Gibt es eine automatische Anmeldung beim Start von MyWork?\r\nAntwort / Lösung\r\nJa, das Login kann gespeichert werden. \r\n\r\nFüllen Sie die Loginmaske korrekt aus und klicken Sie einfach statt dem \"Anmelden\" Button auf den Pfeil (1) rechts daneben und dann auf \"Anmelden und Anmeldung speichern\" (2).\r\n\r\n\r\n\r\nDann wir dieses Login bei der nächsten Anmeldung automatisch wieder verwendet.\r\n\r\n\r\nZum Lösen dieser automatischen Loginverbindung klicken Sie in MyWork auf \"Datei\" (1), \"Einstellungen\" (2) und \"Benutzer Autoanmeldung entfernen\" (3)\r\n\r\n\r\n\r\nDann bleibt die Loginmaske wieder stehen und erwartet eine Eingabe.",
+  "Url": "https://services.topfact.de/wiki/pages/view?g=1c59c052-913b-4fb5-8d35-48384a3982aa"
+}

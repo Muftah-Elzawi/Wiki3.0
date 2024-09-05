@@ -1,7 +1,7 @@
 {
   "PageID": 35976,
   "PageGuid": "c6e8a87b-2f8a-49dc-b569-212e7196e4e9",
-  "Title": "topfact6 Administration - Administration MyWork Aufgaben - Emailvorlage: Anlegen",
+  "Title": "\ttopfact6 Administration - Administration MyWork Aufgaben - Emailvorlage: Anlegen",
   "Content": "Beginn Funktions-ID: 511 Modul-ID:84\r\nEmailvorlage: Anlegen\r\nÖffnet einen Dialog mit dem eine neue Emailvorlage angelegt werden kann. \r\n\r\n\r\n\r\nParameter der Funktion\r\nReiter Einstellungen: Organisation\r\n-> Die Emailvorlage steht in dieser Organisation zur Verfügung.\r\nReiter Einstellungen: Name\r\n-> Bezeichnung der Emailvorlage.\r\nReiter Einstellungen: E-Mail Typ\r\n-> Auswahl um welchen Typ von Mail Benachrichtigung es sich handelt. Zum Beispiel Aufgaben Erstellung, Zuweisungsänderung oder Aufgaben Erledigung.\r\nReiter Einstellungen: Beschreibung\r\n-> Anlegen einer Beschreibung für die E-Mailvorlage.\r\nReiter E-Mailvorlage: Betreff\r\n-> Mit diesem Betreff werden Emails versendet, die mit dieser Vorlage erstellt wurden.\r\nReiter E-Mailvorlage: Text\r\n-> Nach dieser Textvorlage wird der Inhalt aller Mails, die mit dieser Vorlage erstellt wurden aufgebaut.\r\nEnde Funktions-ID: 511 Modul-ID:84",
   "Url": "https://services.topfact.de/wiki/pages/view?g=c6e8a87b-2f8a-49dc-b569-212e7196e4e9"
 }

@@ -1,7 +1,7 @@
 {
   "PageID": 35994,
   "PageGuid": "a3b18560-b038-40ce-b702-751b87821343",
-  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Bankverbindungen: Import",
+  "Title": "\ttopfact6 Administration - Administration MyWork FiBuConnect - Bankverbindungen: Import",
   "Content": "Beginn Funktions-ID: 549 Modul-ID:85\r\nBankverbindungen: Import\r\nÖffnet einen Dialog zum Import von Bankverbindungen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Die importierte Bankverbindung wird dieser Organisation zugewiesen.\r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen.\r\nCSV-Datei\r\n-> Auswahl der zu importierenden Datei.\r\nEnde Funktions-ID: 549 Modul-ID:85",
   "Url": "https://services.topfact.de/wiki/pages/view?g=a3b18560-b038-40ce-b702-751b87821343"
 }

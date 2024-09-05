@@ -1,7 +1,7 @@
 {
   "PageID": 35948,
   "PageGuid": "330207bc-4810-4d06-bdc2-1f1224fa14c1",
-  "Title": "topfact6 Administration - Administration MyWork - Einstellungen: Automatisches Zählen",
+  "Title": "\ttopfact6 Administration - Administration MyWork - Einstellungen: Automatisches Zählen",
   "Content": "Beginn Funktions-ID: 455 Modul-ID:83\r\nEinstellungen: Automatisches Zählen\r\nAktiviert das automatische Zählen von Dokumenten in einfachen Dokumentenstrukturen und Belegliste. Zählung wird nach einem bestimmten Zeitspanne wiederholt. \r\n\r\n\r\n\r\nParameter der Funktion\r\nIntervall\r\n-> In diesem Zeitabstand wird die Dokumentenzählung durchgeführt.\r\nEnde Funktions-ID: 455 Modul-ID:83",
   "Url": "https://services.topfact.de/wiki/pages/view?g=330207bc-4810-4d06-bdc2-1f1224fa14c1"
 }

@@ -1,7 +1,7 @@
 {
   "PageID": 35915,
   "PageGuid": "daf28b8e-1fcb-4b9f-8ea7-b00df2c07881",
-  "Title": "topfact6 Administration - Administration Dokumentenstruktur - Rechte zuweisen",
+  "Title": "\ttopfact6 Administration - Administration Dokumentenstruktur - Rechte zuweisen ",
   "Content": "Beginn Funktions-ID: 445 Modul-ID:81\r\nRechte zuweisen \r\nWeißt Gruppen Rechte auf die Dokumentenstruktur zu. \r\n\r\n\r\n\r\nParameter der Funktion\r\nGruppenliste\r\n-> Die Gruppenliste gibt an welche Gruppen Zugriff auf die Dokumentenstruktur haben. \r\nEnde Funktions-ID: 445 Modul-ID:81",
   "Url": "https://services.topfact.de/wiki/pages/view?g=daf28b8e-1fcb-4b9f-8ea7-b00df2c07881"
 }

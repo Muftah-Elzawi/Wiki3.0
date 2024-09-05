@@ -1,7 +1,7 @@
 {
   "PageID": 35876,
   "PageGuid": "9b3c6c6c-e8fe-44fe-bad0-de9303d87b7c",
-  "Title": "topfact6 Administration - Administration Jobserver Aufgaben - Aufgabe exportieren",
+  "Title": "\ttopfact6 Administration - Administration Jobserver Aufgaben - Aufgabe exportieren ",
   "Content": "Beginn Funktions-ID: 413 Modul-ID:76\r\nAufgabe exportieren \r\nExportiert die Aufgabe als XML Datei. \r\n\r\n\r\n\r\nParameter der Funktion\r\nExportordner \r\n-> Speicherort der Aufgabe nach dem Export.\r\nEnde Funktions-ID: 413 Modul-ID:76",
   "Url": "https://services.topfact.de/wiki/pages/view?g=9b3c6c6c-e8fe-44fe-bad0-de9303d87b7c"
 }

@@ -1,7 +1,7 @@
 {
   "PageID": 35720,
   "PageGuid": "ae6b817c-5927-442e-a2cf-973f22467799",
-  "Title": "topfact6 MyWork - MyWork QuickIndex - Kombinierte Suche",
+  "Title": "topfact6 MyWork - MyWork QuickIndex - Kombinierte Suche ",
   "Content": "Beginn Funktions-ID: 195 Modul-ID:69\r\nKombinierte Suche \r\nKlick auf das Symbol \"Kombinierte Suche\" (1) öffnet einen Dialog indem alle Indexdaten des Dokumentes aufgelistet sind .(2) Die einzelnen Werte können über Checkboxen ausgewählt werden und dienen als Suchparameter. Über den Indexdaten ist ein Eingabefeld für Volltext, dieses kann optional befüllt werden um zusätzlich eine Volltextsuche durchzuführen. Es werden nur Dokumente gefunden, bei denen alle Suchparameter gegeben sind. Die Indexdatenfelder sind mit UND verknüpft d.h. fehlt oder unterscheidet sich ein Indexdatenwert eines Dokuments von den Suchparametern wird dieses Dokument nicht gefunden. Mit Klick auf den Button Suchen wird die Suche ausgeführt und mit einem Klick auf beenden wird der Dialog geschlossen und die Suche abgebrochen. \r\n\r\n\r\n\r\nEnde Funktions-ID: 195 Modul-ID:69",
   "Url": "https://services.topfact.de/wiki/pages/view?g=ae6b817c-5927-442e-a2cf-973f22467799"
 }

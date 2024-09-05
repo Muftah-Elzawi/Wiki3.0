@@ -1,7 +1,7 @@
 {
   "PageID": 36036,
   "PageGuid": "f3e7b454-4ad8-4a49-b6bf-8aebce85256d",
-  "Title": "topfact6 Administration - Administration MyWork FiBuConnect - Kostenträger: Hinzufügen",
+  "Title": "\ttopfact6 Administration - Administration MyWork FiBuConnect - Kostenträger: Hinzufügen",
   "Content": "Beginn Funktions-ID: 582 Modul-ID:85\r\nKostenträger: Hinzufügen\r\nÖffnet einen Dialog um einen neuen Kostenträger anzulegen. \r\n\r\n\r\n\r\nParameter der Funktion\r\nOrganisation\r\n-> Der Kostenträger wird mit der Organisation verknüpft.\r\nMandant\r\n-> Auswahl eines Mandanten. Mandanten werden abhängig von der Organisation geladen. \r\nNummer\r\n-> Die Kostenträgernummer des Kostenträgers.\r\nBenennung\r\n-> Bezeichnung des Kostenträgers.\r\nBeschreibung\r\n-> Anlegen einer Beschreibung für den Kostenträger.\r\nEnde Funktions-ID: 582 Modul-ID:85",
   "Url": "https://services.topfact.de/wiki/pages/view?g=f3e7b454-4ad8-4a49-b6bf-8aebce85256d"
 }
